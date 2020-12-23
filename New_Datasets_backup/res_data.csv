@@ -1,0 +1,1681 @@
+RecordID,Country,Gender,Residence,Question Type,Value
+1,Afghanistan,F,Rural,1,18.1
+1,Afghanistan,F,Urban,1,18.3
+1,Afghanistan,M,Urban,1,4.6
+1,Afghanistan,M,Rural,1,9.7
+351,Afghanistan,F,Rural,2,82.1
+351,Afghanistan,F,Urban,2,74.0
+71,Afghanistan,F,Rural,3,60.6
+71,Afghanistan,F,Urban,3,54.7
+141,Afghanistan,F,Rural,4,69.3
+141,Afghanistan,F,Urban,4,58.9
+211,Afghanistan,F,Rural,5,48.9
+211,Afghanistan,F,Urban,5,46.7
+281,Afghanistan,F,Rural,6,35.2
+281,Afghanistan,F,Urban,6,27.4
+351,Afghanistan,M,Rural,2,76.1
+351,Afghanistan,M,Urban,2,59.9
+71,Afghanistan,M,Rural,3,47.0
+71,Afghanistan,M,Urban,3,40.4
+141,Afghanistan,M,Rural,4,65.6
+141,Afghanistan,M,Urban,4,46.0
+211,Afghanistan,M,Rural,5,28.1
+211,Afghanistan,M,Urban,5,19.6
+281,Afghanistan,M,Rural,6,21.9
+281,Afghanistan,M,Urban,6,12.0
+2,Albania,F,Urban,1,0.4
+2,Albania,F,Rural,1,1.4
+2,Albania,M,Rural,1,0.5
+2,Albania,M,Urban,1,0.5
+352,Albania,F,Rural,2,10.3
+352,Albania,F,Urban,2,4.5
+72,Albania,F,Rural,3,3.1
+72,Albania,F,Urban,3,0.9
+142,Albania,F,Rural,4,5.7
+142,Albania,F,Urban,4,2.3
+212,Albania,F,Rural,5,7.7
+212,Albania,F,Urban,5,3.6
+282,Albania,F,Rural,6,1.6
+282,Albania,F,Urban,6,0.5
+352,Albania,M,Rural,2,12.9
+352,Albania,M,Urban,2,10.2
+72,Albania,M,Rural,3,3.2
+72,Albania,M,Urban,3,4.7
+142,Albania,M,Rural,4,7.4
+142,Albania,M,Urban,4,5.9
+212,Albania,M,Rural,5,8.9
+212,Albania,M,Urban,5,7.4
+282,Albania,M,Rural,6,2.2
+282,Albania,M,Urban,6,2.0
+3,Angola,F,Urban,1,6.9
+3,Angola,F,Rural,1,19.0
+3,Angola,M,Urban,1,4.9
+3,Angola,M,Rural,1,8.9
+353,Angola,F,Rural,2,37.4
+353,Angola,F,Urban,2,19.8
+73,Angola,F,Rural,3,26.2
+73,Angola,F,Urban,3,10.4
+143,Angola,F,Rural,4,22.9
+143,Angola,F,Urban,4,10.8
+213,Angola,F,Rural,5,24.7
+213,Angola,F,Urban,5,12.6
+283,Angola,F,Rural,6,21.3
+283,Angola,F,Urban,6,7.2
+353,Angola,M,Rural,2,26.7
+353,Angola,M,Urban,2,17.5
+73,Angola,M,Rural,3,15.7
+73,Angola,M,Urban,3,8.9
+143,Angola,M,Rural,4,11.2
+143,Angola,M,Urban,4,7.1
+213,Angola,M,Rural,5,18.0
+213,Angola,M,Urban,5,9.2
+283,Angola,M,Rural,6,9.3
+283,Angola,M,Urban,6,4.1
+4,Armenia,F,Urban,1,0.1
+4,Armenia,F,Rural,1,0.8
+4,Armenia,M,Rural,1,0.7
+4,Armenia,M,Urban,1,0.7
+354,Armenia,F,Rural,2,15.7
+354,Armenia,F,Urban,2,6.3
+74,Armenia,F,Rural,3,10.2
+74,Armenia,F,Urban,3,3.4
+144,Armenia,F,Rural,4,9.3
+144,Armenia,F,Urban,4,2.5
+214,Armenia,F,Rural,5,13.4
+214,Armenia,F,Urban,5,5.4
+284,Armenia,F,Rural,6,1.2
+284,Armenia,F,Urban,6,0.5
+354,Armenia,M,Rural,2,32.3
+354,Armenia,M,Urban,2,15.1
+74,Armenia,M,Rural,3,24.7
+74,Armenia,M,Urban,3,9.5
+144,Armenia,M,Rural,4,17.7
+144,Armenia,M,Urban,4,7.1
+214,Armenia,M,Rural,5,23.9
+214,Armenia,M,Urban,5,12.0
+284,Armenia,M,Rural,6,2.2
+284,Armenia,M,Urban,6,1.2
+5,Azerbaijan,F,Urban,1,5.8
+5,Azerbaijan,F,Rural,1,20.3
+5,Azerbaijan,M,Urban,1,3.3
+5,Azerbaijan,M,Rural,1,11.8
+355,Azerbaijan,F,Rural,2,60.6
+355,Azerbaijan,F,Urban,2,40.0
+75,Azerbaijan,F,Rural,3,42.4
+75,Azerbaijan,F,Urban,3,22.8
+145,Azerbaijan,F,Rural,4,54.3
+145,Azerbaijan,F,Urban,4,33.4
+215,Azerbaijan,F,Rural,5,47.3
+215,Azerbaijan,F,Urban,5,24.8
+285,Azerbaijan,F,Rural,6,21.5
+285,Azerbaijan,F,Urban,6,8.6
+355,Azerbaijan,M,Rural,2,62.2
+355,Azerbaijan,M,Urban,2,55.4
+75,Azerbaijan,M,Rural,3,52.5
+75,Azerbaijan,M,Urban,3,51.1
+145,Azerbaijan,M,Rural,4,43.9
+145,Azerbaijan,M,Urban,4,37.1
+215,Azerbaijan,M,Rural,5,45.4
+215,Azerbaijan,M,Urban,5,26.4
+285,Azerbaijan,M,Rural,6,17.2
+285,Azerbaijan,M,Urban,6,7.4
+6,Bangladesh,F,Urban,1,2.8
+6,Bangladesh,F,Rural,1,4.9
+6,Bangladesh,M,Rural,1,0.0
+6,Bangladesh,M,Urban,1,0.0
+356,Bangladesh,F,Rural,2,29.6
+356,Bangladesh,F,Urban,2,24.8
+76,Bangladesh,F,Rural,3,21.1
+76,Bangladesh,F,Urban,3,17.1
+146,Bangladesh,F,Rural,4,15.3
+146,Bangladesh,F,Urban,4,12.2
+216,Bangladesh,F,Rural,5,15.6
+216,Bangladesh,F,Urban,5,13.1
+286,Bangladesh,F,Rural,6,7.8
+286,Bangladesh,F,Urban,6,5.8
+356,Bangladesh,M,Rural,2,0.0
+356,Bangladesh,M,Urban,2,0.0
+76,Bangladesh,M,Rural,3,0.0
+76,Bangladesh,M,Urban,3,0.0
+146,Bangladesh,M,Rural,4,0.0
+146,Bangladesh,M,Urban,4,0.0
+216,Bangladesh,M,Rural,5,0.0
+216,Bangladesh,M,Urban,5,0.0
+286,Bangladesh,M,Rural,6,0.0
+286,Bangladesh,M,Urban,6,0.0
+7,Benin,F,Urban,1,11.2
+7,Benin,F,Rural,1,15.9
+7,Benin,M,Urban,1,3.7
+7,Benin,M,Rural,1,9.2
+357,Benin,F,Rural,2,36.6
+357,Benin,F,Urban,2,25.4
+77,Benin,F,Rural,3,24.3
+77,Benin,F,Urban,3,16.2
+147,Benin,F,Rural,4,24.5
+147,Benin,F,Urban,4,16.9
+217,Benin,F,Rural,5,26.0
+217,Benin,F,Urban,5,18.0
+287,Benin,F,Rural,6,14.4
+287,Benin,F,Urban,6,10.6
+357,Benin,M,Rural,2,19.0
+357,Benin,M,Urban,2,10.8
+77,Benin,M,Rural,3,12.7
+77,Benin,M,Urban,3,5.7
+147,Benin,M,Rural,4,10.4
+147,Benin,M,Urban,4,6.7
+217,Benin,M,Rural,5,12.1
+217,Benin,M,Urban,5,5.7
+287,Benin,M,Rural,6,8.8
+287,Benin,M,Urban,6,4.6
+8,Bolivia,F,Urban,1,2.2
+8,Bolivia,F,Rural,1,5.4
+8,Bolivia,M,Rural,1,0.0
+8,Bolivia,M,Urban,1,0.0
+358,Bolivia,F,Rural,2,20.1
+358,Bolivia,F,Urban,2,14.0
+78,Bolivia,F,Rural,3,7.7
+78,Bolivia,F,Urban,3,4.0
+148,Bolivia,F,Rural,4,9.1
+148,Bolivia,F,Urban,4,4.3
+218,Bolivia,F,Rural,5,14.4
+218,Bolivia,F,Urban,5,11.2
+288,Bolivia,F,Rural,6,3.5
+288,Bolivia,F,Urban,6,1.6
+358,Bolivia,M,Rural,2,0.0
+358,Bolivia,M,Urban,2,0.0
+78,Bolivia,M,Rural,3,0.0
+78,Bolivia,M,Urban,3,0.0
+148,Bolivia,M,Rural,4,0.0
+148,Bolivia,M,Urban,4,0.0
+218,Bolivia,M,Rural,5,0.0
+218,Bolivia,M,Urban,5,0.0
+288,Bolivia,M,Rural,6,0.0
+288,Bolivia,M,Urban,6,0.0
+9,Burkina Faso,F,Urban,1,5.9
+9,Burkina Faso,F,Rural,1,11.2
+9,Burkina Faso,M,Urban,1,6.2
+9,Burkina Faso,M,Rural,1,8.0
+359,Burkina Faso,F,Rural,2,47.0
+359,Burkina Faso,F,Urban,2,33.9
+79,Burkina Faso,F,Rural,3,34.5
+79,Burkina Faso,F,Urban,3,20.9
+149,Burkina Faso,F,Rural,4,34.3
+149,Burkina Faso,F,Urban,4,19.6
+219,Burkina Faso,F,Rural,5,33.3
+219,Burkina Faso,F,Urban,5,22.6
+289,Burkina Faso,F,Rural,6,22.5
+289,Burkina Faso,F,Urban,6,12.0
+359,Burkina Faso,M,Rural,2,38.9
+359,Burkina Faso,M,Urban,2,22.8
+79,Burkina Faso,M,Rural,3,23.3
+79,Burkina Faso,M,Urban,3,12.3
+149,Burkina Faso,M,Rural,4,20.9
+149,Burkina Faso,M,Urban,4,10.1
+219,Burkina Faso,M,Rural,5,22.6
+219,Burkina Faso,M,Urban,5,14.1
+289,Burkina Faso,M,Rural,6,13.2
+289,Burkina Faso,M,Urban,6,5.4
+10,Burundi,F,Urban,1,11.1
+10,Burundi,F,Rural,1,23.6
+10,Burundi,M,Urban,1,2.4
+10,Burundi,M,Rural,1,5.4
+360,Burundi,F,Rural,2,64.0
+360,Burundi,F,Urban,2,46.5
+80,Burundi,F,Rural,3,32.1
+80,Burundi,F,Urban,3,17.0
+150,Burundi,F,Rural,4,41.2
+150,Burundi,F,Urban,4,25.8
+220,Burundi,F,Rural,5,53.6
+220,Burundi,F,Urban,5,39.2
+290,Burundi,F,Rural,6,44.1
+290,Burundi,F,Urban,6,25.9
+360,Burundi,M,Rural,2,36.5
+360,Burundi,M,Urban,2,26.1
+80,Burundi,M,Rural,3,10.9
+80,Burundi,M,Urban,3,6.1
+150,Burundi,M,Rural,4,18.1
+150,Burundi,M,Urban,4,12.1
+220,Burundi,M,Rural,5,27.2
+220,Burundi,M,Urban,5,19.9
+290,Burundi,M,Rural,6,14.4
+290,Burundi,M,Urban,6,8.1
+11,Cambodia,F,Urban,1,6.5
+11,Cambodia,F,Rural,1,12.9
+11,Cambodia,M,Urban,1,1.0
+11,Cambodia,M,Rural,1,2.0
+361,Cambodia,F,Rural,2,52.7
+361,Cambodia,F,Urban,2,37.0
+81,Cambodia,F,Rural,3,26.0
+81,Cambodia,F,Urban,3,14.4
+151,Cambodia,F,Rural,4,33.5
+151,Cambodia,F,Urban,4,21.5
+221,Cambodia,F,Rural,5,46.2
+221,Cambodia,F,Urban,5,32.7
+291,Cambodia,F,Rural,6,14.2
+291,Cambodia,F,Urban,6,6.3
+361,Cambodia,M,Rural,2,28.8
+361,Cambodia,M,Urban,2,12.6
+81,Cambodia,M,Rural,3,12.6
+81,Cambodia,M,Urban,3,4.3
+151,Cambodia,M,Rural,4,13.9
+151,Cambodia,M,Urban,4,5.6
+221,Cambodia,M,Rural,5,21.3
+221,Cambodia,M,Urban,5,8.3
+291,Cambodia,M,Rural,6,4.3
+291,Cambodia,M,Urban,6,1.6
+12,Cameroon,F,Urban,1,8.6
+12,Cameroon,F,Rural,1,19.5
+12,Cameroon,M,Urban,1,5.9
+12,Cameroon,M,Rural,1,12.9
+362,Cameroon,F,Rural,2,53.9
+362,Cameroon,F,Urban,2,40.1
+82,Cameroon,F,Rural,3,28.1
+82,Cameroon,F,Urban,3,14.4
+152,Cameroon,F,Rural,4,34.3
+152,Cameroon,F,Urban,4,19.9
+222,Cameroon,F,Rural,5,42.4
+222,Cameroon,F,Urban,5,33.1
+292,Cameroon,F,Rural,6,20.7
+292,Cameroon,F,Urban,6,8.4
+362,Cameroon,M,Rural,2,43.5
+362,Cameroon,M,Urban,2,34.9
+82,Cameroon,M,Rural,3,22.8
+82,Cameroon,M,Urban,3,13.6
+152,Cameroon,M,Rural,4,27.0
+152,Cameroon,M,Urban,4,16.7
+222,Cameroon,M,Rural,5,32.3
+222,Cameroon,M,Urban,5,26.2
+292,Cameroon,M,Rural,6,11.6
+292,Cameroon,M,Urban,6,4.6
+13,Chad,F,Urban,1,45.9
+13,Chad,F,Rural,1,49.4
+13,Chad,M,Urban,1,21.6
+13,Chad,M,Rural,1,30.0
+363,Chad,F,Rural,2,73.5
+363,Chad,F,Urban,2,73.8
+83,Chad,F,Rural,3,50.2
+83,Chad,F,Urban,3,48.4
+153,Chad,F,Rural,4,59.9
+153,Chad,F,Urban,4,56.2
+223,Chad,F,Rural,5,60.1
+223,Chad,F,Urban,5,58.8
+293,Chad,F,Rural,6,42.6
+293,Chad,F,Urban,6,34.2
+363,Chad,M,Rural,2,51.6
+363,Chad,M,Urban,2,47.9
+83,Chad,M,Rural,3,23.3
+83,Chad,M,Urban,3,19.8
+153,Chad,M,Rural,4,28.9
+153,Chad,M,Urban,4,26.3
+223,Chad,M,Rural,5,38.0
+223,Chad,M,Urban,5,34.6
+293,Chad,M,Rural,6,26.1
+293,Chad,M,Urban,6,18.2
+14,Colombia,F,Urban,1,1.1
+14,Colombia,F,Rural,1,1.5
+14,Colombia,M,Urban,1,0.9
+14,Colombia,M,Rural,1,2.0
+364,Colombia,F,Rural,2,5.8
+364,Colombia,F,Urban,2,2.4
+84,Colombia,F,Rural,3,1.6
+84,Colombia,F,Urban,3,1.2
+154,Colombia,F,Rural,4,1.8
+154,Colombia,F,Urban,4,1.1
+224,Colombia,F,Rural,5,4.3
+224,Colombia,F,Urban,5,1.9
+294,Colombia,F,Rural,6,1.4
+294,Colombia,F,Urban,6,1.0
+364,Colombia,M,Rural,2,6.8
+364,Colombia,M,Urban,2,3.4
+84,Colombia,M,Rural,3,2.2
+84,Colombia,M,Urban,3,1.2
+154,Colombia,M,Rural,4,2.6
+154,Colombia,M,Urban,4,1.1
+224,Colombia,M,Rural,5,5.0
+224,Colombia,M,Urban,5,2.4
+294,Colombia,M,Rural,6,2.1
+294,Colombia,M,Urban,6,1.1
+15,Comoros,F,Urban,1,7.1
+15,Comoros,F,Rural,1,15.5
+15,Comoros,M,Urban,1,2.3
+15,Comoros,M,Rural,1,3.5
+365,Comoros,F,Rural,2,43.3
+365,Comoros,F,Urban,2,30.3
+85,Comoros,F,Rural,3,18.0
+85,Comoros,F,Urban,3,11.0
+155,Comoros,F,Rural,4,31.3
+155,Comoros,F,Urban,4,22.5
+225,Comoros,F,Rural,5,32.7
+225,Comoros,F,Urban,5,23.8
+295,Comoros,F,Rural,6,23.4
+295,Comoros,F,Urban,6,13.1
+365,Comoros,M,Rural,2,18.9
+365,Comoros,M,Urban,2,14.3
+85,Comoros,M,Rural,3,7.7
+85,Comoros,M,Urban,3,5.1
+155,Comoros,M,Rural,4,7.8
+155,Comoros,M,Urban,4,5.5
+225,Comoros,M,Rural,5,9.3
+225,Comoros,M,Urban,5,5.5
+295,Comoros,M,Rural,6,8.3
+295,Comoros,M,Urban,6,7.5
+16,Congo,F,Rural,1,0.0
+16,Congo,F,Urban,1,0.0
+16,Congo,M,Rural,1,0.0
+16,Congo,M,Urban,1,0.0
+366,Congo,F,Rural,2,60.9
+366,Congo,F,Urban,2,60.6
+86,Congo,F,Rural,3,0.0
+86,Congo,F,Urban,3,0.0
+156,Congo,F,Rural,4,42.3
+156,Congo,F,Urban,4,40.2
+226,Congo,F,Rural,5,46.9
+226,Congo,F,Urban,5,46.7
+296,Congo,F,Rural,6,33.3
+296,Congo,F,Urban,6,23.1
+366,Congo,M,Rural,2,43.1
+366,Congo,M,Urban,2,42.7
+86,Congo,M,Rural,3,0.0
+86,Congo,M,Urban,3,0.0
+156,Congo,M,Rural,4,25.1
+156,Congo,M,Urban,4,21.0
+226,Congo,M,Rural,5,29.8
+226,Congo,M,Urban,5,31.7
+296,Congo,M,Rural,6,16.8
+296,Congo,M,Urban,6,11.6
+17,Congo Democratic Republic,F,Urban,1,20.8
+17,Congo Democratic Republic,F,Rural,1,26.6
+17,Congo Democratic Republic,M,Urban,1,11.7
+17,Congo Democratic Republic,M,Rural,1,17.2
+367,Congo Democratic Republic,F,Rural,2,75.7
+367,Congo Democratic Republic,F,Urban,2,73.2
+87,Congo Democratic Republic,F,Rural,3,60.0
+87,Congo Democratic Republic,F,Urban,3,54.0
+157,Congo Democratic Republic,F,Rural,4,51.6
+157,Congo Democratic Republic,F,Urban,4,45.1
+227,Congo Democratic Republic,F,Rural,5,51.4
+227,Congo Democratic Republic,F,Urban,5,51.5
+297,Congo Democratic Republic,F,Rural,6,48.4
+297,Congo Democratic Republic,F,Urban,6,35.6
+367,Congo Democratic Republic,M,Rural,2,61.4
+367,Congo Democratic Republic,M,Urban,2,60.4
+87,Congo Democratic Republic,M,Rural,3,44.2
+87,Congo Democratic Republic,M,Urban,3,38.9
+157,Congo Democratic Republic,M,Rural,4,34.7
+157,Congo Democratic Republic,M,Urban,4,29.0
+227,Congo Democratic Republic,M,Rural,5,40.3
+227,Congo Democratic Republic,M,Urban,5,39.8
+297,Congo Democratic Republic,M,Rural,6,27.7
+297,Congo Democratic Republic,M,Urban,6,16.1
+18,Cote d'Ivoire,F,Urban,1,12.8
+18,Cote d'Ivoire,F,Rural,1,20.1
+18,Cote d'Ivoire,M,Rural,1,12.3
+18,Cote d'Ivoire,M,Urban,1,12.8
+368,Cote d'Ivoire,F,Rural,2,53.1
+368,Cote d'Ivoire,F,Urban,2,43.0
+88,Cote d'Ivoire,F,Rural,3,39.7
+88,Cote d'Ivoire,F,Urban,3,29.2
+158,Cote d'Ivoire,F,Rural,4,32.6
+158,Cote d'Ivoire,F,Urban,4,20.8
+228,Cote d'Ivoire,F,Rural,5,36.6
+228,Cote d'Ivoire,F,Urban,5,29.1
+298,Cote d'Ivoire,F,Rural,6,26.5
+298,Cote d'Ivoire,F,Urban,6,16.8
+368,Cote d'Ivoire,M,Rural,2,43.7
+368,Cote d'Ivoire,M,Urban,2,40.3
+88,Cote d'Ivoire,M,Rural,3,28.1
+88,Cote d'Ivoire,M,Urban,3,23.4
+158,Cote d'Ivoire,M,Rural,4,25.3
+158,Cote d'Ivoire,M,Urban,4,18.9
+228,Cote d'Ivoire,M,Rural,5,29.5
+228,Cote d'Ivoire,M,Urban,5,28.0
+298,Cote d'Ivoire,M,Rural,6,14.7
+298,Cote d'Ivoire,M,Urban,6,9.0
+19,Dominican Republic,F,Urban,1,0.6
+19,Dominican Republic,F,Rural,1,0.7
+19,Dominican Republic,M,Urban,1,0.8
+19,Dominican Republic,M,Rural,1,1.2
+369,Dominican Republic,F,Rural,2,2.6
+369,Dominican Republic,F,Urban,2,2.3
+89,Dominican Republic,F,Rural,3,1.0
+89,Dominican Republic,F,Urban,3,0.6
+159,Dominican Republic,F,Rural,4,0.7
+159,Dominican Republic,F,Urban,4,0.8
+229,Dominican Republic,F,Rural,5,1.8
+229,Dominican Republic,F,Urban,5,1.7
+299,Dominican Republic,F,Rural,6,0.6
+299,Dominican Republic,F,Urban,6,0.3
+369,Dominican Republic,M,Rural,2,4.6
+369,Dominican Republic,M,Urban,2,4.0
+89,Dominican Republic,M,Rural,3,1.2
+89,Dominican Republic,M,Urban,3,1.0
+159,Dominican Republic,M,Rural,4,2.3
+159,Dominican Republic,M,Urban,4,2.2
+229,Dominican Republic,M,Rural,5,2.8
+229,Dominican Republic,M,Urban,5,2.1
+299,Dominican Republic,M,Rural,6,0.9
+299,Dominican Republic,M,Urban,6,0.5
+20,Egypt,F,Urban,1,3.2
+20,Egypt,F,Rural,1,9.0
+20,Egypt,M,Rural,1,0.0
+20,Egypt,M,Urban,1,0.0
+370,Egypt,F,Rural,2,43.9
+370,Egypt,F,Urban,2,20.3
+90,Egypt,F,Rural,3,16.3
+90,Egypt,F,Urban,3,6.2
+160,Egypt,F,Rural,4,31.7
+160,Egypt,F,Urban,4,14.0
+230,Egypt,F,Rural,5,30.1
+230,Egypt,F,Urban,5,13.0
+300,Egypt,F,Rural,6,25.1
+300,Egypt,F,Urban,6,10.2
+370,Egypt,M,Rural,2,0.0
+370,Egypt,M,Urban,2,0.0
+90,Egypt,M,Rural,3,0.0
+90,Egypt,M,Urban,3,0.0
+160,Egypt,M,Rural,4,0.0
+160,Egypt,M,Urban,4,0.0
+230,Egypt,M,Rural,5,0.0
+230,Egypt,M,Urban,5,0.0
+300,Egypt,M,Rural,6,0.0
+300,Egypt,M,Urban,6,0.0
+21,Eritrea,F,Urban,1,22.2
+21,Eritrea,F,Rural,1,34.4
+21,Eritrea,M,Rural,1,0.0
+21,Eritrea,M,Urban,1,0.0
+371,Eritrea,F,Rural,2,77.9
+371,Eritrea,F,Urban,2,61.1
+91,Eritrea,F,Rural,3,55.3
+91,Eritrea,F,Urban,3,30.4
+161,Eritrea,F,Rural,4,61.0
+161,Eritrea,F,Urban,4,39.2
+231,Eritrea,F,Rural,5,56.5
+231,Eritrea,F,Urban,5,43.7
+301,Eritrea,F,Rural,6,58.1
+301,Eritrea,F,Urban,6,34.3
+371,Eritrea,M,Rural,2,0.0
+371,Eritrea,M,Urban,2,0.0
+91,Eritrea,M,Rural,3,0.0
+91,Eritrea,M,Urban,3,0.0
+161,Eritrea,M,Rural,4,0.0
+161,Eritrea,M,Urban,4,0.0
+231,Eritrea,M,Rural,5,0.0
+231,Eritrea,M,Urban,5,0.0
+301,Eritrea,M,Rural,6,0.0
+301,Eritrea,M,Urban,6,0.0
+22,Eswatini,F,Urban,1,1.8
+22,Eswatini,F,Rural,1,3.3
+22,Eswatini,M,Urban,1,1.8
+22,Eswatini,M,Rural,1,5.1
+372,Eswatini,F,Rural,2,27.0
+372,Eswatini,F,Urban,2,12.6
+92,Eswatini,F,Rural,3,19.9
+92,Eswatini,F,Urban,3,9.3
+162,Eswatini,F,Rural,4,11.1
+162,Eswatini,F,Urban,4,4.0
+232,Eswatini,F,Rural,5,13.0
+232,Eswatini,F,Urban,5,6.1
+302,Eswatini,F,Rural,6,3.9
+302,Eswatini,F,Urban,6,1.6
+372,Eswatini,M,Rural,2,35.5
+372,Eswatini,M,Urban,2,20.6
+92,Eswatini,M,Rural,3,26.1
+92,Eswatini,M,Urban,3,14.1
+162,Eswatini,M,Rural,4,17.0
+162,Eswatini,M,Urban,4,9.5
+232,Eswatini,M,Rural,5,17.4
+232,Eswatini,M,Urban,5,9.6
+302,Eswatini,M,Rural,6,4.2
+302,Eswatini,M,Urban,6,2.5
+23,Ethiopia,F,Urban,1,16.3
+23,Ethiopia,F,Rural,1,46.4
+23,Ethiopia,M,Urban,1,3.8
+23,Ethiopia,M,Rural,1,13.6
+373,Ethiopia,F,Rural,2,69.8
+373,Ethiopia,F,Urban,2,39.2
+93,Ethiopia,F,Rural,3,48.1
+93,Ethiopia,F,Urban,3,21.1
+163,Ethiopia,F,Rural,4,49.0
+163,Ethiopia,F,Urban,4,23.6
+233,Ethiopia,F,Rural,5,52.7
+233,Ethiopia,F,Urban,5,29.0
+303,Ethiopia,F,Rural,6,40.2
+303,Ethiopia,F,Urban,6,15.4
+373,Ethiopia,M,Rural,2,30.8
+373,Ethiopia,M,Urban,2,15.1
+93,Ethiopia,M,Rural,3,18.4
+93,Ethiopia,M,Urban,3,6.3
+163,Ethiopia,M,Rural,4,19.2
+163,Ethiopia,M,Urban,4,7.2
+233,Ethiopia,M,Rural,5,21.2
+233,Ethiopia,M,Urban,5,10.6
+303,Ethiopia,M,Rural,6,14.3
+303,Ethiopia,M,Urban,6,5.9
+24,Gabon,F,Urban,1,9.5
+24,Gabon,F,Rural,1,19.1
+24,Gabon,M,Urban,1,6.8
+24,Gabon,M,Rural,1,6.9
+374,Gabon,F,Rural,2,60.9
+374,Gabon,F,Urban,2,48.9
+94,Gabon,F,Rural,3,38.7
+94,Gabon,F,Urban,3,24.5
+164,Gabon,F,Rural,4,33.3
+164,Gabon,F,Urban,4,17.2
+234,Gabon,F,Rural,5,49.7
+234,Gabon,F,Urban,5,39.0
+304,Gabon,F,Rural,6,16.2
+304,Gabon,F,Urban,6,7.9
+374,Gabon,M,Rural,2,46.5
+374,Gabon,M,Urban,2,38.7
+94,Gabon,M,Rural,3,22.0
+94,Gabon,M,Urban,3,19.2
+164,Gabon,M,Rural,4,16.3
+164,Gabon,M,Urban,4,13.7
+234,Gabon,M,Rural,5,35.4
+234,Gabon,M,Urban,5,28.1
+304,Gabon,M,Rural,6,6.7
+304,Gabon,M,Urban,6,5.8
+25,Gambia,F,Urban,1,4.8
+25,Gambia,F,Rural,1,18.0
+25,Gambia,M,Urban,1,4.2
+25,Gambia,M,Rural,1,9.7
+375,Gambia,F,Rural,2,72.7
+375,Gambia,F,Urban,2,47.1
+95,Gambia,F,Rural,3,37.2
+95,Gambia,F,Urban,3,13.8
+165,Gambia,F,Rural,4,57.7
+165,Gambia,F,Urban,4,29.7
+235,Gambia,F,Rural,5,50.4
+235,Gambia,F,Urban,5,23.4
+305,Gambia,F,Rural,6,59.5
+305,Gambia,F,Urban,6,33.1
+375,Gambia,M,Rural,2,40.8
+375,Gambia,M,Urban,2,28.3
+95,Gambia,M,Rural,3,15.6
+95,Gambia,M,Urban,3,8.8
+165,Gambia,M,Rural,4,27.2
+165,Gambia,M,Urban,4,17.0
+235,Gambia,M,Rural,5,24.4
+235,Gambia,M,Urban,5,15.6
+305,Gambia,M,Rural,6,24.7
+305,Gambia,M,Urban,6,16.0
+26,Ghana,F,Urban,1,4.5
+26,Ghana,F,Rural,1,10.8
+26,Ghana,M,Urban,1,2.0
+26,Ghana,M,Rural,1,3.9
+376,Ghana,F,Rural,2,36.7
+376,Ghana,F,Urban,2,21.0
+96,Ghana,F,Rural,3,22.2
+96,Ghana,F,Urban,3,10.0
+166,Ghana,F,Rural,4,22.4
+166,Ghana,F,Urban,4,11.4
+236,Ghana,F,Rural,5,28.1
+236,Ghana,F,Urban,5,14.8
+306,Ghana,F,Rural,6,18.0
+306,Ghana,F,Urban,6,7.2
+376,Ghana,M,Rural,2,16.9
+376,Ghana,M,Urban,2,9.4
+96,Ghana,M,Rural,3,7.9
+96,Ghana,M,Urban,3,4.0
+166,Ghana,M,Rural,4,9.0
+166,Ghana,M,Urban,4,4.6
+236,Ghana,M,Rural,5,11.4
+236,Ghana,M,Urban,5,5.8
+306,Ghana,M,Rural,6,6.6
+306,Ghana,M,Urban,6,3.2
+27,Guatemala,F,Urban,1,1.8
+27,Guatemala,F,Rural,1,6.1
+27,Guatemala,M,Urban,1,1.1
+27,Guatemala,M,Rural,1,1.4
+377,Guatemala,F,Rural,2,14.9
+377,Guatemala,F,Urban,2,6.3
+97,Guatemala,F,Rural,3,4.7
+97,Guatemala,F,Urban,3,1.5
+167,Guatemala,F,Rural,4,5.1
+167,Guatemala,F,Urban,4,1.7
+237,Guatemala,F,Rural,5,10.0
+237,Guatemala,F,Urban,5,4.6
+307,Guatemala,F,Rural,6,3.4
+307,Guatemala,F,Urban,6,1.2
+377,Guatemala,M,Rural,2,8.3
+377,Guatemala,M,Urban,2,6.1
+97,Guatemala,M,Rural,3,3.1
+97,Guatemala,M,Urban,3,1.9
+167,Guatemala,M,Rural,4,2.6
+167,Guatemala,M,Urban,4,1.4
+237,Guatemala,M,Rural,5,4.8
+237,Guatemala,M,Urban,5,3.7
+307,Guatemala,M,Rural,6,1.6
+307,Guatemala,M,Urban,6,1.3
+28,Guinea,F,Urban,1,15.9
+28,Guinea,F,Rural,1,28.2
+28,Guinea,M,Urban,1,13.9
+28,Guinea,M,Rural,1,19.2
+378,Guinea,F,Rural,2,70.8
+378,Guinea,F,Urban,2,61.3
+98,Guinea,F,Rural,3,54.4
+98,Guinea,F,Urban,3,40.0
+168,Guinea,F,Rural,4,58.9
+168,Guinea,F,Urban,4,45.4
+238,Guinea,F,Rural,5,56.1
+238,Guinea,F,Urban,5,46.1
+308,Guinea,F,Rural,6,52.2
+308,Guinea,F,Urban,6,40.1
+378,Guinea,M,Rural,2,60.4
+378,Guinea,M,Urban,2,48.8
+98,Guinea,M,Rural,3,38.0
+98,Guinea,M,Urban,3,25.0
+168,Guinea,M,Rural,4,43.6
+168,Guinea,M,Urban,4,29.9
+238,Guinea,M,Rural,5,47.7
+238,Guinea,M,Urban,5,37.6
+308,Guinea,M,Rural,6,29.2
+308,Guinea,M,Urban,6,20.7
+29,Guyana,F,Urban,1,1.3
+29,Guyana,F,Rural,1,4.4
+29,Guyana,M,Urban,1,2.3
+29,Guyana,M,Rural,1,4.4
+379,Guyana,F,Rural,2,19.6
+379,Guyana,F,Urban,2,8.4
+99,Guyana,F,Rural,3,8.5
+99,Guyana,F,Urban,3,2.3
+169,Guyana,F,Rural,4,7.4
+169,Guyana,F,Urban,4,1.7
+239,Guyana,F,Rural,5,14.0
+239,Guyana,F,Urban,5,6.0
+309,Guyana,F,Rural,6,5.7
+309,Guyana,F,Urban,6,1.2
+379,Guyana,M,Rural,2,21.5
+379,Guyana,M,Urban,2,13.2
+99,Guyana,M,Rural,3,9.0
+99,Guyana,M,Urban,3,4.6
+169,Guyana,M,Rural,4,8.0
+169,Guyana,M,Urban,4,3.4
+239,Guyana,M,Rural,5,15.0
+239,Guyana,M,Urban,5,8.5
+309,Guyana,M,Rural,6,4.0
+309,Guyana,M,Urban,6,2.3
+30,Haiti,F,Urban,1,2.8
+30,Haiti,F,Rural,1,4.9
+30,Haiti,M,Urban,1,1.6
+30,Haiti,M,Rural,1,1.9
+380,Haiti,F,Rural,2,19.4
+380,Haiti,F,Urban,2,13.4
+100,Haiti,F,Rural,3,3.1
+100,Haiti,F,Urban,3,1.8
+170,Haiti,F,Rural,4,13.7
+170,Haiti,F,Urban,4,8.2
+240,Haiti,F,Rural,5,11.7
+240,Haiti,F,Urban,5,8.2
+310,Haiti,F,Rural,6,6.4
+310,Haiti,F,Urban,6,2.9
+380,Haiti,M,Rural,2,10.5
+380,Haiti,M,Urban,2,11.3
+100,Haiti,M,Rural,3,1.4
+100,Haiti,M,Urban,3,1.8
+170,Haiti,M,Rural,4,7.0
+170,Haiti,M,Urban,4,6.5
+240,Haiti,M,Rural,5,5.2
+240,Haiti,M,Urban,5,7.2
+310,Haiti,M,Rural,6,3.1
+310,Haiti,M,Urban,6,1.8
+31,Honduras,F,Urban,1,2.3
+31,Honduras,F,Rural,1,6.6
+31,Honduras,M,Urban,1,1.8
+31,Honduras,M,Rural,1,4.2
+381,Honduras,F,Rural,2,16.7
+381,Honduras,F,Urban,2,8.6
+101,Honduras,F,Rural,3,7.0
+101,Honduras,F,Urban,3,3.0
+171,Honduras,F,Rural,4,6.6
+171,Honduras,F,Urban,4,2.4
+241,Honduras,F,Rural,5,12.7
+241,Honduras,F,Urban,5,6.7
+311,Honduras,F,Rural,6,3.4
+311,Honduras,F,Urban,6,1.4
+381,Honduras,M,Rural,2,11.9
+381,Honduras,M,Urban,2,7.8
+101,Honduras,M,Rural,3,4.8
+101,Honduras,M,Urban,3,3.3
+171,Honduras,M,Rural,4,4.1
+171,Honduras,M,Urban,4,2.0
+241,Honduras,M,Rural,5,8.9
+241,Honduras,M,Urban,5,5.4
+311,Honduras,M,Rural,6,3.0
+311,Honduras,M,Urban,6,1.8
+32,India,F,Urban,1,15.2
+32,India,F,Rural,1,21.4
+32,India,M,Urban,1,8.7
+32,India,M,Rural,1,11.1
+382,India,F,Rural,2,47.4
+382,India,F,Urban,2,39.8
+102,India,F,Rural,3,32.0
+102,India,F,Urban,3,24.0
+172,India,F,Rural,4,27.7
+172,India,F,Urban,4,23.3
+242,India,F,Rural,5,34.5
+242,India,F,Urban,5,29.7
+312,India,F,Rural,6,14.6
+312,India,F,Urban,6,11.0
+382,India,M,Rural,2,34.1
+382,India,M,Urban,2,28.4
+102,India,M,Rural,3,22.2
+102,India,M,Urban,3,17.6
+172,India,M,Rural,4,17.2
+172,India,M,Urban,4,13.9
+242,India,M,Rural,5,21.0
+242,India,M,Urban,5,18.0
+312,India,M,Rural,6,9.8
+312,India,M,Urban,6,7.8
+33,Indonesia,F,Urban,1,1.2
+33,Indonesia,F,Rural,1,4.0
+33,Indonesia,M,Urban,1,0.6
+33,Indonesia,M,Rural,1,1.1
+383,Indonesia,F,Rural,2,39.6
+383,Indonesia,F,Urban,2,29.8
+103,Indonesia,F,Rural,3,7.8
+103,Indonesia,F,Urban,3,3.7
+173,Indonesia,F,Rural,4,29.3
+173,Indonesia,F,Urban,4,19.2
+243,Indonesia,F,Rural,5,31.1
+243,Indonesia,F,Urban,5,23.8
+313,Indonesia,F,Rural,6,11.5
+313,Indonesia,F,Urban,6,6.6
+383,Indonesia,M,Rural,2,20.7
+383,Indonesia,M,Urban,2,16.0
+103,Indonesia,M,Rural,3,4.7
+103,Indonesia,M,Urban,3,2.1
+173,Indonesia,M,Rural,4,13.6
+173,Indonesia,M,Urban,4,10.9
+243,Indonesia,M,Rural,5,14.5
+243,Indonesia,M,Urban,5,10.7
+313,Indonesia,M,Rural,6,4.3
+313,Indonesia,M,Urban,6,2.1
+34,Jordan,F,Urban,1,2.3
+384,Jordan,F,Rural,2,17.1
+384,Jordan,F,Urban,2,13.8
+104,Jordan,F,Rural,3,7.9
+104,Jordan,F,Urban,3,5.7
+34,Jordan,F,Rural,1,2.7
+174,Jordan,F,Rural,4,8.9
+174,Jordan,F,Urban,4,7.0
+244,Jordan,F,Rural,5,8.7
+244,Jordan,F,Urban,5,6.5
+314,Jordan,F,Rural,6,0.0
+314,Jordan,F,Urban,6,0.0
+384,Jordan,M,Rural,2,44.3
+384,Jordan,M,Urban,2,28.5
+104,Jordan,M,Rural,3,27.3
+104,Jordan,M,Urban,3,16.4
+34,Jordan,M,Rural,1,14.3
+34,Jordan,M,Urban,1,7.6
+174,Jordan,M,Rural,4,29.6
+174,Jordan,M,Urban,4,17.2
+244,Jordan,M,Rural,5,24.4
+244,Jordan,M,Urban,5,11.8
+314,Jordan,M,Rural,6,0.0
+314,Jordan,M,Urban,6,0.0
+385,Kenya,F,Rural,2,49.1
+385,Kenya,F,Urban,2,31.0
+105,Kenya,F,Rural,3,25.9
+105,Kenya,F,Urban,3,13.8
+35,Kenya,F,Rural,1,9.5
+35,Kenya,F,Urban,1,3.5
+175,Kenya,F,Rural,4,27.1
+175,Kenya,F,Urban,4,13.9
+245,Kenya,F,Rural,5,39.5
+245,Kenya,F,Urban,5,24.2
+315,Kenya,F,Rural,6,19.9
+315,Kenya,F,Urban,6,8.1
+385,Kenya,M,Rural,2,37.0
+385,Kenya,M,Urban,2,35.6
+105,Kenya,M,Rural,3,21.1
+105,Kenya,M,Urban,3,19.8
+35,Kenya,M,Rural,1,5.1
+35,Kenya,M,Urban,1,3.8
+175,Kenya,M,Rural,4,20.4
+175,Kenya,M,Urban,4,16.1
+245,Kenya,M,Rural,5,27.7
+245,Kenya,M,Urban,5,26.9
+315,Kenya,M,Rural,6,10.9
+315,Kenya,M,Urban,6,8.6
+386,Kyrgyz Republic,F,Rural,2,40.7
+386,Kyrgyz Republic,F,Urban,2,22.1
+106,Kyrgyz Republic,F,Rural,3,20.9
+106,Kyrgyz Republic,F,Urban,3,9.8
+36,Kyrgyz Republic,F,Rural,1,7.9
+36,Kyrgyz Republic,F,Urban,1,3.5
+176,Kyrgyz Republic,F,Rural,4,29.2
+176,Kyrgyz Republic,F,Urban,4,12.9
+246,Kyrgyz Republic,F,Rural,5,30.8
+246,Kyrgyz Republic,F,Urban,5,16.9
+316,Kyrgyz Republic,F,Rural,6,9.4
+316,Kyrgyz Republic,F,Urban,6,3.9
+386,Kyrgyz Republic,M,Rural,2,51.5
+386,Kyrgyz Republic,M,Urban,2,48.0
+106,Kyrgyz Republic,M,Rural,3,22.4
+106,Kyrgyz Republic,M,Urban,3,26.3
+36,Kyrgyz Republic,M,Rural,1,4.7
+36,Kyrgyz Republic,M,Urban,1,5.3
+176,Kyrgyz Republic,M,Rural,4,37.1
+176,Kyrgyz Republic,M,Urban,4,33.4
+246,Kyrgyz Republic,M,Rural,5,46.5
+246,Kyrgyz Republic,M,Urban,5,41.2
+316,Kyrgyz Republic,M,Rural,6,5.3
+316,Kyrgyz Republic,M,Urban,6,6.3
+387,Lesotho,F,Rural,2,39.4
+387,Lesotho,F,Urban,2,22.8
+107,Lesotho,F,Rural,3,29.6
+107,Lesotho,F,Urban,3,15.8
+37,Lesotho,F,Rural,1,8.1
+37,Lesotho,F,Urban,1,3.2
+177,Lesotho,F,Rural,4,13.5
+177,Lesotho,F,Urban,4,5.8
+247,Lesotho,F,Rural,5,25.6
+247,Lesotho,F,Urban,5,15.7
+317,Lesotho,F,Rural,6,12.1
+317,Lesotho,F,Urban,6,4.8
+387,Lesotho,M,Rural,2,43.7
+387,Lesotho,M,Urban,2,31.8
+107,Lesotho,M,Rural,3,29.2
+107,Lesotho,M,Urban,3,19.5
+37,Lesotho,M,Rural,1,7.8
+37,Lesotho,M,Urban,1,3.6
+177,Lesotho,M,Rural,4,18.7
+177,Lesotho,M,Urban,4,10.0
+247,Lesotho,M,Rural,5,28.6
+247,Lesotho,M,Urban,5,21.5
+317,Lesotho,M,Rural,6,11.4
+317,Lesotho,M,Urban,6,5.1
+388,Liberia,F,Rural,2,48.5
+388,Liberia,F,Urban,2,38.6
+108,Liberia,F,Rural,3,37.3
+108,Liberia,F,Urban,3,30.4
+38,Liberia,F,Rural,1,9.5
+38,Liberia,F,Urban,1,6.1
+178,Liberia,F,Rural,4,31.1
+178,Liberia,F,Urban,4,26.8
+248,Liberia,F,Rural,5,35.8
+248,Liberia,F,Urban,5,29.9
+318,Liberia,F,Rural,6,12.8
+318,Liberia,F,Urban,6,9.4
+388,Liberia,M,Rural,2,29.5
+388,Liberia,M,Urban,2,20.5
+108,Liberia,M,Rural,3,20.7
+108,Liberia,M,Urban,3,16.3
+38,Liberia,M,Rural,1,3.5
+38,Liberia,M,Urban,1,2.0
+178,Liberia,M,Rural,4,16.4
+178,Liberia,M,Urban,4,12.3
+248,Liberia,M,Rural,5,17.6
+248,Liberia,M,Urban,5,12.4
+318,Liberia,M,Rural,6,5.6
+318,Liberia,M,Urban,6,3.0
+389,Madagascar,F,Rural,2,31.3
+389,Madagascar,F,Urban,2,36.9
+109,Madagascar,F,Rural,3,5.9
+109,Madagascar,F,Urban,3,6.1
+39,Madagascar,F,Rural,1,7.2
+39,Madagascar,F,Urban,1,7.4
+179,Madagascar,F,Rural,4,19.0
+179,Madagascar,F,Urban,4,20.4
+249,Madagascar,F,Rural,5,27.3
+249,Madagascar,F,Urban,5,32.5
+319,Madagascar,F,Rural,6,9.3
+319,Madagascar,F,Urban,6,8.7
+389,Madagascar,M,Rural,2,29.7
+389,Madagascar,M,Urban,2,31.7
+109,Madagascar,M,Rural,3,9.1
+109,Madagascar,M,Urban,3,8.2
+39,Madagascar,M,Rural,1,6.7
+39,Madagascar,M,Urban,1,4.9
+179,Madagascar,M,Rural,4,19.4
+179,Madagascar,M,Urban,4,16.2
+249,Madagascar,M,Rural,5,23.7
+249,Madagascar,M,Urban,5,26.8
+319,Madagascar,M,Rural,6,8.3
+319,Madagascar,M,Urban,6,7.1
+390,Malawi,F,Rural,2,17.6
+390,Malawi,F,Urban,2,10.5
+110,Malawi,F,Rural,3,7.5
+110,Malawi,F,Urban,3,3.3
+40,Malawi,F,Rural,1,6.2
+40,Malawi,F,Urban,1,2.6
+180,Malawi,F,Rural,4,7.5
+180,Malawi,F,Urban,4,4.4
+250,Malawi,F,Rural,5,9.5
+250,Malawi,F,Urban,5,5.4
+320,Malawi,F,Rural,6,9.3
+320,Malawi,F,Urban,6,4.1
+390,Malawi,M,Rural,2,13.9
+390,Malawi,M,Urban,2,9.0
+110,Malawi,M,Rural,3,5.7
+110,Malawi,M,Urban,3,3.4
+40,Malawi,M,Rural,1,2.6
+40,Malawi,M,Urban,1,0.9
+180,Malawi,M,Rural,4,5.1
+180,Malawi,M,Urban,4,3.3
+250,Malawi,M,Rural,5,6.9
+250,Malawi,M,Urban,5,4.2
+320,Malawi,M,Rural,6,5.6
+320,Malawi,M,Urban,6,1.4
+391,Maldives,F,Rural,2,21.1
+391,Maldives,F,Urban,2,23.0
+111,Maldives,F,Rural,3,0.0
+111,Maldives,F,Urban,3,0.0
+41,Maldives,F,Rural,1,0.0
+41,Maldives,F,Urban,1,0.0
+181,Maldives,F,Rural,4,5.2
+181,Maldives,F,Urban,4,3.9
+251,Maldives,F,Rural,5,14.8
+251,Maldives,F,Urban,5,17.4
+321,Maldives,F,Rural,6,10.7
+321,Maldives,F,Urban,6,9.4
+391,Maldives,M,Rural,2,18.5
+391,Maldives,M,Urban,2,16.8
+111,Maldives,M,Rural,3,0.0
+111,Maldives,M,Urban,3,0.0
+41,Maldives,M,Rural,1,0.0
+41,Maldives,M,Urban,1,0.0
+181,Maldives,M,Rural,4,2.9
+181,Maldives,M,Urban,4,1.9
+251,Maldives,M,Rural,5,14.8
+251,Maldives,M,Urban,5,12.6
+321,Maldives,M,Rural,6,5.1
+321,Maldives,M,Urban,6,4.0
+392,Mali,F,Rural,2,81.2
+392,Mali,F,Urban,2,74.4
+112,Mali,F,Rural,3,70.6
+112,Mali,F,Urban,3,62.6
+42,Mali,F,Rural,1,26.1
+42,Mali,F,Urban,1,12.9
+182,Mali,F,Rural,4,57.2
+182,Mali,F,Urban,4,44.3
+252,Mali,F,Rural,5,54.9
+252,Mali,F,Urban,5,42.9
+322,Mali,F,Rural,6,65.8
+322,Mali,F,Urban,6,54.6
+392,Mali,M,Rural,2,52.8
+392,Mali,M,Urban,2,31.1
+112,Mali,M,Rural,3,43.7
+112,Mali,M,Urban,3,23.8
+42,Mali,M,Rural,1,13.7
+42,Mali,M,Urban,1,5.0
+182,Mali,M,Rural,4,25.1
+182,Mali,M,Urban,4,13.6
+252,Mali,M,Rural,5,28.4
+252,Mali,M,Urban,5,16.2
+322,Mali,M,Rural,6,28.7
+322,Mali,M,Urban,6,10.5
+393,Moldova,F,Rural,2,26.1
+393,Moldova,F,Urban,2,13.8
+113,Moldova,F,Rural,3,6.9
+113,Moldova,F,Urban,3,2.7
+43,Moldova,F,Rural,1,6.0
+43,Moldova,F,Urban,1,1.9
+183,Moldova,F,Rural,4,10.4
+183,Moldova,F,Urban,4,3.1
+253,Moldova,F,Rural,5,22.3
+253,Moldova,F,Urban,5,12.0
+323,Moldova,F,Rural,6,4.0
+323,Moldova,F,Urban,6,1.7
+393,Moldova,M,Rural,2,27.5
+393,Moldova,M,Urban,2,16.4
+113,Moldova,M,Rural,3,9.5
+113,Moldova,M,Urban,3,5.1
+43,Moldova,M,Rural,1,2.9
+43,Moldova,M,Urban,1,2.3
+183,Moldova,M,Rural,4,13.6
+183,Moldova,M,Urban,4,5.2
+253,Moldova,M,Rural,5,22.2
+253,Moldova,M,Urban,5,13.7
+323,Moldova,M,Rural,6,4.6
+323,Moldova,M,Urban,6,2.2
+394,Morocco,F,Rural,2,81.9
+394,Morocco,F,Urban,2,52.1
+114,Morocco,F,Rural,3,70.5
+114,Morocco,F,Urban,3,37.9
+44,Morocco,F,Rural,1,40.8
+44,Morocco,F,Urban,1,12.4
+184,Morocco,F,Rural,4,72.4
+184,Morocco,F,Urban,4,34.6
+254,Morocco,F,Rural,5,70.0
+254,Morocco,F,Urban,5,35.9
+324,Morocco,F,Rural,6,61.9
+324,Morocco,F,Urban,6,30.3
+394,Morocco,M,Rural,2,0.0
+394,Morocco,M,Urban,2,0.0
+114,Morocco,M,Rural,3,0.0
+114,Morocco,M,Urban,3,0.0
+44,Morocco,M,Rural,1,0.0
+44,Morocco,M,Urban,1,0.0
+184,Morocco,M,Rural,4,0.0
+184,Morocco,M,Urban,4,0.0
+254,Morocco,M,Rural,5,0.0
+254,Morocco,M,Urban,5,0.0
+324,Morocco,M,Rural,6,0.0
+324,Morocco,M,Urban,6,0.0
+395,Mozambique,F,Rural,2,14.1
+395,Mozambique,F,Urban,2,11.7
+115,Mozambique,F,Rural,3,7.2
+115,Mozambique,F,Urban,3,5.4
+45,Mozambique,F,Rural,1,2.7
+45,Mozambique,F,Urban,1,1.8
+185,Mozambique,F,Rural,4,8.1
+185,Mozambique,F,Urban,4,6.4
+255,Mozambique,F,Rural,5,4.1
+255,Mozambique,F,Urban,5,4.5
+325,Mozambique,F,Rural,6,6.2
+325,Mozambique,F,Urban,6,3.9
+395,Mozambique,M,Rural,2,17.8
+395,Mozambique,M,Urban,2,14.8
+115,Mozambique,M,Rural,3,9.3
+115,Mozambique,M,Urban,3,7.7
+45,Mozambique,M,Rural,1,5.8
+45,Mozambique,M,Urban,1,4.9
+185,Mozambique,M,Rural,4,8.3
+185,Mozambique,M,Urban,4,6.7
+255,Mozambique,M,Rural,5,7.7
+255,Mozambique,M,Urban,5,7.2
+325,Mozambique,M,Rural,6,8.0
+325,Mozambique,M,Urban,6,4.7
+396,Myanmar,F,Rural,2,54.1
+396,Myanmar,F,Urban,2,44.0
+116,Myanmar,F,Rural,3,11.3
+116,Myanmar,F,Urban,3,7.3
+46,Myanmar,F,Rural,1,14.2
+46,Myanmar,F,Urban,1,9.1
+186,Myanmar,F,Rural,4,24.4
+186,Myanmar,F,Urban,4,14.9
+256,Myanmar,F,Rural,5,44.8
+256,Myanmar,F,Urban,5,35.4
+326,Myanmar,F,Rural,6,11.7
+326,Myanmar,F,Urban,6,7.4
+396,Myanmar,M,Rural,2,48.8
+396,Myanmar,M,Urban,2,49.5
+116,Myanmar,M,Rural,3,14.2
+116,Myanmar,M,Urban,3,10.7
+46,Myanmar,M,Rural,1,8.3
+46,Myanmar,M,Urban,1,7.3
+186,Myanmar,M,Rural,4,17.4
+186,Myanmar,M,Urban,4,14.3
+256,Myanmar,M,Rural,5,39.0
+256,Myanmar,M,Urban,5,41.5
+326,Myanmar,M,Rural,6,9.5
+326,Myanmar,M,Urban,6,11.6
+397,Namibia,F,Rural,2,37.0
+397,Namibia,F,Urban,2,21.5
+117,Namibia,F,Rural,3,15.7
+117,Namibia,F,Urban,3,8.4
+47,Namibia,F,Rural,1,15.8
+47,Namibia,F,Urban,1,5.6
+187,Namibia,F,Rural,4,18.6
+187,Namibia,F,Urban,4,8.6
+257,Namibia,F,Rural,5,26.1
+257,Namibia,F,Urban,5,15.1
+327,Namibia,F,Rural,6,11.6
+327,Namibia,F,Urban,6,4.9
+397,Namibia,M,Rural,2,28.3
+397,Namibia,M,Urban,2,17.1
+117,Namibia,M,Rural,3,11.5
+117,Namibia,M,Urban,3,7.7
+47,Namibia,M,Rural,1,7.2
+47,Namibia,M,Urban,1,2.7
+187,Namibia,M,Rural,4,12.7
+187,Namibia,M,Urban,4,7.4
+257,Namibia,M,Rural,5,17.7
+257,Namibia,M,Urban,5,11.8
+327,Namibia,M,Rural,6,4.4
+327,Namibia,M,Urban,6,1.8
+398,Nepal,F,Rural,2,30.5
+398,Nepal,F,Urban,2,27.4
+118,Nepal,F,Rural,3,11.3
+118,Nepal,F,Urban,3,7.4
+48,Nepal,F,Rural,1,4.6
+48,Nepal,F,Urban,1,2.7
+188,Nepal,F,Rural,4,13.1
+188,Nepal,F,Urban,4,10.9
+258,Nepal,F,Rural,5,25.3
+258,Nepal,F,Urban,5,23.8
+328,Nepal,F,Rural,6,3.8
+328,Nepal,F,Urban,6,2.6
+398,Nepal,M,Rural,2,22.7
+398,Nepal,M,Urban,2,23.1
+118,Nepal,M,Rural,3,8.8
+118,Nepal,M,Urban,3,8.7
+48,Nepal,M,Rural,1,1.7
+48,Nepal,M,Urban,1,1.5
+188,Nepal,M,Rural,4,10.2
+188,Nepal,M,Urban,4,9.0
+258,Nepal,M,Rural,5,18.1
+258,Nepal,M,Urban,5,18.9
+328,Nepal,M,Rural,6,4.9
+328,Nepal,M,Urban,6,3.2
+399,Nicaragua,F,Rural,2,18.1
+399,Nicaragua,F,Urban,2,9.3
+119,Nicaragua,F,Rural,3,7.5
+119,Nicaragua,F,Urban,3,2.6
+49,Nicaragua,F,Rural,1,7.9
+49,Nicaragua,F,Urban,1,2.6
+189,Nicaragua,F,Rural,4,9.9
+189,Nicaragua,F,Urban,4,3.4
+259,Nicaragua,F,Rural,5,13.4
+259,Nicaragua,F,Urban,5,7.2
+329,Nicaragua,F,Rural,6,4.8
+329,Nicaragua,F,Urban,6,1.7
+399,Nicaragua,M,Rural,2,0.0
+399,Nicaragua,M,Urban,2,0.0
+119,Nicaragua,M,Rural,3,0.0
+119,Nicaragua,M,Urban,3,0.0
+49,Nicaragua,M,Rural,1,0.0
+49,Nicaragua,M,Urban,1,0.0
+189,Nicaragua,M,Rural,4,0.0
+189,Nicaragua,M,Urban,4,0.0
+259,Nicaragua,M,Rural,5,0.0
+259,Nicaragua,M,Urban,5,0.0
+329,Nicaragua,M,Rural,6,0.0
+329,Nicaragua,M,Urban,6,0.0
+400,Niger,F,Rural,2,62.1
+400,Niger,F,Urban,2,48.6
+120,Niger,F,Rural,3,53.7
+120,Niger,F,Urban,3,36.2
+50,Niger,F,Rural,1,38.5
+50,Niger,F,Urban,1,17.7
+190,Niger,F,Rural,4,46.4
+190,Niger,F,Urban,4,26.7
+260,Niger,F,Rural,5,46.0
+260,Niger,F,Urban,5,24.8
+330,Niger,F,Rural,6,54.0
+330,Niger,F,Urban,6,33.2
+400,Niger,M,Rural,2,27.5
+400,Niger,M,Urban,2,25.0
+120,Niger,M,Rural,3,20.5
+120,Niger,M,Urban,3,17.6
+50,Niger,M,Rural,1,9.2
+50,Niger,M,Urban,1,8.8
+190,Niger,M,Rural,4,16.9
+190,Niger,M,Urban,4,12.7
+260,Niger,M,Rural,5,15.9
+260,Niger,M,Urban,5,14.7
+330,Niger,M,Rural,6,14.8
+330,Niger,M,Urban,6,11.0
+401,Nigeria,F,Rural,2,41.2
+401,Nigeria,F,Urban,2,25.9
+121,Nigeria,F,Rural,3,25.9
+121,Nigeria,F,Urban,3,15.0
+51,Nigeria,F,Rural,1,18.9
+51,Nigeria,F,Urban,1,7.8
+191,Nigeria,F,Rural,4,31.7
+191,Nigeria,F,Urban,4,16.5
+261,Nigeria,F,Rural,5,29.0
+261,Nigeria,F,Urban,5,18.6
+331,Nigeria,F,Rural,6,25.0
+331,Nigeria,F,Urban,6,10.3
+401,Nigeria,M,Rural,2,28.7
+401,Nigeria,M,Urban,2,19.4
+121,Nigeria,M,Rural,3,15.8
+121,Nigeria,M,Urban,3,9.5
+51,Nigeria,M,Rural,1,10.1
+51,Nigeria,M,Urban,1,5.0
+191,Nigeria,M,Rural,4,16.2
+191,Nigeria,M,Urban,4,9.6
+261,Nigeria,M,Rural,5,16.0
+261,Nigeria,M,Urban,5,11.1
+331,Nigeria,M,Rural,6,14.6
+331,Nigeria,M,Urban,6,6.7
+402,Pakistan,F,Rural,2,49.9
+402,Pakistan,F,Urban,2,25.9
+122,Pakistan,F,Rural,3,39.9
+122,Pakistan,F,Urban,3,17.3
+52,Pakistan,F,Rural,1,24.0
+52,Pakistan,F,Urban,1,8.7
+192,Pakistan,F,Rural,4,39.2
+192,Pakistan,F,Urban,4,18.1
+262,Pakistan,F,Rural,5,34.8
+262,Pakistan,F,Urban,5,15.8
+332,Pakistan,F,Rural,6,34.7
+332,Pakistan,F,Urban,6,14.8
+402,Pakistan,M,Rural,2,46.2
+402,Pakistan,M,Urban,2,24.5
+122,Pakistan,M,Rural,3,25.5
+122,Pakistan,M,Urban,3,12.6
+52,Pakistan,M,Rural,1,5.2
+52,Pakistan,M,Urban,1,2.5
+192,Pakistan,M,Rural,4,35.5
+192,Pakistan,M,Urban,4,16.1
+262,Pakistan,M,Rural,5,22.8
+262,Pakistan,M,Urban,5,12.8
+332,Pakistan,M,Rural,6,13.2
+332,Pakistan,M,Urban,6,3.8
+403,Peru,F,Rural,2,6.2
+403,Peru,F,Urban,2,2.6
+123,Peru,F,Rural,3,1.7
+123,Peru,F,Urban,3,0.5
+53,Peru,F,Rural,1,1.7
+53,Peru,F,Urban,1,0.9
+193,Peru,F,Rural,4,2.1
+193,Peru,F,Urban,4,0.8
+263,Peru,F,Rural,5,3.9
+263,Peru,F,Urban,5,1.7
+333,Peru,F,Rural,6,1.0
+333,Peru,F,Urban,6,0.5
+403,Peru,M,Rural,2,0.0
+403,Peru,M,Urban,2,0.0
+123,Peru,M,Rural,3,0.0
+123,Peru,M,Urban,3,0.0
+53,Peru,M,Rural,1,0.0
+53,Peru,M,Urban,1,0.0
+193,Peru,M,Rural,4,0.0
+193,Peru,M,Urban,4,0.0
+263,Peru,M,Rural,5,0.0
+263,Peru,M,Urban,5,0.0
+333,Peru,M,Rural,6,0.0
+333,Peru,M,Urban,6,0.0
+404,Philippines,F,Rural,2,13.2
+404,Philippines,F,Urban,2,8.5
+124,Philippines,F,Rural,3,2.3
+124,Philippines,F,Urban,3,2.0
+54,Philippines,F,Rural,1,1.5
+54,Philippines,F,Urban,1,1.1
+194,Philippines,F,Rural,4,4.4
+194,Philippines,F,Urban,4,2.3
+264,Philippines,F,Rural,5,10.6
+264,Philippines,F,Urban,5,6.5
+334,Philippines,F,Rural,6,1.6
+334,Philippines,F,Urban,6,1.1
+404,Philippines,M,Rural,2,0.0
+404,Philippines,M,Urban,2,0.0
+124,Philippines,M,Rural,3,0.0
+124,Philippines,M,Urban,3,0.0
+54,Philippines,M,Rural,1,0.0
+54,Philippines,M,Urban,1,0.0
+194,Philippines,M,Rural,4,0.0
+194,Philippines,M,Urban,4,0.0
+264,Philippines,M,Rural,5,0.0
+264,Philippines,M,Urban,5,0.0
+334,Philippines,M,Rural,6,0.0
+334,Philippines,M,Urban,6,0.0
+405,Rwanda,F,Rural,2,45.8
+405,Rwanda,F,Urban,2,23.1
+125,Rwanda,F,Rural,3,22.5
+125,Rwanda,F,Urban,3,12.0
+55,Rwanda,F,Rural,1,10.1
+55,Rwanda,F,Urban,1,3.9
+195,Rwanda,F,Rural,4,24.6
+195,Rwanda,F,Urban,4,12.7
+265,Rwanda,F,Rural,5,32.7
+265,Rwanda,F,Urban,5,15.8
+335,Rwanda,F,Rural,6,27.1
+335,Rwanda,F,Urban,6,13.1
+405,Rwanda,M,Rural,2,19.1
+405,Rwanda,M,Urban,2,13.0
+125,Rwanda,M,Rural,3,5.8
+125,Rwanda,M,Urban,3,3.8
+55,Rwanda,M,Rural,1,1.7
+55,Rwanda,M,Urban,1,1.4
+195,Rwanda,M,Rural,4,7.4
+195,Rwanda,M,Urban,4,5.4
+265,Rwanda,M,Rural,5,12.7
+265,Rwanda,M,Urban,5,10.2
+335,Rwanda,M,Rural,6,7.5
+335,Rwanda,M,Urban,6,3.5
+406,Sao Tome and Principe,F,Rural,2,19.8
+406,Sao Tome and Principe,F,Urban,2,19.3
+126,Sao Tome and Principe,F,Rural,3,6.1
+126,Sao Tome and Principe,F,Urban,3,7.7
+56,Sao Tome and Principe,F,Rural,1,6.3
+56,Sao Tome and Principe,F,Urban,1,6.5
+196,Sao Tome and Principe,F,Rural,4,10.2
+196,Sao Tome and Principe,F,Urban,4,10.2
+266,Sao Tome and Principe,F,Rural,5,11.8
+266,Sao Tome and Principe,F,Urban,5,11.7
+336,Sao Tome and Principe,F,Rural,6,6.5
+336,Sao Tome and Principe,F,Urban,6,4.9
+406,Sao Tome and Principe,M,Rural,2,26.3
+406,Sao Tome and Principe,M,Urban,2,16.8
+126,Sao Tome and Principe,M,Rural,3,10.9
+126,Sao Tome and Principe,M,Urban,3,9.2
+56,Sao Tome and Principe,M,Rural,1,7.5
+56,Sao Tome and Principe,M,Urban,1,5.4
+196,Sao Tome and Principe,M,Rural,4,15.4
+196,Sao Tome and Principe,M,Urban,4,7.8
+266,Sao Tome and Principe,M,Rural,5,17.7
+266,Sao Tome and Principe,M,Urban,5,10.1
+336,Sao Tome and Principe,M,Rural,6,6.3
+336,Sao Tome and Principe,M,Urban,6,4.6
+407,Senegal,F,Rural,2,59.7
+407,Senegal,F,Urban,2,31.6
+127,Senegal,F,Rural,3,49.2
+127,Senegal,F,Urban,3,21.5
+57,Senegal,F,Rural,1,30.9
+57,Senegal,F,Urban,1,13.2
+197,Senegal,F,Rural,4,47.4
+197,Senegal,F,Urban,4,18.9
+267,Senegal,F,Rural,5,47.1
+267,Senegal,F,Urban,5,23.5
+337,Senegal,F,Rural,6,50.5
+337,Senegal,F,Urban,6,19.6
+407,Senegal,M,Rural,2,37.6
+407,Senegal,M,Urban,2,19.0
+127,Senegal,M,Rural,3,25.4
+127,Senegal,M,Urban,3,12.8
+57,Senegal,M,Rural,1,10.3
+57,Senegal,M,Urban,1,2.9
+197,Senegal,M,Rural,4,20.9
+197,Senegal,M,Urban,4,8.0
+267,Senegal,M,Rural,5,24.3
+267,Senegal,M,Urban,5,10.4
+337,Senegal,M,Rural,6,17.9
+337,Senegal,M,Urban,6,5.5
+408,Sierra Leone,F,Rural,2,66.6
+408,Sierra Leone,F,Urban,2,55.9
+128,Sierra Leone,F,Rural,3,52.9
+128,Sierra Leone,F,Urban,3,37.9
+58,Sierra Leone,F,Rural,1,22.3
+58,Sierra Leone,F,Urban,1,11.0
+198,Sierra Leone,F,Rural,4,57.3
+198,Sierra Leone,F,Urban,4,45.0
+268,Sierra Leone,F,Rural,5,57.5
+268,Sierra Leone,F,Urban,5,44.6
+338,Sierra Leone,F,Rural,6,30.7
+338,Sierra Leone,F,Urban,6,16.9
+408,Sierra Leone,M,Rural,2,37.7
+408,Sierra Leone,M,Urban,2,28.5
+128,Sierra Leone,M,Rural,3,26.9
+128,Sierra Leone,M,Urban,3,20.0
+58,Sierra Leone,M,Rural,1,4.5
+58,Sierra Leone,M,Urban,1,5.3
+198,Sierra Leone,M,Rural,4,23.0
+198,Sierra Leone,M,Urban,4,14.5
+268,Sierra Leone,M,Rural,5,25.8
+268,Sierra Leone,M,Urban,5,16.6
+338,Sierra Leone,M,Rural,6,11.1
+338,Sierra Leone,M,Urban,6,7.1
+409,South Africa,F,Rural,2,8.2
+409,South Africa,F,Urban,2,4.2
+129,South Africa,F,Rural,3,3.9
+129,South Africa,F,Urban,3,1.4
+59,South Africa,F,Rural,1,1.4
+59,South Africa,F,Urban,1,0.7
+199,South Africa,F,Rural,4,3.2
+199,South Africa,F,Urban,4,1.6
+269,South Africa,F,Rural,5,5.5
+269,South Africa,F,Urban,5,3.0
+339,South Africa,F,Rural,6,1.5
+339,South Africa,F,Urban,6,0.7
+409,South Africa,M,Rural,2,14.9
+409,South Africa,M,Urban,2,6.6
+129,South Africa,M,Rural,3,7.1
+129,South Africa,M,Urban,3,2.2
+59,South Africa,M,Rural,1,2.7
+59,South Africa,M,Urban,1,1.2
+199,South Africa,M,Rural,4,6.0
+199,South Africa,M,Urban,4,2.7
+269,South Africa,M,Rural,5,10.1
+269,South Africa,M,Urban,5,4.2
+339,South Africa,M,Rural,6,2.6
+339,South Africa,M,Urban,6,1.1
+410,Tajikistan,F,Rural,2,66.4
+410,Tajikistan,F,Urban,2,55.1
+130,Tajikistan,F,Rural,3,54.7
+130,Tajikistan,F,Urban,3,45.1
+60,Tajikistan,F,Rural,1,31.6
+60,Tajikistan,F,Urban,1,23.5
+200,Tajikistan,F,Rural,4,54.8
+200,Tajikistan,F,Urban,4,41.0
+270,Tajikistan,F,Rural,5,52.7
+270,Tajikistan,F,Urban,5,41.7
+340,Tajikistan,F,Rural,6,28.7
+340,Tajikistan,F,Urban,6,20.7
+410,Tajikistan,M,Rural,2,0.0
+410,Tajikistan,M,Urban,2,0.0
+130,Tajikistan,M,Rural,3,0.0
+130,Tajikistan,M,Urban,3,0.0
+60,Tajikistan,M,Rural,1,0.0
+60,Tajikistan,M,Urban,1,0.0
+200,Tajikistan,M,Rural,4,0.0
+200,Tajikistan,M,Urban,4,0.0
+270,Tajikistan,M,Rural,5,0.0
+270,Tajikistan,M,Urban,5,0.0
+340,Tajikistan,M,Rural,6,0.0
+340,Tajikistan,M,Urban,6,0.0
+411,Tanzania,F,Rural,2,62.1
+411,Tanzania,F,Urban,2,50.8
+131,Tanzania,F,Rural,3,46.5
+131,Tanzania,F,Urban,3,34.1
+61,Tanzania,F,Rural,1,24.3
+61,Tanzania,F,Urban,1,12.8
+201,Tanzania,F,Rural,4,45.8
+201,Tanzania,F,Urban,4,32.2
+271,Tanzania,F,Rural,5,51.7
+271,Tanzania,F,Urban,5,41.2
+341,Tanzania,F,Rural,6,35.7
+341,Tanzania,F,Urban,6,21.2
+411,Tanzania,M,Rural,2,40.9
+411,Tanzania,M,Urban,2,37.3
+131,Tanzania,M,Rural,3,26.1
+131,Tanzania,M,Urban,3,21.6
+61,Tanzania,M,Rural,1,7.5
+61,Tanzania,M,Urban,1,4.4
+201,Tanzania,M,Rural,4,24.6
+201,Tanzania,M,Urban,4,19.3
+271,Tanzania,M,Rural,5,32.3
+271,Tanzania,M,Urban,5,28.0
+341,Tanzania,M,Rural,6,15.9
+341,Tanzania,M,Urban,6,10.0
+412,Timor-Leste,F,Rural,2,75.2
+412,Timor-Leste,F,Urban,2,71.5
+132,Timor-Leste,F,Rural,3,61.9
+132,Timor-Leste,F,Urban,3,57.0
+62,Timor-Leste,F,Rural,1,35.3
+62,Timor-Leste,F,Urban,1,24.9
+202,Timor-Leste,F,Rural,4,66.3
+202,Timor-Leste,F,Urban,4,60.7
+272,Timor-Leste,F,Rural,5,63.7
+272,Timor-Leste,F,Urban,5,60.9
+342,Timor-Leste,F,Rural,6,38.4
+342,Timor-Leste,F,Urban,6,30.1
+412,Timor-Leste,M,Rural,2,45.5
+412,Timor-Leste,M,Urban,2,67.5
+132,Timor-Leste,M,Rural,3,31.1
+132,Timor-Leste,M,Urban,3,27.2
+62,Timor-Leste,M,Rural,1,20.2
+62,Timor-Leste,M,Urban,1,18.1
+202,Timor-Leste,M,Rural,4,37.8
+202,Timor-Leste,M,Urban,4,58.1
+272,Timor-Leste,M,Rural,5,38.3
+272,Timor-Leste,M,Urban,5,61.0
+342,Timor-Leste,M,Rural,6,23.4
+342,Timor-Leste,M,Urban,6,35.6
+413,Togo,F,Rural,2,35.6
+413,Togo,F,Urban,2,20.5
+133,Togo,F,Rural,3,24.1
+133,Togo,F,Urban,3,13.9
+63,Togo,F,Rural,1,15.3
+63,Togo,F,Urban,1,6.3
+203,Togo,F,Rural,4,23.3
+203,Togo,F,Urban,4,11.3
+273,Togo,F,Rural,5,24.4
+273,Togo,F,Urban,5,12.3
+343,Togo,F,Rural,6,12.6
+343,Togo,F,Urban,6,6.0
+413,Togo,M,Rural,2,23.4
+413,Togo,M,Urban,2,11.6
+133,Togo,M,Rural,3,13.2
+133,Togo,M,Urban,3,6.3
+63,Togo,M,Rural,1,8.5
+63,Togo,M,Urban,1,2.6
+203,Togo,M,Rural,4,12.5
+203,Togo,M,Urban,4,6.0
+273,Togo,M,Rural,5,15.6
+273,Togo,M,Urban,5,6.9
+343,Togo,M,Rural,6,7.1
+343,Togo,M,Urban,6,2.6
+414,Turkey,F,Rural,2,23.6
+414,Turkey,F,Urban,2,10.7
+134,Turkey,F,Rural,3,12.5
+134,Turkey,F,Urban,3,4.7
+64,Turkey,F,Rural,1,2.8
+64,Turkey,F,Urban,1,0.7
+204,Turkey,F,Rural,4,9.4
+204,Turkey,F,Urban,4,3.2
+274,Turkey,F,Rural,5,15.3
+274,Turkey,F,Urban,5,7.2
+344,Turkey,F,Rural,6,5.6
+344,Turkey,F,Urban,6,1.8
+414,Turkey,M,Rural,2,0.0
+414,Turkey,M,Urban,2,0.0
+134,Turkey,M,Rural,3,0.0
+134,Turkey,M,Urban,3,0.0
+64,Turkey,M,Rural,1,0.0
+64,Turkey,M,Urban,1,0.0
+204,Turkey,M,Rural,4,0.0
+204,Turkey,M,Urban,4,0.0
+274,Turkey,M,Rural,5,0.0
+274,Turkey,M,Urban,5,0.0
+344,Turkey,M,Rural,6,0.0
+344,Turkey,M,Urban,6,0.0
+415,Turkmenistan,F,Rural,2,57.0
+415,Turkmenistan,F,Urban,2,45.6
+135,Turkmenistan,F,Rural,3,39.7
+135,Turkmenistan,F,Urban,3,26.9
+65,Turkmenistan,F,Rural,1,26.3
+65,Turkmenistan,F,Urban,1,16.7
+205,Turkmenistan,F,Rural,4,46.4
+205,Turkmenistan,F,Urban,4,33.2
+275,Turkmenistan,F,Rural,5,48.8
+275,Turkmenistan,F,Urban,5,37.6
+345,Turkmenistan,F,Rural,6,24.4
+345,Turkmenistan,F,Urban,6,17.2
+415,Turkmenistan,M,Rural,2,0.0
+415,Turkmenistan,M,Urban,2,0.0
+135,Turkmenistan,M,Rural,3,0.0
+135,Turkmenistan,M,Urban,3,0.0
+65,Turkmenistan,M,Rural,1,0.0
+65,Turkmenistan,M,Urban,1,0.0
+205,Turkmenistan,M,Rural,4,0.0
+205,Turkmenistan,M,Urban,4,0.0
+275,Turkmenistan,M,Rural,5,0.0
+275,Turkmenistan,M,Urban,5,0.0
+345,Turkmenistan,M,Rural,6,0.0
+345,Turkmenistan,M,Urban,6,0.0
+416,Uganda,F,Rural,2,52.4
+416,Uganda,F,Urban,2,39.6
+136,Uganda,F,Rural,3,29.2
+136,Uganda,F,Urban,3,17.8
+66,Uganda,F,Rural,1,15.5
+66,Uganda,F,Urban,1,8.4
+206,Uganda,F,Rural,4,32.9
+206,Uganda,F,Urban,4,22.2
+276,Uganda,F,Rural,5,41.4
+276,Uganda,F,Urban,5,30.6
+346,Uganda,F,Rural,6,20.8
+346,Uganda,F,Urban,6,10.4
+416,Uganda,M,Rural,2,43.0
+416,Uganda,M,Urban,2,32.9
+136,Uganda,M,Rural,3,25.2
+136,Uganda,M,Urban,3,17.6
+66,Uganda,M,Rural,1,8.6
+66,Uganda,M,Urban,1,3.4
+206,Uganda,M,Rural,4,24.1
+206,Uganda,M,Urban,4,16.4
+276,Uganda,M,Rural,5,30.5
+276,Uganda,M,Urban,5,21.9
+346,Uganda,M,Rural,6,13.2
+346,Uganda,M,Urban,6,7.0
+417,Ukraine,F,Rural,2,5.1
+417,Ukraine,F,Urban,2,3.0
+137,Ukraine,F,Rural,3,1.6
+137,Ukraine,F,Urban,3,0.6
+67,Ukraine,F,Rural,1,0.2
+67,Ukraine,F,Urban,1,0.1
+207,Ukraine,F,Rural,4,0.8
+207,Ukraine,F,Urban,4,0.3
+277,Ukraine,F,Rural,5,4.0
+277,Ukraine,F,Urban,5,2.7
+347,Ukraine,F,Rural,6,0.9
+347,Ukraine,F,Urban,6,0.3
+417,Ukraine,M,Rural,2,13.9
+417,Ukraine,M,Urban,2,10.0
+137,Ukraine,M,Rural,3,6.8
+137,Ukraine,M,Urban,3,4.6
+67,Ukraine,M,Rural,1,0.9
+67,Ukraine,M,Urban,1,0.6
+207,Ukraine,M,Rural,4,5.0
+207,Ukraine,M,Urban,4,3.9
+277,Ukraine,M,Rural,5,10.5
+277,Ukraine,M,Urban,5,8.4
+347,Ukraine,M,Rural,6,2.7
+347,Ukraine,M,Urban,6,1.5
+418,Yemen,F,Rural,2,54.5
+418,Yemen,F,Urban,2,37.4
+138,Yemen,F,Rural,3,24.9
+138,Yemen,F,Urban,3,10.0
+68,Yemen,F,Rural,1,12.7
+68,Yemen,F,Urban,1,3.7
+208,Yemen,F,Rural,4,42.0
+208,Yemen,F,Urban,4,22.9
+278,Yemen,F,Rural,5,35.5
+278,Yemen,F,Urban,5,19.0
+348,Yemen,F,Rural,6,37.7
+348,Yemen,F,Urban,6,22.0
+418,Yemen,M,Rural,2,0.0
+418,Yemen,M,Urban,2,0.0
+138,Yemen,M,Rural,3,0.0
+138,Yemen,M,Urban,3,0.0
+68,Yemen,M,Rural,1,0.0
+68,Yemen,M,Urban,1,0.0
+208,Yemen,M,Rural,4,0.0
+208,Yemen,M,Urban,4,0.0
+278,Yemen,M,Rural,5,0.0
+278,Yemen,M,Urban,5,0.0
+348,Yemen,M,Rural,6,0.0
+348,Yemen,M,Urban,6,0.0
+419,Zambia,F,Rural,2,57.1
+419,Zambia,F,Urban,2,34.9
+139,Zambia,F,Rural,3,42.2
+139,Zambia,F,Urban,3,23.5
+69,Zambia,F,Rural,1,32.1
+69,Zambia,F,Urban,1,13.5
+209,Zambia,F,Rural,4,37.5
+209,Zambia,F,Urban,4,20.7
+279,Zambia,F,Rural,5,40.9
+279,Zambia,F,Urban,5,24.0
+349,Zambia,F,Rural,6,37.5
+349,Zambia,F,Urban,6,18.8
+419,Zambia,M,Rural,2,37.6
+419,Zambia,M,Urban,2,25.0
+139,Zambia,M,Rural,3,23.9
+139,Zambia,M,Urban,3,15.4
+69,Zambia,M,Rural,1,9.3
+69,Zambia,M,Urban,1,5.1
+209,Zambia,M,Rural,4,19.0
+209,Zambia,M,Urban,4,12.7
+279,Zambia,M,Rural,5,23.4
+279,Zambia,M,Urban,5,15.6
+349,Zambia,M,Rural,6,13.2
+349,Zambia,M,Urban,6,7.7
+420,Zimbabwe,F,Rural,2,44.9
+420,Zimbabwe,F,Urban,2,28.8
+140,Zimbabwe,F,Rural,3,20.4
+140,Zimbabwe,F,Urban,3,10.7
+70,Zimbabwe,F,Rural,1,10.5
+70,Zimbabwe,F,Urban,1,4.2
+210,Zimbabwe,F,Rural,4,28.3
+210,Zimbabwe,F,Urban,4,14.2
+280,Zimbabwe,F,Rural,5,24.3
+280,Zimbabwe,F,Urban,5,16.7
+350,Zimbabwe,F,Rural,6,18.2
+350,Zimbabwe,F,Urban,6,8.6
+420,Zimbabwe,M,Rural,2,37.2
+420,Zimbabwe,M,Urban,2,25.0
+140,Zimbabwe,M,Rural,3,16.8
+140,Zimbabwe,M,Urban,3,8.8
+70,Zimbabwe,M,Rural,1,7.9
+70,Zimbabwe,M,Urban,1,2.3
+210,Zimbabwe,M,Rural,4,21.0
+210,Zimbabwe,M,Urban,4,11.8
+280,Zimbabwe,M,Rural,5,20.1
+280,Zimbabwe,M,Urban,5,15.0
+350,Zimbabwe,M,Rural,6,7.2
+350,Zimbabwe,M,Urban,6,3.7

@@ -1,0 +1,3361 @@
+RecordID,Country,Gender,Education,Question Type,Value
+1,Afghanistan,F,Higher,1,10.1
+1,Afghanistan,F,Secondary,1,13.7
+1,Afghanistan,F,Primary,1,13.8
+1,Afghanistan,F,No education,1,19.1
+1,Afghanistan,M,Higher,1,4.5
+1,Afghanistan,M,Primary,1,6.3
+1,Afghanistan,M,Secondary,1,7.1
+1,Afghanistan,M,No education,1,10.6
+351,Afghanistan,F,Higher,2,61.1
+351,Afghanistan,F,No education,2,81.0
+351,Afghanistan,F,Primary,2,79.8
+351,Afghanistan,F,Secondary,2,76.0
+71,Afghanistan,F,Higher,3,37.7
+71,Afghanistan,F,No education,3,60.2
+71,Afghanistan,F,Primary,3,56.9
+71,Afghanistan,F,Secondary,3,55.4
+141,Afghanistan,F,Higher,4,41.1
+141,Afghanistan,F,No education,4,68.4
+141,Afghanistan,F,Primary,4,64.1
+141,Afghanistan,F,Secondary,4,58.2
+211,Afghanistan,F,Higher,5,33.4
+211,Afghanistan,F,No education,5,48.9
+211,Afghanistan,F,Primary,5,50.6
+211,Afghanistan,F,Secondary,5,44.4
+281,Afghanistan,F,Higher,6,10.8
+281,Afghanistan,F,No education,6,34.2
+281,Afghanistan,F,Primary,6,35.9
+281,Afghanistan,F,Secondary,6,26.6
+351,Afghanistan,M,Higher,2,55.5
+351,Afghanistan,M,No education,2,77.4
+351,Afghanistan,M,Primary,2,68.1
+351,Afghanistan,M,Secondary,2,69.6
+71,Afghanistan,M,Higher,3,31.4
+71,Afghanistan,M,No education,3,50.2
+71,Afghanistan,M,Primary,3,41.0
+71,Afghanistan,M,Secondary,3,42.8
+141,Afghanistan,M,Higher,4,43.6
+141,Afghanistan,M,No education,4,66.0
+141,Afghanistan,M,Primary,4,55.9
+141,Afghanistan,M,Secondary,4,59.5
+211,Afghanistan,M,Higher,5,20.9
+211,Afghanistan,M,No education,5,29.7
+211,Afghanistan,M,Primary,5,22.3
+211,Afghanistan,M,Secondary,5,23.0
+281,Afghanistan,M,Higher,6,11.9
+281,Afghanistan,M,No education,6,23.2
+281,Afghanistan,M,Primary,6,17.4
+281,Afghanistan,M,Secondary,6,15.9
+2,Albania,F,Higher,1,0.2
+2,Albania,F,Secondary,1,0.6
+2,Albania,F,Primary,1,1.3
+2,Albania,F,No education,1,5.8
+2,Albania,M,No education,1,0.0
+2,Albania,M,Secondary,1,0.2
+2,Albania,M,Higher,1,0.8
+2,Albania,M,Primary,1,0.8
+352,Albania,F,Higher,2,1.4
+352,Albania,F,No education,2,26.3
+352,Albania,F,Primary,2,11.1
+352,Albania,F,Secondary,2,5.5
+72,Albania,F,Higher,3,0.4
+72,Albania,F,No education,3,11.7
+72,Albania,F,Primary,3,3.2
+72,Albania,F,Secondary,3,1.1
+142,Albania,F,Higher,4,0.3
+142,Albania,F,No education,4,14.9
+142,Albania,F,Primary,4,6.9
+142,Albania,F,Secondary,4,2.4
+212,Albania,F,Higher,5,1.1
+212,Albania,F,No education,5,21.1
+212,Albania,F,Primary,5,8.6
+212,Albania,F,Secondary,5,4.2
+282,Albania,F,Higher,6,0.1
+282,Albania,F,No education,6,6.3
+282,Albania,F,Primary,6,1.5
+282,Albania,F,Secondary,6,0.6
+352,Albania,M,Higher,2,5.4
+352,Albania,M,No education,2,26.6
+352,Albania,M,Primary,2,14.6
+352,Albania,M,Secondary,2,11.2
+72,Albania,M,Higher,3,2.2
+72,Albania,M,No education,3,15.3
+72,Albania,M,Primary,3,5.9
+72,Albania,M,Secondary,3,3.2
+142,Albania,M,Higher,4,2.7
+142,Albania,M,No education,4,25.4
+142,Albania,M,Primary,4,9.0
+142,Albania,M,Secondary,4,5.9
+212,Albania,M,Higher,5,3.8
+212,Albania,M,No education,5,22.3
+212,Albania,M,Primary,5,9.6
+212,Albania,M,Secondary,5,8.4
+282,Albania,M,Higher,6,0.7
+282,Albania,M,No education,6,13.8
+282,Albania,M,Primary,6,3.1
+282,Albania,M,Secondary,6,1.7
+3,Angola,F,Higher,1,0.9
+3,Angola,F,Secondary,1,5.3
+3,Angola,F,Primary,1,13.4
+3,Angola,F,No education,1,17.3
+3,Angola,M,Higher,1,0.7
+3,Angola,M,Secondary,1,5.0
+3,Angola,M,Primary,1,8.1
+3,Angola,M,No education,1,10.8
+353,Angola,F,Higher,2,7.0
+353,Angola,F,No education,2,34.5
+353,Angola,F,Primary,2,30.9
+353,Angola,F,Secondary,2,16.8
+73,Angola,F,Higher,3,3.0
+73,Angola,F,No education,3,23.9
+73,Angola,F,Primary,3,19.1
+73,Angola,F,Secondary,3,8.2
+143,Angola,F,Higher,4,2.8
+143,Angola,F,No education,4,21.0
+143,Angola,F,Primary,4,18.5
+143,Angola,F,Secondary,4,8.5
+213,Angola,F,Higher,5,4.2
+213,Angola,F,No education,5,22.3
+213,Angola,F,Primary,5,20.1
+213,Angola,F,Secondary,5,10.8
+283,Angola,F,Higher,6,2.5
+283,Angola,F,No education,6,19.9
+283,Angola,F,Primary,6,14.2
+283,Angola,F,Secondary,6,5.3
+353,Angola,M,Higher,2,3.9
+353,Angola,M,No education,2,26.7
+353,Angola,M,Primary,2,26.2
+353,Angola,M,Secondary,2,18.1
+73,Angola,M,Higher,3,1.6
+73,Angola,M,No education,3,15.9
+73,Angola,M,Primary,3,14.9
+73,Angola,M,Secondary,3,9.2
+143,Angola,M,Higher,4,1.6
+143,Angola,M,No education,4,13.4
+143,Angola,M,Primary,4,11.2
+143,Angola,M,Secondary,4,6.8
+213,Angola,M,Higher,5,1.8
+213,Angola,M,No education,5,18.3
+213,Angola,M,Primary,5,17.1
+213,Angola,M,Secondary,5,9.1
+283,Angola,M,Higher,6,0.6
+283,Angola,M,No education,6,11.2
+283,Angola,M,Primary,6,7.6
+283,Angola,M,Secondary,6,4.4
+4,Armenia,F,No education,1,0.0
+4,Armenia,F,Higher,1,0.0
+4,Armenia,F,Primary,1,0.1
+4,Armenia,F,Secondary,1,0.9
+4,Armenia,M,No education,1,0.0
+4,Armenia,M,Higher,1,0.6
+4,Armenia,M,Secondary,1,0.6
+4,Armenia,M,Primary,1,1.0
+354,Armenia,F,Higher,2,6.6
+354,Armenia,F,No education,2,0.0
+354,Armenia,F,Primary,2,12.0
+354,Armenia,F,Secondary,2,14.4
+74,Armenia,F,Higher,3,3.9
+74,Armenia,F,No education,3,0.0
+74,Armenia,F,Primary,3,5.3
+74,Armenia,F,Secondary,3,9.2
+144,Armenia,F,Higher,4,2.7
+144,Armenia,F,No education,4,0.0
+144,Armenia,F,Primary,4,5.4
+144,Armenia,F,Secondary,4,8.7
+214,Armenia,F,Higher,5,5.5
+214,Armenia,F,No education,5,0.0
+214,Armenia,F,Primary,5,9.4
+214,Armenia,F,Secondary,5,12.6
+284,Armenia,F,Higher,6,0.3
+284,Armenia,F,No education,6,0.0
+284,Armenia,F,Primary,6,1.5
+284,Armenia,F,Secondary,6,1.2
+354,Armenia,M,Higher,2,14.4
+354,Armenia,M,No education,2,0.0
+354,Armenia,M,Primary,2,30.3
+354,Armenia,M,Secondary,2,27.9
+74,Armenia,M,Higher,3,9.9
+74,Armenia,M,No education,3,0.0
+74,Armenia,M,Primary,3,22.0
+74,Armenia,M,Secondary,3,20.2
+144,Armenia,M,Higher,4,6.1
+144,Armenia,M,No education,4,0.0
+144,Armenia,M,Primary,4,13.6
+144,Armenia,M,Secondary,4,16.3
+214,Armenia,M,Higher,5,10.9
+214,Armenia,M,No education,5,0.0
+214,Armenia,M,Primary,5,17.8
+214,Armenia,M,Secondary,5,22.8
+284,Armenia,M,Higher,6,0.8
+284,Armenia,M,No education,6,0.0
+284,Armenia,M,Primary,6,2.4
+284,Armenia,M,Secondary,6,2.2
+5,Azerbaijan,F,Higher,1,1.5
+5,Azerbaijan,F,Secondary,1,13.3
+5,Azerbaijan,F,Primary,1,25.5
+5,Azerbaijan,F,No education,1,33.0
+5,Azerbaijan,M,No education,1,0.0
+5,Azerbaijan,M,Primary,1,0.0
+5,Azerbaijan,M,Higher,1,3.5
+5,Azerbaijan,M,Secondary,1,7.8
+355,Azerbaijan,F,Higher,2,22.5
+355,Azerbaijan,F,No education,2,74.3
+355,Azerbaijan,F,Primary,2,63.1
+355,Azerbaijan,F,Secondary,2,52.5
+75,Azerbaijan,F,Higher,3,11.2
+75,Azerbaijan,F,No education,3,55.2
+75,Azerbaijan,F,Primary,3,43.6
+75,Azerbaijan,F,Secondary,3,33.9
+145,Azerbaijan,F,Higher,4,17.2
+145,Azerbaijan,F,No education,4,68.5
+145,Azerbaijan,F,Primary,4,58.3
+145,Azerbaijan,F,Secondary,4,45.8
+215,Azerbaijan,F,Higher,5,11.6
+215,Azerbaijan,F,No education,5,64.7
+215,Azerbaijan,F,Primary,5,47.6
+215,Azerbaijan,F,Secondary,5,37.6
+285,Azerbaijan,F,Higher,6,2.8
+285,Azerbaijan,F,No education,6,37.4
+285,Azerbaijan,F,Primary,6,26.0
+285,Azerbaijan,F,Secondary,6,15.5
+355,Azerbaijan,M,Higher,2,52.5
+355,Azerbaijan,M,No education,2,0.0
+355,Azerbaijan,M,Primary,2,0.0
+355,Azerbaijan,M,Secondary,2,59.9
+75,Azerbaijan,M,Higher,3,47.5
+75,Azerbaijan,M,No education,3,0.0
+75,Azerbaijan,M,Primary,3,0.0
+75,Azerbaijan,M,Secondary,3,52.8
+145,Azerbaijan,M,Higher,4,31.1
+145,Azerbaijan,M,No education,4,0.0
+145,Azerbaijan,M,Primary,4,0.0
+145,Azerbaijan,M,Secondary,4,42.2
+215,Azerbaijan,M,Higher,5,17.0
+215,Azerbaijan,M,No education,5,0.0
+215,Azerbaijan,M,Primary,5,0.0
+215,Azerbaijan,M,Secondary,5,38.8
+285,Azerbaijan,M,Higher,6,5.2
+285,Azerbaijan,M,No education,6,0.0
+285,Azerbaijan,M,Primary,6,0.0
+285,Azerbaijan,M,Secondary,6,13.2
+6,Bangladesh,F,Higher,1,0.8
+6,Bangladesh,F,Secondary,1,2.7
+6,Bangladesh,F,Primary,1,5.4
+6,Bangladesh,F,No education,1,6.8
+6,Bangladesh,M,Higher,1,0.0
+6,Bangladesh,M,No education,1,0.0
+6,Bangladesh,M,Primary,1,0.0
+6,Bangladesh,M,Secondary,1,0.0
+356,Bangladesh,F,Higher,2,13.4
+356,Bangladesh,F,No education,2,33.0
+356,Bangladesh,F,Primary,2,31.7
+356,Bangladesh,F,Secondary,2,25.8
+76,Bangladesh,F,Higher,3,7.4
+76,Bangladesh,F,No education,3,24.4
+76,Bangladesh,F,Primary,3,22.3
+76,Bangladesh,F,Secondary,3,17.9
+146,Bangladesh,F,Higher,4,6.2
+146,Bangladesh,F,No education,4,17.5
+146,Bangladesh,F,Primary,4,17.3
+146,Bangladesh,F,Secondary,4,12.0
+216,Bangladesh,F,Higher,5,7.3
+216,Bangladesh,F,No education,5,16.9
+216,Bangladesh,F,Primary,5,17.2
+216,Bangladesh,F,Secondary,5,13.5
+286,Bangladesh,F,Higher,6,1.7
+286,Bangladesh,F,No education,6,10.2
+286,Bangladesh,F,Primary,6,8.9
+286,Bangladesh,F,Secondary,6,5.1
+356,Bangladesh,M,Higher,2,0.0
+356,Bangladesh,M,No education,2,0.0
+356,Bangladesh,M,Primary,2,0.0
+356,Bangladesh,M,Secondary,2,0.0
+76,Bangladesh,M,Higher,3,0.0
+76,Bangladesh,M,No education,3,0.0
+76,Bangladesh,M,Primary,3,0.0
+76,Bangladesh,M,Secondary,3,0.0
+146,Bangladesh,M,Higher,4,0.0
+146,Bangladesh,M,No education,4,0.0
+146,Bangladesh,M,Primary,4,0.0
+146,Bangladesh,M,Secondary,4,0.0
+216,Bangladesh,M,Higher,5,0.0
+216,Bangladesh,M,No education,5,0.0
+216,Bangladesh,M,Primary,5,0.0
+216,Bangladesh,M,Secondary,5,0.0
+286,Bangladesh,M,Higher,6,0.0
+286,Bangladesh,M,No education,6,0.0
+286,Bangladesh,M,Primary,6,0.0
+286,Bangladesh,M,Secondary,6,0.0
+7,Benin,F,Higher,1,1.0
+7,Benin,F,Secondary,1,9.5
+7,Benin,F,Primary,1,13.0
+7,Benin,F,No education,1,16.5
+7,Benin,M,Higher,1,1.1
+7,Benin,M,Secondary,1,4.3
+7,Benin,M,Primary,1,6.3
+7,Benin,M,No education,1,10.7
+357,Benin,F,Higher,2,4.7
+357,Benin,F,No education,2,37.3
+357,Benin,F,Primary,2,29.4
+357,Benin,F,Secondary,2,23.2
+77,Benin,F,Higher,3,3.0
+77,Benin,F,No education,3,25.9
+77,Benin,F,Primary,3,17.2
+77,Benin,F,Secondary,3,13.4
+147,Benin,F,Higher,4,2.4
+147,Benin,F,No education,4,26.5
+147,Benin,F,Primary,4,17.8
+147,Benin,F,Secondary,4,13.2
+217,Benin,F,Higher,5,2.8
+217,Benin,F,No education,5,27.2
+217,Benin,F,Primary,5,19.6
+217,Benin,F,Secondary,5,16.0
+287,Benin,F,Higher,6,1.4
+287,Benin,F,No education,6,16.5
+287,Benin,F,Primary,6,10.6
+287,Benin,F,Secondary,6,6.5
+357,Benin,M,Higher,2,3.6
+357,Benin,M,No education,2,21.1
+357,Benin,M,Primary,2,14.8
+357,Benin,M,Secondary,2,12.5
+77,Benin,M,Higher,3,1.7
+77,Benin,M,No education,3,14.0
+77,Benin,M,Primary,3,9.4
+77,Benin,M,Secondary,3,7.0
+147,Benin,M,Higher,4,1.2
+147,Benin,M,No education,4,11.6
+147,Benin,M,Primary,4,9.3
+147,Benin,M,Secondary,4,7.1
+217,Benin,M,Higher,5,0.8
+217,Benin,M,No education,5,13.5
+217,Benin,M,Primary,5,8.4
+217,Benin,M,Secondary,5,7.2
+287,Benin,M,Higher,6,0.7
+287,Benin,M,No education,6,11.1
+287,Benin,M,Primary,6,6.0
+287,Benin,M,Secondary,6,4.6
+8,Bolivia,F,Higher,1,0.6
+8,Bolivia,F,Secondary,1,2.8
+8,Bolivia,F,Primary,1,4.4
+8,Bolivia,F,No education,1,7.3
+8,Bolivia,M,Higher,1,0.0
+8,Bolivia,M,No education,1,0.0
+8,Bolivia,M,Primary,1,0.0
+8,Bolivia,M,Secondary,1,0.0
+358,Bolivia,F,Higher,2,5.7
+358,Bolivia,F,No education,2,23.4
+358,Bolivia,F,Primary,2,20.3
+358,Bolivia,F,Secondary,2,15.3
+78,Bolivia,F,Higher,3,1.7
+78,Bolivia,F,No education,3,9.3
+78,Bolivia,F,Primary,3,6.8
+78,Bolivia,F,Secondary,3,4.6
+148,Bolivia,F,Higher,4,1.9
+148,Bolivia,F,No education,4,12.0
+148,Bolivia,F,Primary,4,8.2
+148,Bolivia,F,Secondary,4,4.6
+218,Bolivia,F,Higher,5,4.5
+218,Bolivia,F,No education,5,15.9
+218,Bolivia,F,Primary,5,15.2
+218,Bolivia,F,Secondary,5,12.2
+288,Bolivia,F,Higher,6,0.8
+288,Bolivia,F,No education,6,4.6
+288,Bolivia,F,Primary,6,3.2
+288,Bolivia,F,Secondary,6,1.6
+358,Bolivia,M,Higher,2,0.0
+358,Bolivia,M,No education,2,0.0
+358,Bolivia,M,Primary,2,0.0
+358,Bolivia,M,Secondary,2,0.0
+78,Bolivia,M,Higher,3,0.0
+78,Bolivia,M,No education,3,0.0
+78,Bolivia,M,Primary,3,0.0
+78,Bolivia,M,Secondary,3,0.0
+148,Bolivia,M,Higher,4,0.0
+148,Bolivia,M,No education,4,0.0
+148,Bolivia,M,Primary,4,0.0
+148,Bolivia,M,Secondary,4,0.0
+218,Bolivia,M,Higher,5,0.0
+218,Bolivia,M,No education,5,0.0
+218,Bolivia,M,Primary,5,0.0
+218,Bolivia,M,Secondary,5,0.0
+288,Bolivia,M,Higher,6,0.0
+288,Bolivia,M,No education,6,0.0
+288,Bolivia,M,Primary,6,0.0
+288,Bolivia,M,Secondary,6,0.0
+9,Burkina Faso,F,Higher,1,1.4
+9,Burkina Faso,F,Secondary,1,3.1
+9,Burkina Faso,F,Primary,1,8.1
+9,Burkina Faso,F,No education,1,11.2
+9,Burkina Faso,M,Higher,1,5.7
+9,Burkina Faso,M,Secondary,1,6.3
+9,Burkina Faso,M,No education,1,7.6
+9,Burkina Faso,M,Primary,1,8.3
+359,Burkina Faso,F,Higher,2,6.3
+359,Burkina Faso,F,No education,2,47.5
+359,Burkina Faso,F,Primary,2,38.1
+359,Burkina Faso,F,Secondary,2,26.6
+79,Burkina Faso,F,Higher,3,2.0
+79,Burkina Faso,F,No education,3,34.7
+79,Burkina Faso,F,Primary,3,26.0
+79,Burkina Faso,F,Secondary,3,14.1
+149,Burkina Faso,F,Higher,4,0.3
+149,Burkina Faso,F,No education,4,34.4
+149,Burkina Faso,F,Primary,4,24.6
+149,Burkina Faso,F,Secondary,4,13.1
+219,Burkina Faso,F,Higher,5,3.8
+219,Burkina Faso,F,No education,5,33.4
+219,Burkina Faso,F,Primary,5,26.5
+219,Burkina Faso,F,Secondary,5,18.1
+289,Burkina Faso,F,Higher,6,0.0
+289,Burkina Faso,F,No education,6,22.7
+289,Burkina Faso,F,Primary,6,15.2
+289,Burkina Faso,F,Secondary,6,6.8
+359,Burkina Faso,M,Higher,2,15.0
+359,Burkina Faso,M,No education,2,37.7
+359,Burkina Faso,M,Primary,2,33.5
+359,Burkina Faso,M,Secondary,2,25.6
+79,Burkina Faso,M,Higher,3,3.7
+79,Burkina Faso,M,No education,3,22.5
+79,Burkina Faso,M,Primary,3,21.7
+79,Burkina Faso,M,Secondary,3,12.4
+149,Burkina Faso,M,Higher,4,2.8
+149,Burkina Faso,M,No education,4,20.6
+149,Burkina Faso,M,Primary,4,16.9
+149,Burkina Faso,M,Secondary,4,11.1
+219,Burkina Faso,M,Higher,5,9.8
+219,Burkina Faso,M,No education,5,22.2
+219,Burkina Faso,M,Primary,5,18.9
+219,Burkina Faso,M,Secondary,5,15.8
+289,Burkina Faso,M,Higher,6,0.7
+289,Burkina Faso,M,No education,6,13.6
+289,Burkina Faso,M,Primary,6,8.1
+289,Burkina Faso,M,Secondary,6,6.7
+10,Burundi,F,Higher,1,1.1
+10,Burundi,F,Secondary,1,14.8
+10,Burundi,F,Primary,1,23.9
+10,Burundi,F,No education,1,25.3
+10,Burundi,M,Higher,1,0.0
+10,Burundi,M,Secondary,1,3.5
+10,Burundi,M,No education,1,5.6
+10,Burundi,M,Primary,1,5.9
+360,Burundi,F,Higher,2,22.2
+360,Burundi,F,No education,2,65.9
+360,Burundi,F,Primary,2,63.9
+360,Burundi,F,Secondary,2,53.9
+80,Burundi,F,Higher,3,1.3
+80,Burundi,F,No education,3,34.8
+80,Burundi,F,Primary,3,32.3
+80,Burundi,F,Secondary,3,20.8
+150,Burundi,F,Higher,4,8.7
+150,Burundi,F,No education,4,43.6
+150,Burundi,F,Primary,4,40.9
+150,Burundi,F,Secondary,4,31.3
+220,Burundi,F,Higher,5,20.0
+220,Burundi,F,No education,5,55.1
+220,Burundi,F,Primary,5,53.7
+220,Burundi,F,Secondary,5,45.0
+290,Burundi,F,Higher,6,8.2
+290,Burundi,F,No education,6,47.9
+290,Burundi,F,Primary,6,44.3
+290,Burundi,F,Secondary,6,29.9
+360,Burundi,M,Higher,2,5.3
+360,Burundi,M,No education,2,35.8
+360,Burundi,M,Primary,2,38.6
+360,Burundi,M,Secondary,2,31.2
+80,Burundi,M,Higher,3,0.2
+80,Burundi,M,No education,3,10.7
+80,Burundi,M,Primary,3,12.7
+80,Burundi,M,Secondary,3,6.7
+150,Burundi,M,Higher,4,1.1
+150,Burundi,M,No education,4,19.3
+150,Burundi,M,Primary,4,18.9
+150,Burundi,M,Secondary,4,14.1
+220,Burundi,M,Higher,5,4.0
+220,Burundi,M,No education,5,26.3
+220,Burundi,M,Primary,5,28.9
+220,Burundi,M,Secondary,5,23.6
+290,Burundi,M,Higher,6,1.5
+290,Burundi,M,No education,6,13.2
+290,Burundi,M,Primary,6,14.8
+290,Burundi,M,Secondary,6,12.6
+11,Cambodia,F,Higher,1,1.1
+11,Cambodia,F,Secondary,1,7.5
+11,Cambodia,F,Primary,1,14.4
+11,Cambodia,F,No education,1,17.6
+11,Cambodia,M,Higher,1,0.0
+11,Cambodia,M,No education,1,0.7
+11,Cambodia,M,Secondary,1,2.0
+11,Cambodia,M,Primary,1,2.2
+361,Cambodia,F,Higher,2,18.5
+361,Cambodia,F,No education,2,57.6
+361,Cambodia,F,Primary,2,56.0
+361,Cambodia,F,Secondary,2,42.8
+81,Cambodia,F,Higher,3,6.2
+81,Cambodia,F,No education,3,31.5
+81,Cambodia,F,Primary,3,27.7
+81,Cambodia,F,Secondary,3,18.4
+151,Cambodia,F,Higher,4,7.6
+151,Cambodia,F,No education,4,38.0
+151,Cambodia,F,Primary,4,36.6
+151,Cambodia,F,Secondary,4,24.9
+221,Cambodia,F,Higher,5,15.5
+221,Cambodia,F,No education,5,50.3
+221,Cambodia,F,Primary,5,49.4
+221,Cambodia,F,Secondary,5,37.4
+291,Cambodia,F,Higher,6,0.8
+291,Cambodia,F,No education,6,20.1
+291,Cambodia,F,Primary,6,15.5
+291,Cambodia,F,Secondary,6,8.0
+361,Cambodia,M,Higher,2,4.9
+361,Cambodia,M,No education,2,35.5
+361,Cambodia,M,Primary,2,32.2
+361,Cambodia,M,Secondary,2,22.6
+81,Cambodia,M,Higher,3,0.7
+81,Cambodia,M,No education,3,16.1
+81,Cambodia,M,Primary,3,14.6
+81,Cambodia,M,Secondary,3,9.1
+151,Cambodia,M,Higher,4,1.3
+151,Cambodia,M,No education,4,20.3
+151,Cambodia,M,Primary,4,15.6
+151,Cambodia,M,Secondary,4,10.4
+221,Cambodia,M,Higher,5,3.1
+221,Cambodia,M,No education,5,25.0
+221,Cambodia,M,Primary,5,22.9
+221,Cambodia,M,Secondary,5,17.6
+291,Cambodia,M,Higher,6,0.7
+291,Cambodia,M,No education,6,2.7
+291,Cambodia,M,Primary,6,5.6
+291,Cambodia,M,Secondary,6,3.0
+12,Cameroon,F,Higher,1,0.9
+12,Cameroon,F,Secondary,1,9.8
+12,Cameroon,F,Primary,1,15.9
+12,Cameroon,F,No education,1,20.9
+12,Cameroon,M,Higher,1,2.4
+12,Cameroon,M,Secondary,1,8.3
+12,Cameroon,M,No education,1,9.5
+12,Cameroon,M,Primary,1,11.8
+362,Cameroon,F,Higher,2,13.7
+362,Cameroon,F,No education,2,49.6
+362,Cameroon,F,Primary,2,51.6
+362,Cameroon,F,Secondary,2,45.1
+82,Cameroon,F,Higher,3,3.2
+82,Cameroon,F,No education,3,31.4
+82,Cameroon,F,Primary,3,24.4
+82,Cameroon,F,Secondary,3,14.9
+152,Cameroon,F,Higher,4,2.8
+152,Cameroon,F,No education,4,31.6
+152,Cameroon,F,Primary,4,32.9
+152,Cameroon,F,Secondary,4,21.9
+222,Cameroon,F,Higher,5,11.4
+222,Cameroon,F,No education,5,35.9
+222,Cameroon,F,Primary,5,41.9
+222,Cameroon,F,Secondary,5,37.9
+292,Cameroon,F,Higher,6,1.3
+292,Cameroon,F,No education,6,25.6
+292,Cameroon,F,Primary,6,17.2
+292,Cameroon,F,Secondary,6,7.5
+362,Cameroon,M,Higher,2,23.6
+362,Cameroon,M,No education,2,37.3
+362,Cameroon,M,Primary,2,43.7
+362,Cameroon,M,Secondary,2,38.6
+82,Cameroon,M,Higher,3,7.3
+82,Cameroon,M,No education,3,21.7
+82,Cameroon,M,Primary,3,23.1
+82,Cameroon,M,Secondary,3,15.5
+152,Cameroon,M,Higher,4,8.7
+152,Cameroon,M,No education,4,25.3
+152,Cameroon,M,Primary,4,27.5
+152,Cameroon,M,Secondary,4,19.0
+222,Cameroon,M,Higher,5,17.5
+222,Cameroon,M,No education,5,26.1
+222,Cameroon,M,Primary,5,32.2
+222,Cameroon,M,Secondary,5,29.3
+292,Cameroon,M,Higher,6,1.7
+292,Cameroon,M,No education,6,13.7
+292,Cameroon,M,Primary,6,10.7
+292,Cameroon,M,Secondary,6,5.9
+13,Chad,F,Higher,1,24.4
+13,Chad,F,No education,1,45.4
+13,Chad,F,Secondary,1,51.9
+13,Chad,F,Primary,1,56.2
+13,Chad,M,Higher,1,12.4
+13,Chad,M,No education,1,24.7
+13,Chad,M,Secondary,1,28.8
+13,Chad,M,Primary,1,31.9
+363,Chad,F,Higher,2,60.1
+363,Chad,F,No education,2,70.9
+363,Chad,F,Primary,2,79.5
+363,Chad,F,Secondary,2,76.7
+83,Chad,F,Higher,3,38.8
+83,Chad,F,No education,3,47.6
+83,Chad,F,Primary,3,55.1
+83,Chad,F,Secondary,3,51.8
+153,Chad,F,Higher,4,37.1
+153,Chad,F,No education,4,56.3
+153,Chad,F,Primary,4,66.5
+153,Chad,F,Secondary,4,60.3
+223,Chad,F,Higher,5,43.1
+223,Chad,F,No education,5,56.7
+223,Chad,F,Primary,5,66.3
+223,Chad,F,Secondary,5,64.0
+293,Chad,F,Higher,6,21.8
+293,Chad,F,No education,6,41.5
+293,Chad,F,Primary,6,43.2
+293,Chad,F,Secondary,6,33.6
+363,Chad,M,Higher,2,36.6
+363,Chad,M,No education,2,50.2
+363,Chad,M,Primary,2,53.0
+363,Chad,M,Secondary,2,50.6
+83,Chad,M,Higher,3,10.1
+83,Chad,M,No education,3,24.6
+83,Chad,M,Primary,3,22.8
+83,Chad,M,Secondary,3,20.8
+153,Chad,M,Higher,4,17.7
+153,Chad,M,No education,4,28.6
+153,Chad,M,Primary,4,30.7
+153,Chad,M,Secondary,4,26.9
+223,Chad,M,Higher,5,27.6
+223,Chad,M,No education,5,34.6
+223,Chad,M,Primary,5,40.5
+223,Chad,M,Secondary,5,37.9
+293,Chad,M,Higher,6,9.3
+293,Chad,M,No education,6,24.6
+293,Chad,M,Primary,6,25.0
+293,Chad,M,Secondary,6,23.5
+14,Colombia,F,Higher,1,0.8
+14,Colombia,F,Secondary,1,1.2
+14,Colombia,F,Primary,1,1.7
+14,Colombia,F,No education,1,1.8
+14,Colombia,M,Higher,1,0.7
+14,Colombia,M,Secondary,1,1.1
+14,Colombia,M,Primary,1,1.9
+14,Colombia,M,No education,1,2.8
+364,Colombia,F,Higher,2,1.6
+364,Colombia,F,No education,2,12.7
+364,Colombia,F,Primary,2,5.7
+364,Colombia,F,Secondary,2,3.1
+84,Colombia,F,Higher,3,0.9
+84,Colombia,F,No education,3,3.6
+84,Colombia,F,Primary,3,1.8
+84,Colombia,F,Secondary,3,1.3
+154,Colombia,F,Higher,4,0.8
+154,Colombia,F,No education,4,5.8
+154,Colombia,F,Primary,4,1.8
+154,Colombia,F,Secondary,4,1.3
+224,Colombia,F,Higher,5,1.2
+224,Colombia,F,No education,5,9.8
+224,Colombia,F,Primary,5,4.4
+224,Colombia,F,Secondary,5,2.5
+294,Colombia,F,Higher,6,0.9
+294,Colombia,F,No education,6,2.9
+294,Colombia,F,Primary,6,1.4
+294,Colombia,F,Secondary,6,1.1
+364,Colombia,M,Higher,2,1.7
+364,Colombia,M,No education,2,13.2
+364,Colombia,M,Primary,2,7.5
+364,Colombia,M,Secondary,2,4.1
+84,Colombia,M,Higher,3,0.7
+84,Colombia,M,No education,3,2.3
+84,Colombia,M,Primary,3,2.3
+84,Colombia,M,Secondary,3,1.5
+154,Colombia,M,Higher,4,0.8
+154,Colombia,M,No education,4,3.2
+154,Colombia,M,Primary,4,3.0
+154,Colombia,M,Secondary,4,1.2
+224,Colombia,M,Higher,5,1.2
+224,Colombia,M,No education,5,9.4
+224,Colombia,M,Primary,5,5.4
+224,Colombia,M,Secondary,5,2.9
+294,Colombia,M,Higher,6,0.7
+294,Colombia,M,No education,6,4.2
+294,Colombia,M,Primary,6,2.1
+294,Colombia,M,Secondary,6,1.3
+15,Comoros,F,Higher,1,6.7
+15,Comoros,F,Secondary,1,11.6
+15,Comoros,F,Primary,1,13.7
+15,Comoros,F,No education,1,15.3
+15,Comoros,M,Higher,1,0.8
+15,Comoros,M,Secondary,1,2.5
+15,Comoros,M,Primary,1,3.8
+15,Comoros,M,No education,1,4.9
+365,Comoros,F,Higher,2,23.7
+365,Comoros,F,No education,2,39.7
+365,Comoros,F,Primary,2,41.8
+365,Comoros,F,Secondary,2,40.7
+85,Comoros,F,Higher,3,6.9
+85,Comoros,F,No education,3,18.1
+85,Comoros,F,Primary,3,15.3
+85,Comoros,F,Secondary,3,16.1
+155,Comoros,F,Higher,4,16.1
+155,Comoros,F,No education,4,29.1
+155,Comoros,F,Primary,4,32.5
+155,Comoros,F,Secondary,4,28.7
+225,Comoros,F,Higher,5,17.6
+225,Comoros,F,No education,5,29.6
+225,Comoros,F,Primary,5,33.1
+225,Comoros,F,Secondary,5,31.2
+295,Comoros,F,Higher,6,12.9
+295,Comoros,F,No education,6,22.7
+295,Comoros,F,Primary,6,22.7
+295,Comoros,F,Secondary,6,18.3
+365,Comoros,M,Higher,2,6.8
+365,Comoros,M,No education,2,18.7
+365,Comoros,M,Primary,2,18.1
+365,Comoros,M,Secondary,2,19.1
+85,Comoros,M,Higher,3,1.4
+85,Comoros,M,No education,3,6.7
+85,Comoros,M,Primary,3,7.1
+85,Comoros,M,Secondary,3,8.0
+155,Comoros,M,Higher,4,2.7
+155,Comoros,M,No education,4,10.1
+155,Comoros,M,Primary,4,6.8
+155,Comoros,M,Secondary,4,7.1
+225,Comoros,M,Higher,5,3.5
+225,Comoros,M,No education,5,6.6
+225,Comoros,M,Primary,5,8.1
+225,Comoros,M,Secondary,5,9.6
+295,Comoros,M,Higher,6,2.0
+295,Comoros,M,No education,6,10.9
+295,Comoros,M,Primary,6,7.9
+295,Comoros,M,Secondary,6,8.7
+16,Congo,F,Higher,1,0.0
+16,Congo,F,No education,1,0.0
+16,Congo,F,Primary,1,0.0
+16,Congo,F,Secondary,1,0.0
+16,Congo,M,Higher,1,0.0
+16,Congo,M,No education,1,0.0
+16,Congo,M,Primary,1,0.0
+16,Congo,M,Secondary,1,0.0
+366,Congo,F,Higher,2,48.5
+366,Congo,F,No education,2,59.5
+366,Congo,F,Primary,2,61.2
+366,Congo,F,Secondary,2,61.5
+86,Congo,F,Higher,3,0.0
+86,Congo,F,No education,3,0.0
+86,Congo,F,Primary,3,0.0
+86,Congo,F,Secondary,3,0.0
+156,Congo,F,Higher,4,22.5
+156,Congo,F,No education,4,41.2
+156,Congo,F,Primary,4,44.1
+156,Congo,F,Secondary,4,41.1
+226,Congo,F,Higher,5,38.3
+226,Congo,F,No education,5,44.2
+226,Congo,F,Primary,5,47.6
+226,Congo,F,Secondary,5,47.4
+296,Congo,F,Higher,6,14.4
+296,Congo,F,No education,6,35.1
+296,Congo,F,Primary,6,31.4
+296,Congo,F,Secondary,6,24.6
+366,Congo,M,Higher,2,29.4
+366,Congo,M,No education,2,32.3
+366,Congo,M,Primary,2,44.6
+366,Congo,M,Secondary,2,45.3
+86,Congo,M,Higher,3,0.0
+86,Congo,M,No education,3,0.0
+86,Congo,M,Primary,3,0.0
+86,Congo,M,Secondary,3,0.0
+156,Congo,M,Higher,4,13.9
+156,Congo,M,No education,4,18.8
+156,Congo,M,Primary,4,22.5
+156,Congo,M,Secondary,4,23.8
+226,Congo,M,Higher,5,21.2
+226,Congo,M,No education,5,24.5
+226,Congo,M,Primary,5,32.3
+226,Congo,M,Secondary,5,32.9
+296,Congo,M,Higher,6,11.8
+296,Congo,M,No education,6,9.3
+296,Congo,M,Primary,6,18.0
+296,Congo,M,Secondary,6,12.4
+17,Congo Democratic Republic,F,Higher,1,6.1
+17,Congo Democratic Republic,F,Secondary,1,22.5
+17,Congo Democratic Republic,F,No education,1,24.1
+17,Congo Democratic Republic,F,Primary,1,28.5
+17,Congo Democratic Republic,M,Higher,1,3.3
+17,Congo Democratic Republic,M,No education,1,15.6
+17,Congo Democratic Republic,M,Secondary,1,16.0
+17,Congo Democratic Republic,M,Primary,1,17.2
+367,Congo Democratic Republic,F,Higher,2,49.8
+367,Congo Democratic Republic,F,No education,2,75.4
+367,Congo Democratic Republic,F,Primary,2,76.2
+367,Congo Democratic Republic,F,Secondary,2,75.4
+87,Congo Democratic Republic,F,Higher,3,33.1
+87,Congo Democratic Republic,F,No education,3,58.7
+87,Congo Democratic Republic,F,Primary,3,59.7
+87,Congo Democratic Republic,F,Secondary,3,57.6
+157,Congo Democratic Republic,F,Higher,4,22.6
+157,Congo Democratic Republic,F,No education,4,49.7
+157,Congo Democratic Republic,F,Primary,4,51.8
+157,Congo Democratic Republic,F,Secondary,4,48.8
+227,Congo Democratic Republic,F,Higher,5,33.3
+227,Congo Democratic Republic,F,No education,5,50.2
+227,Congo Democratic Republic,F,Primary,5,51.6
+227,Congo Democratic Republic,F,Secondary,5,53.2
+297,Congo Democratic Republic,F,Higher,6,18.4
+297,Congo Democratic Republic,F,No education,6,50.7
+297,Congo Democratic Republic,F,Primary,6,49.3
+297,Congo Democratic Republic,F,Secondary,6,38.1
+367,Congo Democratic Republic,M,Higher,2,41.7
+367,Congo Democratic Republic,M,No education,2,63.9
+367,Congo Democratic Republic,M,Primary,2,64.9
+367,Congo Democratic Republic,M,Secondary,2,62.1
+87,Congo Democratic Republic,M,Higher,3,25.3
+87,Congo Democratic Republic,M,No education,3,42.0
+87,Congo Democratic Republic,M,Primary,3,46.3
+87,Congo Democratic Republic,M,Secondary,3,43.1
+157,Congo Democratic Republic,M,Higher,4,16.6
+157,Congo Democratic Republic,M,No education,4,32.9
+157,Congo Democratic Republic,M,Primary,4,37.1
+157,Congo Democratic Republic,M,Secondary,4,33.2
+227,Congo Democratic Republic,M,Higher,5,23.7
+227,Congo Democratic Republic,M,No education,5,42.5
+227,Congo Democratic Republic,M,Primary,5,41.3
+227,Congo Democratic Republic,M,Secondary,5,41.8
+297,Congo Democratic Republic,M,Higher,6,6.7
+297,Congo Democratic Republic,M,No education,6,30.8
+297,Congo Democratic Republic,M,Primary,6,29.7
+297,Congo Democratic Republic,M,Secondary,6,23.0
+18,Cote d'Ivoire,F,Higher,1,2.3
+18,Cote d'Ivoire,F,Secondary,1,9.8
+18,Cote d'Ivoire,F,Primary,1,17.9
+18,Cote d'Ivoire,F,No education,1,18.7
+18,Cote d'Ivoire,M,Higher,1,5.0
+18,Cote d'Ivoire,M,Secondary,1,11.8
+18,Cote d'Ivoire,M,No education,1,13.3
+18,Cote d'Ivoire,M,Primary,1,14.5
+368,Cote d'Ivoire,F,Higher,2,17.8
+368,Cote d'Ivoire,F,No education,2,51.3
+368,Cote d'Ivoire,F,Primary,2,50.1
+368,Cote d'Ivoire,F,Secondary,2,39.5
+88,Cote d'Ivoire,F,Higher,3,7.2
+88,Cote d'Ivoire,F,No education,3,38.9
+88,Cote d'Ivoire,F,Primary,3,34.7
+88,Cote d'Ivoire,F,Secondary,3,24.6
+158,Cote d'Ivoire,F,Higher,4,2.7
+158,Cote d'Ivoire,F,No education,4,32.0
+158,Cote d'Ivoire,F,Primary,4,26.9
+158,Cote d'Ivoire,F,Secondary,4,14.0
+228,Cote d'Ivoire,F,Higher,5,8.8
+228,Cote d'Ivoire,F,No education,5,36.3
+228,Cote d'Ivoire,F,Primary,5,32.6
+228,Cote d'Ivoire,F,Secondary,5,26.2
+298,Cote d'Ivoire,F,Higher,6,2.9
+298,Cote d'Ivoire,F,No education,6,28.3
+298,Cote d'Ivoire,F,Primary,6,18.2
+298,Cote d'Ivoire,F,Secondary,6,9.3
+368,Cote d'Ivoire,M,Higher,2,19.1
+368,Cote d'Ivoire,M,No education,2,44.7
+368,Cote d'Ivoire,M,Primary,2,45.9
+368,Cote d'Ivoire,M,Secondary,2,40.5
+88,Cote d'Ivoire,M,Higher,3,10.8
+88,Cote d'Ivoire,M,No education,3,30.4
+88,Cote d'Ivoire,M,Primary,3,29.2
+88,Cote d'Ivoire,M,Secondary,3,20.9
+158,Cote d'Ivoire,M,Higher,4,5.5
+158,Cote d'Ivoire,M,No education,4,28.0
+158,Cote d'Ivoire,M,Primary,4,24.3
+158,Cote d'Ivoire,M,Secondary,4,17.2
+228,Cote d'Ivoire,M,Higher,5,10.9
+228,Cote d'Ivoire,M,No education,5,30.2
+228,Cote d'Ivoire,M,Primary,5,31.5
+228,Cote d'Ivoire,M,Secondary,5,28.6
+298,Cote d'Ivoire,M,Higher,6,1.3
+298,Cote d'Ivoire,M,No education,6,15.9
+298,Cote d'Ivoire,M,Primary,6,14.4
+298,Cote d'Ivoire,M,Secondary,6,7.4
+19,Dominican Republic,F,Higher,1,0.0
+19,Dominican Republic,F,Secondary,1,0.5
+19,Dominican Republic,F,Primary,1,1.3
+19,Dominican Republic,F,No education,1,1.9
+19,Dominican Republic,M,Higher,1,0.0
+19,Dominican Republic,M,Secondary,1,0.6
+19,Dominican Republic,M,Primary,1,1.5
+19,Dominican Republic,M,No education,1,3.1
+369,Dominican Republic,F,Higher,2,0.5
+369,Dominican Republic,F,No education,2,3.9
+369,Dominican Republic,F,Primary,2,4.4
+369,Dominican Republic,F,Secondary,2,2.0
+89,Dominican Republic,F,Higher,3,0.2
+89,Dominican Republic,F,No education,3,3.3
+89,Dominican Republic,F,Primary,3,1.2
+89,Dominican Republic,F,Secondary,3,0.5
+159,Dominican Republic,F,Higher,4,0.2
+159,Dominican Republic,F,No education,4,1.9
+159,Dominican Republic,F,Primary,4,1.5
+159,Dominican Republic,F,Secondary,4,0.7
+229,Dominican Republic,F,Higher,5,0.3
+229,Dominican Republic,F,No education,5,2.5
+229,Dominican Republic,F,Primary,5,3.3
+229,Dominican Republic,F,Secondary,5,1.5
+299,Dominican Republic,F,Higher,6,0.2
+299,Dominican Republic,F,No education,6,2.1
+299,Dominican Republic,F,Primary,6,0.6
+299,Dominican Republic,F,Secondary,6,0.3
+369,Dominican Republic,M,Higher,2,0.9
+369,Dominican Republic,M,No education,2,10.4
+369,Dominican Republic,M,Primary,2,6.6
+369,Dominican Republic,M,Secondary,2,2.7
+89,Dominican Republic,M,Higher,3,0.1
+89,Dominican Republic,M,No education,3,3.0
+89,Dominican Republic,M,Primary,3,1.7
+89,Dominican Republic,M,Secondary,3,0.7
+159,Dominican Republic,M,Higher,4,0.2
+159,Dominican Republic,M,No education,4,5.0
+159,Dominican Republic,M,Primary,4,3.9
+159,Dominican Republic,M,Secondary,4,1.1
+229,Dominican Republic,M,Higher,5,0.3
+229,Dominican Republic,M,No education,5,6.0
+229,Dominican Republic,M,Primary,5,3.9
+229,Dominican Republic,M,Secondary,5,1.4
+299,Dominican Republic,M,Higher,6,0.3
+299,Dominican Republic,M,No education,6,0.9
+299,Dominican Republic,M,Primary,6,0.9
+299,Dominican Republic,M,Secondary,6,0.5
+20,Egypt,F,Higher,1,1.1
+20,Egypt,F,Secondary,1,4.9
+20,Egypt,F,Primary,1,10.9
+20,Egypt,F,No education,1,13.1
+20,Egypt,M,Higher,1,0.0
+20,Egypt,M,No education,1,0.0
+20,Egypt,M,Primary,1,0.0
+20,Egypt,M,Secondary,1,0.0
+370,Egypt,F,Higher,2,13.3
+370,Egypt,F,No education,2,53.1
+370,Egypt,F,Primary,2,47.2
+370,Egypt,F,Secondary,2,31.3
+90,Egypt,F,Higher,3,2.5
+90,Egypt,F,No education,3,23.4
+90,Egypt,F,Primary,3,20.4
+90,Egypt,F,Secondary,3,9.0
+160,Egypt,F,Higher,4,6.5
+160,Egypt,F,No education,4,41.8
+160,Egypt,F,Primary,4,36.7
+160,Egypt,F,Secondary,4,20.9
+230,Egypt,F,Higher,5,6.0
+230,Egypt,F,No education,5,38.6
+230,Egypt,F,Primary,5,34.8
+230,Egypt,F,Secondary,5,20.2
+300,Egypt,F,Higher,6,6.7
+300,Egypt,F,No education,6,33.4
+300,Egypt,F,Primary,6,28.6
+300,Egypt,F,Secondary,6,15.4
+370,Egypt,M,Higher,2,0.0
+370,Egypt,M,No education,2,0.0
+370,Egypt,M,Primary,2,0.0
+370,Egypt,M,Secondary,2,0.0
+90,Egypt,M,Higher,3,0.0
+90,Egypt,M,No education,3,0.0
+90,Egypt,M,Primary,3,0.0
+90,Egypt,M,Secondary,3,0.0
+160,Egypt,M,Higher,4,0.0
+160,Egypt,M,No education,4,0.0
+160,Egypt,M,Primary,4,0.0
+160,Egypt,M,Secondary,4,0.0
+230,Egypt,M,Higher,5,0.0
+230,Egypt,M,No education,5,0.0
+230,Egypt,M,Primary,5,0.0
+230,Egypt,M,Secondary,5,0.0
+300,Egypt,M,Higher,6,0.0
+300,Egypt,M,No education,6,0.0
+300,Egypt,M,Primary,6,0.0
+300,Egypt,M,Secondary,6,0.0
+21,Eritrea,F,Higher,1,5.1
+21,Eritrea,F,Secondary,1,15.7
+21,Eritrea,F,Primary,1,31.0
+21,Eritrea,F,No education,1,33.8
+21,Eritrea,M,Higher,1,0.0
+21,Eritrea,M,No education,1,0.0
+21,Eritrea,M,Primary,1,0.0
+21,Eritrea,M,Secondary,1,0.0
+371,Eritrea,F,Higher,2,32.1
+371,Eritrea,F,No education,2,77.5
+371,Eritrea,F,Primary,2,73.9
+371,Eritrea,F,Secondary,2,50.3
+91,Eritrea,F,Higher,3,9.8
+91,Eritrea,F,No education,3,55.1
+91,Eritrea,F,Primary,3,43.3
+91,Eritrea,F,Secondary,3,20.9
+161,Eritrea,F,Higher,4,9.3
+161,Eritrea,F,No education,4,61.5
+161,Eritrea,F,Primary,4,52.8
+161,Eritrea,F,Secondary,4,26.8
+231,Eritrea,F,Higher,5,18.8
+231,Eritrea,F,No education,5,55.2
+231,Eritrea,F,Primary,5,54.7
+231,Eritrea,F,Secondary,5,36.3
+301,Eritrea,F,Higher,6,9.0
+301,Eritrea,F,No education,6,58.3
+301,Eritrea,F,Primary,6,47.3
+301,Eritrea,F,Secondary,6,23.8
+371,Eritrea,M,Higher,2,0.0
+371,Eritrea,M,No education,2,0.0
+371,Eritrea,M,Primary,2,0.0
+371,Eritrea,M,Secondary,2,0.0
+91,Eritrea,M,Higher,3,0.0
+91,Eritrea,M,No education,3,0.0
+91,Eritrea,M,Primary,3,0.0
+91,Eritrea,M,Secondary,3,0.0
+161,Eritrea,M,Higher,4,0.0
+161,Eritrea,M,No education,4,0.0
+161,Eritrea,M,Primary,4,0.0
+161,Eritrea,M,Secondary,4,0.0
+231,Eritrea,M,Higher,5,0.0
+231,Eritrea,M,No education,5,0.0
+231,Eritrea,M,Primary,5,0.0
+231,Eritrea,M,Secondary,5,0.0
+301,Eritrea,M,Higher,6,0.0
+301,Eritrea,M,No education,6,0.0
+301,Eritrea,M,Primary,6,0.0
+301,Eritrea,M,Secondary,6,0.0
+22,Eswatini,F,Higher,1,0.2
+22,Eswatini,F,Secondary,1,1.4
+22,Eswatini,F,Primary,1,5.2
+22,Eswatini,F,No education,1,5.3
+22,Eswatini,M,Higher,1,1.0
+22,Eswatini,M,Secondary,1,2.8
+22,Eswatini,M,No education,1,4.1
+22,Eswatini,M,Primary,1,6.8
+372,Eswatini,F,Higher,2,3.9
+372,Eswatini,F,No education,2,30.1
+372,Eswatini,F,Primary,2,31.4
+372,Eswatini,F,Secondary,2,19.7
+92,Eswatini,F,Higher,3,2.1
+92,Eswatini,F,No education,3,23.9
+92,Eswatini,F,Primary,3,23.9
+92,Eswatini,F,Secondary,3,13.8
+162,Eswatini,F,Higher,4,1.2
+162,Eswatini,F,No education,4,11.8
+162,Eswatini,F,Primary,4,13.9
+162,Eswatini,F,Secondary,4,7.1
+232,Eswatini,F,Higher,5,1.4
+232,Eswatini,F,No education,5,12.2
+232,Eswatini,F,Primary,5,14.9
+232,Eswatini,F,Secondary,5,10.0
+302,Eswatini,F,Higher,6,0.3
+302,Eswatini,F,No education,6,7.6
+302,Eswatini,F,Primary,6,5.8
+302,Eswatini,F,Secondary,6,1.5
+372,Eswatini,M,Higher,2,10.4
+372,Eswatini,M,No education,2,28.0
+372,Eswatini,M,Primary,2,40.9
+372,Eswatini,M,Secondary,2,28.5
+92,Eswatini,M,Higher,3,7.7
+92,Eswatini,M,No education,3,21.1
+92,Eswatini,M,Primary,3,30.6
+92,Eswatini,M,Secondary,3,19.8
+162,Eswatini,M,Higher,4,4.1
+162,Eswatini,M,No education,4,11.5
+162,Eswatini,M,Primary,4,21.0
+162,Eswatini,M,Secondary,4,12.9
+232,Eswatini,M,Higher,5,5.1
+232,Eswatini,M,No education,5,12.2
+232,Eswatini,M,Primary,5,21.0
+232,Eswatini,M,Secondary,5,13.3
+302,Eswatini,M,Higher,6,1.5
+302,Eswatini,M,No education,6,6.1
+302,Eswatini,M,Primary,6,6.3
+302,Eswatini,M,Secondary,6,1.9
+23,Ethiopia,F,Higher,1,6.4
+23,Ethiopia,F,Secondary,1,17.7
+23,Ethiopia,F,Primary,1,39.4
+23,Ethiopia,F,No education,1,49.3
+23,Ethiopia,M,Higher,1,3.2
+23,Ethiopia,M,Secondary,1,5.3
+23,Ethiopia,M,Primary,1,12.3
+23,Ethiopia,M,No education,1,16.7
+373,Ethiopia,F,Higher,2,26.1
+373,Ethiopia,F,No education,2,71.9
+373,Ethiopia,F,Primary,2,63.7
+373,Ethiopia,F,Secondary,2,41.9
+93,Ethiopia,F,Higher,3,9.6
+93,Ethiopia,F,No education,3,50.9
+93,Ethiopia,F,Primary,3,42.3
+93,Ethiopia,F,Secondary,3,21.4
+163,Ethiopia,F,Higher,4,11.7
+163,Ethiopia,F,No education,4,52.2
+163,Ethiopia,F,Primary,4,42.3
+163,Ethiopia,F,Secondary,4,25.2
+233,Ethiopia,F,Higher,5,19.6
+233,Ethiopia,F,No education,5,54.5
+233,Ethiopia,F,Primary,5,47.7
+233,Ethiopia,F,Secondary,5,31.2
+303,Ethiopia,F,Higher,6,5.6
+303,Ethiopia,F,No education,6,44.0
+303,Ethiopia,F,Primary,6,32.9
+303,Ethiopia,F,Secondary,6,16.1
+373,Ethiopia,M,Higher,2,11.2
+373,Ethiopia,M,No education,2,36.0
+373,Ethiopia,M,Primary,2,29.0
+373,Ethiopia,M,Secondary,2,18.0
+93,Ethiopia,M,Higher,3,5.5
+93,Ethiopia,M,No education,3,21.5
+93,Ethiopia,M,Primary,3,17.4
+93,Ethiopia,M,Secondary,3,7.9
+163,Ethiopia,M,Higher,4,5.6
+163,Ethiopia,M,No education,4,22.4
+163,Ethiopia,M,Primary,4,17.7
+163,Ethiopia,M,Secondary,4,10.2
+233,Ethiopia,M,Higher,5,7.5
+233,Ethiopia,M,No education,5,25.9
+233,Ethiopia,M,Primary,5,19.3
+233,Ethiopia,M,Secondary,5,13.0
+303,Ethiopia,M,Higher,6,4.3
+303,Ethiopia,M,No education,6,17.4
+303,Ethiopia,M,Primary,6,13.3
+303,Ethiopia,M,Secondary,6,6.4
+24,Gabon,F,Higher,1,2.2
+24,Gabon,F,Secondary,1,9.6
+24,Gabon,F,No education,1,15.9
+24,Gabon,F,Primary,1,16.6
+24,Gabon,M,Higher,1,3.5
+24,Gabon,M,Primary,1,6.9
+24,Gabon,M,Secondary,1,7.2
+24,Gabon,M,No education,1,9.9
+374,Gabon,F,Higher,2,24.1
+374,Gabon,F,No education,2,58.7
+374,Gabon,F,Primary,2,59.0
+374,Gabon,F,Secondary,2,50.7
+94,Gabon,F,Higher,3,10.9
+94,Gabon,F,No education,3,37.1
+94,Gabon,F,Primary,3,35.0
+94,Gabon,F,Secondary,3,24.7
+164,Gabon,F,Higher,4,3.8
+164,Gabon,F,No education,4,35.6
+164,Gabon,F,Primary,4,32.6
+164,Gabon,F,Secondary,4,15.7
+234,Gabon,F,Higher,5,17.1
+234,Gabon,F,No education,5,50.2
+234,Gabon,F,Primary,5,46.2
+234,Gabon,F,Secondary,5,41.1
+304,Gabon,F,Higher,6,2.2
+304,Gabon,F,No education,6,23.2
+304,Gabon,F,Primary,6,16.3
+304,Gabon,F,Secondary,6,6.4
+374,Gabon,M,Higher,2,23.5
+374,Gabon,M,No education,2,37.4
+374,Gabon,M,Primary,2,40.1
+374,Gabon,M,Secondary,2,43.6
+94,Gabon,M,Higher,3,11.3
+94,Gabon,M,No education,3,21.3
+94,Gabon,M,Primary,3,20.7
+94,Gabon,M,Secondary,3,21.0
+164,Gabon,M,Higher,4,6.3
+164,Gabon,M,No education,4,16.3
+164,Gabon,M,Primary,4,17.7
+164,Gabon,M,Secondary,4,14.8
+234,Gabon,M,Higher,5,16.4
+234,Gabon,M,No education,5,26.3
+234,Gabon,M,Primary,5,28.3
+234,Gabon,M,Secondary,5,32.4
+304,Gabon,M,Higher,6,1.7
+304,Gabon,M,No education,6,15.7
+304,Gabon,M,Primary,6,7.3
+304,Gabon,M,Secondary,6,5.5
+25,Gambia,F,Higher,1,1.9
+25,Gambia,F,Secondary,1,7.0
+25,Gambia,F,No education,1,13.4
+25,Gambia,F,Primary,1,13.7
+25,Gambia,M,Higher,1,2.3
+25,Gambia,M,No education,1,4.7
+25,Gambia,M,Secondary,1,7.0
+25,Gambia,M,Primary,1,10.2
+375,Gambia,F,Higher,2,28.2
+375,Gambia,F,No education,2,67.8
+375,Gambia,F,Primary,2,66.8
+375,Gambia,F,Secondary,2,47.1
+95,Gambia,F,Higher,3,4.2
+95,Gambia,F,No education,3,29.8
+95,Gambia,F,Primary,3,29.8
+95,Gambia,F,Secondary,3,17.3
+165,Gambia,F,Higher,4,11.9
+165,Gambia,F,No education,4,52.0
+165,Gambia,F,Primary,4,49.7
+165,Gambia,F,Secondary,4,30.1
+235,Gambia,F,Higher,5,12.8
+235,Gambia,F,No education,5,42.1
+235,Gambia,F,Primary,5,40.9
+235,Gambia,F,Secondary,5,27.3
+305,Gambia,F,Higher,6,17.4
+305,Gambia,F,No education,6,54.7
+305,Gambia,F,Primary,6,53.3
+305,Gambia,F,Secondary,6,32.0
+375,Gambia,M,Higher,2,15.4
+375,Gambia,M,No education,2,35.2
+375,Gambia,M,Primary,2,41.9
+375,Gambia,M,Secondary,2,32.5
+95,Gambia,M,Higher,3,2.7
+95,Gambia,M,No education,3,12.0
+95,Gambia,M,Primary,3,16.6
+95,Gambia,M,Secondary,3,11.1
+165,Gambia,M,Higher,4,8.3
+165,Gambia,M,No education,4,24.6
+165,Gambia,M,Primary,4,27.9
+165,Gambia,M,Secondary,4,18.8
+235,Gambia,M,Higher,5,10.2
+235,Gambia,M,No education,5,19.9
+235,Gambia,M,Primary,5,23.0
+235,Gambia,M,Secondary,5,18.8
+305,Gambia,M,Higher,6,4.6
+305,Gambia,M,No education,6,23.4
+305,Gambia,M,Primary,6,26.4
+305,Gambia,M,Secondary,6,17.4
+26,Ghana,F,Higher,1,1.1
+26,Ghana,F,Secondary,1,4.7
+26,Ghana,F,Primary,1,9.7
+26,Ghana,F,No education,1,15.4
+26,Ghana,M,Higher,1,0.9
+26,Ghana,M,Secondary,1,2.8
+26,Ghana,M,No education,1,4.0
+26,Ghana,M,Primary,1,4.1
+376,Ghana,F,Higher,2,4.2
+376,Ghana,F,No education,2,47.1
+376,Ghana,F,Primary,2,34.7
+376,Ghana,F,Secondary,2,22.6
+96,Ghana,F,Higher,3,1.6
+96,Ghana,F,No education,3,30.3
+96,Ghana,F,Primary,3,20.0
+96,Ghana,F,Secondary,3,10.9
+166,Ghana,F,Higher,4,2.3
+166,Ghana,F,No education,4,30.8
+166,Ghana,F,Primary,4,22.4
+166,Ghana,F,Secondary,4,11.4
+236,Ghana,F,Higher,5,3.1
+236,Ghana,F,No education,5,36.6
+236,Ghana,F,Primary,5,26.1
+236,Ghana,F,Secondary,5,16.1
+306,Ghana,F,Higher,6,1.1
+306,Ghana,F,No education,6,29.0
+306,Ghana,F,Primary,6,14.0
+306,Ghana,F,Secondary,6,7.2
+376,Ghana,M,Higher,2,3.1
+376,Ghana,M,No education,2,23.5
+376,Ghana,M,Primary,2,18.4
+376,Ghana,M,Secondary,2,12.0
+96,Ghana,M,Higher,3,1.6
+96,Ghana,M,No education,3,9.0
+96,Ghana,M,Primary,3,9.6
+96,Ghana,M,Secondary,3,5.4
+166,Ghana,M,Higher,4,1.7
+166,Ghana,M,No education,4,15.5
+166,Ghana,M,Primary,4,8.8
+166,Ghana,M,Secondary,4,5.8
+236,Ghana,M,Higher,5,1.8
+236,Ghana,M,No education,5,15.7
+236,Ghana,M,Primary,5,12.8
+236,Ghana,M,Secondary,5,7.6
+306,Ghana,M,Higher,6,1.5
+306,Ghana,M,No education,6,12.8
+306,Ghana,M,Primary,6,6.7
+306,Ghana,M,Secondary,6,3.8
+27,Guatemala,F,Higher,1,0.1
+27,Guatemala,F,Secondary,1,1.1
+27,Guatemala,F,Primary,1,5.7
+27,Guatemala,F,No education,1,8.3
+27,Guatemala,M,Higher,1,0.3
+27,Guatemala,M,No education,1,0.9
+27,Guatemala,M,Secondary,1,1.0
+27,Guatemala,M,Primary,1,1.8
+377,Guatemala,F,Higher,2,0.8
+377,Guatemala,F,No education,2,18.3
+377,Guatemala,F,Primary,2,14.3
+377,Guatemala,F,Secondary,2,5.2
+97,Guatemala,F,Higher,3,0.3
+97,Guatemala,F,No education,3,5.7
+97,Guatemala,F,Primary,3,4.5
+97,Guatemala,F,Secondary,3,1.1
+167,Guatemala,F,Higher,4,0.0
+167,Guatemala,F,No education,4,6.2
+167,Guatemala,F,Primary,4,5.0
+167,Guatemala,F,Secondary,4,1.2
+237,Guatemala,F,Higher,5,0.5
+237,Guatemala,F,No education,5,11.9
+237,Guatemala,F,Primary,5,9.9
+237,Guatemala,F,Secondary,5,3.8
+307,Guatemala,F,Higher,6,0.1
+307,Guatemala,F,No education,6,4.4
+307,Guatemala,F,Primary,6,3.4
+307,Guatemala,F,Secondary,6,0.5
+377,Guatemala,M,Higher,2,1.8
+377,Guatemala,M,No education,2,8.7
+377,Guatemala,M,Primary,2,8.1
+377,Guatemala,M,Secondary,2,7.2
+97,Guatemala,M,Higher,3,0.5
+97,Guatemala,M,No education,3,2.1
+97,Guatemala,M,Primary,3,2.8
+97,Guatemala,M,Secondary,3,2.7
+167,Guatemala,M,Higher,4,0.2
+167,Guatemala,M,No education,4,2.4
+167,Guatemala,M,Primary,4,2.7
+167,Guatemala,M,Secondary,4,1.6
+237,Guatemala,M,Higher,5,1.1
+237,Guatemala,M,No education,5,5.1
+237,Guatemala,M,Primary,5,4.9
+237,Guatemala,M,Secondary,5,4.1
+307,Guatemala,M,Higher,6,0.4
+307,Guatemala,M,No education,6,1.0
+307,Guatemala,M,Primary,6,1.8
+307,Guatemala,M,Secondary,6,1.4
+28,Guinea,F,Higher,1,8.2
+28,Guinea,F,Secondary,1,15.8
+28,Guinea,F,Primary,1,23.3
+28,Guinea,F,No education,1,26.3
+28,Guinea,M,Higher,1,9.2
+28,Guinea,M,Secondary,1,13.0
+28,Guinea,M,No education,1,19.7
+28,Guinea,M,Primary,1,22.0
+378,Guinea,F,Higher,2,46.8
+378,Guinea,F,No education,2,70.9
+378,Guinea,F,Primary,2,65.3
+378,Guinea,F,Secondary,2,57.8
+98,Guinea,F,Higher,3,19.4
+98,Guinea,F,No education,3,53.0
+98,Guinea,F,Primary,3,49.5
+98,Guinea,F,Secondary,3,38.4
+168,Guinea,F,Higher,4,28.9
+168,Guinea,F,No education,4,58.3
+168,Guinea,F,Primary,4,51.7
+168,Guinea,F,Secondary,4,41.7
+238,Guinea,F,Higher,5,32.9
+238,Guinea,F,No education,5,55.8
+238,Guinea,F,Primary,5,49.7
+238,Guinea,F,Secondary,5,44.1
+308,Guinea,F,Higher,6,25.4
+308,Guinea,F,No education,6,51.9
+308,Guinea,F,Primary,6,45.7
+308,Guinea,F,Secondary,6,35.8
+378,Guinea,M,Higher,2,39.9
+378,Guinea,M,No education,2,64.5
+378,Guinea,M,Primary,2,54.8
+378,Guinea,M,Secondary,2,47.3
+98,Guinea,M,Higher,3,20.4
+98,Guinea,M,No education,3,39.8
+98,Guinea,M,Primary,3,29.8
+98,Guinea,M,Secondary,3,26.4
+168,Guinea,M,Higher,4,23.8
+168,Guinea,M,No education,4,47.3
+168,Guinea,M,Primary,4,35.9
+168,Guinea,M,Secondary,4,28.7
+238,Guinea,M,Higher,5,30.9
+238,Guinea,M,No education,5,50.2
+238,Guinea,M,Primary,5,43.0
+238,Guinea,M,Secondary,5,37.5
+308,Guinea,M,Higher,6,10.7
+308,Guinea,M,No education,6,34.0
+308,Guinea,M,Primary,6,27.5
+308,Guinea,M,Secondary,6,17.0
+29,Guyana,F,Higher,1,0.0
+29,Guyana,F,Secondary,1,3.1
+29,Guyana,F,No education,1,5.6
+29,Guyana,F,Primary,1,6.4
+29,Guyana,M,Higher,1,0.1
+29,Guyana,M,Secondary,1,3.3
+29,Guyana,M,No education,1,3.7
+29,Guyana,M,Primary,1,7.2
+379,Guyana,F,Higher,2,3.1
+379,Guyana,F,No education,2,15.4
+379,Guyana,F,Primary,2,26.2
+379,Guyana,F,Secondary,2,15.2
+99,Guyana,F,Higher,3,0.7
+99,Guyana,F,No education,3,7.6
+99,Guyana,F,Primary,3,11.3
+99,Guyana,F,Secondary,3,6.1
+169,Guyana,F,Higher,4,0.7
+169,Guyana,F,No education,4,10.4
+169,Guyana,F,Primary,4,11.6
+169,Guyana,F,Secondary,4,4.7
+239,Guyana,F,Higher,5,2.6
+239,Guyana,F,No education,5,10.4
+239,Guyana,F,Primary,5,18.3
+239,Guyana,F,Secondary,5,11.0
+309,Guyana,F,Higher,6,0.4
+309,Guyana,F,No education,6,3.8
+309,Guyana,F,Primary,6,7.2
+309,Guyana,F,Secondary,6,4.1
+379,Guyana,M,Higher,2,8.6
+379,Guyana,M,No education,2,34.0
+379,Guyana,M,Primary,2,26.8
+379,Guyana,M,Secondary,2,18.0
+99,Guyana,M,Higher,3,2.1
+99,Guyana,M,No education,3,16.4
+99,Guyana,M,Primary,3,13.0
+99,Guyana,M,Secondary,3,6.8
+169,Guyana,M,Higher,4,1.2
+169,Guyana,M,No education,4,8.8
+169,Guyana,M,Primary,4,12.3
+169,Guyana,M,Secondary,4,5.8
+239,Guyana,M,Higher,5,6.2
+239,Guyana,M,No education,5,24.8
+239,Guyana,M,Primary,5,19.0
+239,Guyana,M,Secondary,5,12.1
+309,Guyana,M,Higher,6,2.2
+309,Guyana,M,No education,6,4.9
+309,Guyana,M,Primary,6,5.6
+309,Guyana,M,Secondary,6,3.1
+30,Haiti,F,Higher,1,0.1
+30,Haiti,F,Secondary,1,2.9
+30,Haiti,F,No education,1,4.7
+30,Haiti,F,Primary,1,6.2
+30,Haiti,M,Higher,1,0.2
+30,Haiti,M,Secondary,1,1.6
+30,Haiti,M,No education,1,1.7
+30,Haiti,M,Primary,1,2.6
+380,Haiti,F,Higher,2,1.9
+380,Haiti,F,No education,2,22.5
+380,Haiti,F,Primary,2,22.4
+380,Haiti,F,Secondary,2,13.6
+100,Haiti,F,Higher,3,0.1
+100,Haiti,F,No education,3,4.4
+100,Haiti,F,Primary,3,3.7
+100,Haiti,F,Secondary,3,1.6
+170,Haiti,F,Higher,4,0.7
+170,Haiti,F,No education,4,15.6
+170,Haiti,F,Primary,4,16.5
+170,Haiti,F,Secondary,4,8.2
+240,Haiti,F,Higher,5,1.2
+240,Haiti,F,No education,5,13.1
+240,Haiti,F,Primary,5,13.9
+240,Haiti,F,Secondary,5,8.3
+310,Haiti,F,Higher,6,0.2
+310,Haiti,F,No education,6,9.8
+310,Haiti,F,Primary,6,6.9
+310,Haiti,F,Secondary,6,2.8
+380,Haiti,M,Higher,2,3.5
+380,Haiti,M,No education,2,10.7
+380,Haiti,M,Primary,2,15.3
+380,Haiti,M,Secondary,2,9.9
+100,Haiti,M,Higher,3,0.2
+100,Haiti,M,No education,3,1.3
+100,Haiti,M,Primary,3,2.9
+100,Haiti,M,Secondary,3,1.2
+170,Haiti,M,Higher,4,1.9
+170,Haiti,M,No education,4,7.6
+170,Haiti,M,Primary,4,10.1
+170,Haiti,M,Secondary,4,5.8
+240,Haiti,M,Higher,5,1.8
+240,Haiti,M,No education,5,4.4
+240,Haiti,M,Primary,5,8.2
+240,Haiti,M,Secondary,5,6.0
+310,Haiti,M,Higher,6,0.5
+310,Haiti,M,No education,6,3.2
+310,Haiti,M,Primary,6,4.4
+310,Haiti,M,Secondary,6,1.7
+31,Honduras,F,Higher,1,0.4
+31,Honduras,F,Secondary,1,1.4
+31,Honduras,F,Primary,1,6.5
+31,Honduras,F,No education,1,10.8
+31,Honduras,M,Higher,1,0.5
+31,Honduras,M,Secondary,1,1.5
+31,Honduras,M,No education,1,3.7
+31,Honduras,M,Primary,1,4.3
+381,Honduras,F,Higher,2,1.3
+381,Honduras,F,No education,2,23.6
+381,Honduras,F,Primary,2,17.5
+381,Honduras,F,Secondary,2,6.7
+101,Honduras,F,Higher,3,0.4
+101,Honduras,F,No education,3,11.4
+101,Honduras,F,Primary,3,7.0
+101,Honduras,F,Secondary,3,2.2
+171,Honduras,F,Higher,4,0.3
+171,Honduras,F,No education,4,11.4
+171,Honduras,F,Primary,4,6.5
+171,Honduras,F,Secondary,4,1.5
+241,Honduras,F,Higher,5,1.1
+241,Honduras,F,No education,5,18.2
+241,Honduras,F,Primary,5,13.2
+241,Honduras,F,Secondary,5,5.5
+311,Honduras,F,Higher,6,0.4
+311,Honduras,F,No education,6,6.8
+311,Honduras,F,Primary,6,3.4
+311,Honduras,F,Secondary,6,0.9
+381,Honduras,M,Higher,2,1.2
+381,Honduras,M,No education,2,14.6
+381,Honduras,M,Primary,2,12.3
+381,Honduras,M,Secondary,2,7.3
+101,Honduras,M,Higher,3,0.4
+101,Honduras,M,No education,3,4.3
+101,Honduras,M,Primary,3,5.1
+101,Honduras,M,Secondary,3,3.2
+171,Honduras,M,Higher,4,0.3
+171,Honduras,M,No education,4,4.6
+171,Honduras,M,Primary,4,3.9
+171,Honduras,M,Secondary,4,1.9
+241,Honduras,M,Higher,5,0.8
+241,Honduras,M,No education,5,12.2
+241,Honduras,M,Primary,5,8.9
+241,Honduras,M,Secondary,5,5.1
+311,Honduras,M,Higher,6,0.4
+311,Honduras,M,No education,6,4.2
+311,Honduras,M,Primary,6,3.4
+311,Honduras,M,Secondary,6,1.0
+32,India,F,Higher,1,11.4
+32,India,F,Secondary,1,17.3
+32,India,F,Primary,1,21.1
+32,India,F,No education,1,25.6
+32,India,M,Higher,1,7.4
+32,India,M,Secondary,1,9.9
+32,India,M,Primary,1,11.7
+32,India,M,No education,1,14.1
+382,India,F,Higher,2,33.8
+382,India,F,No education,2,51.6
+382,India,F,Primary,2,48.4
+382,India,F,Secondary,2,42.9
+102,India,F,Higher,3,18.4
+102,India,F,No education,3,36.2
+102,India,F,Primary,3,33.1
+102,India,F,Secondary,3,27.2
+172,India,F,Higher,4,18.4
+172,India,F,No education,4,31.7
+172,India,F,Primary,4,28.9
+172,India,F,Secondary,4,24.6
+242,India,F,Higher,5,25.2
+242,India,F,No education,5,37.2
+242,India,F,Primary,5,35.1
+242,India,F,Secondary,5,31.9
+312,India,F,Higher,6,8.1
+312,India,F,No education,6,17.6
+312,India,F,Primary,6,15.3
+312,India,F,Secondary,6,11.9
+382,India,M,Higher,2,25.4
+382,India,M,No education,2,39.3
+382,India,M,Primary,2,35.8
+382,India,M,Secondary,2,31.6
+102,India,M,Higher,3,14.8
+102,India,M,No education,3,27.3
+102,India,M,Primary,3,23.8
+102,India,M,Secondary,3,20.1
+172,India,M,Higher,4,12.2
+172,India,M,No education,4,21.7
+172,India,M,Primary,4,18.5
+172,India,M,Secondary,4,15.4
+242,India,M,Higher,5,16.0
+242,India,M,No education,5,24.9
+242,India,M,Primary,5,22.4
+242,India,M,Secondary,5,19.5
+312,India,M,Higher,6,6.6
+312,India,M,No education,6,13.1
+312,India,M,Primary,6,10.9
+312,India,M,Secondary,6,8.6
+33,Indonesia,F,Higher,1,0.7
+33,Indonesia,F,Secondary,1,2.0
+33,Indonesia,F,No education,1,3.8
+33,Indonesia,F,Primary,1,3.9
+33,Indonesia,M,Higher,1,0.1
+33,Indonesia,M,Secondary,1,0.6
+33,Indonesia,M,Primary,1,1.4
+33,Indonesia,M,No education,1,2.6
+383,Indonesia,F,Higher,2,25.5
+383,Indonesia,F,No education,2,26.6
+383,Indonesia,F,Primary,2,35.5
+383,Indonesia,F,Secondary,2,36.5
+103,Indonesia,F,Higher,3,2.9
+103,Indonesia,F,No education,3,9.2
+103,Indonesia,F,Primary,3,7.1
+103,Indonesia,F,Secondary,3,5.2
+173,Indonesia,F,Higher,4,14.7
+173,Indonesia,F,No education,4,19.8
+173,Indonesia,F,Primary,4,26.9
+173,Indonesia,F,Secondary,4,24.7
+243,Indonesia,F,Higher,5,21.1
+243,Indonesia,F,No education,5,19.9
+243,Indonesia,F,Primary,5,27.3
+243,Indonesia,F,Secondary,5,29.2
+313,Indonesia,F,Higher,6,5.9
+313,Indonesia,F,No education,6,8.4
+313,Indonesia,F,Primary,6,10.9
+313,Indonesia,F,Secondary,6,8.4
+383,Indonesia,M,Higher,2,12.0
+383,Indonesia,M,No education,2,19.7
+383,Indonesia,M,Primary,2,20.4
+383,Indonesia,M,Secondary,2,18.3
+103,Indonesia,M,Higher,3,2.5
+103,Indonesia,M,No education,3,9.3
+103,Indonesia,M,Primary,3,4.3
+103,Indonesia,M,Secondary,3,2.8
+173,Indonesia,M,Higher,4,7.6
+173,Indonesia,M,No education,4,14.6
+173,Indonesia,M,Primary,4,14.2
+173,Indonesia,M,Secondary,4,12.0
+243,Indonesia,M,Higher,5,8.4
+243,Indonesia,M,No education,5,13.9
+243,Indonesia,M,Primary,5,13.6
+243,Indonesia,M,Secondary,5,12.8
+313,Indonesia,M,Higher,6,1.1
+313,Indonesia,M,No education,6,6.2
+313,Indonesia,M,Primary,6,4.2
+313,Indonesia,M,Secondary,6,2.9
+34,Jordan,F,Higher,1,1.9
+34,Jordan,F,Secondary,1,2.2
+384,Jordan,F,Higher,2,9.1
+384,Jordan,F,No education,2,28.1
+384,Jordan,F,Primary,2,26.2
+384,Jordan,F,Secondary,2,15.3
+104,Jordan,F,Higher,3,3.7
+104,Jordan,F,No education,3,13.1
+104,Jordan,F,Primary,3,12.1
+104,Jordan,F,Secondary,3,6.2
+34,Jordan,F,No education,1,7.8
+34,Jordan,F,Primary,1,4.3
+174,Jordan,F,Higher,4,4.1
+174,Jordan,F,No education,4,14.8
+174,Jordan,F,Primary,4,14.0
+174,Jordan,F,Secondary,4,7.9
+244,Jordan,F,Higher,5,4.1
+244,Jordan,F,No education,5,18.7
+244,Jordan,F,Primary,5,13.0
+244,Jordan,F,Secondary,5,7.2
+314,Jordan,F,Higher,6,0.0
+314,Jordan,F,No education,6,0.0
+314,Jordan,F,Primary,6,0.0
+314,Jordan,F,Secondary,6,0.0
+384,Jordan,M,Higher,2,27.2
+384,Jordan,M,No education,2,36.3
+384,Jordan,M,Primary,2,22.8
+384,Jordan,M,Secondary,2,32.6
+104,Jordan,M,Higher,3,15.7
+104,Jordan,M,No education,3,34.0
+104,Jordan,M,Primary,3,9.4
+104,Jordan,M,Secondary,3,19.0
+34,Jordan,M,Higher,1,8.0
+34,Jordan,M,No education,1,18.7
+34,Jordan,M,Primary,1,2.7
+34,Jordan,M,Secondary,1,8.9
+174,Jordan,M,Higher,4,17.1
+174,Jordan,M,No education,4,19.4
+174,Jordan,M,Primary,4,15.2
+174,Jordan,M,Secondary,4,19.7
+244,Jordan,M,Higher,5,11.7
+244,Jordan,M,No education,5,19.8
+244,Jordan,M,Primary,5,9.0
+244,Jordan,M,Secondary,5,14.2
+314,Jordan,M,Higher,6,0.0
+314,Jordan,M,No education,6,0.0
+314,Jordan,M,Primary,6,0.0
+314,Jordan,M,Secondary,6,0.0
+385,Kenya,F,Higher,2,14.9
+385,Kenya,F,No education,2,59.1
+385,Kenya,F,Primary,2,49.0
+385,Kenya,F,Secondary,2,35.8
+105,Kenya,F,Higher,3,3.7
+105,Kenya,F,No education,3,36.9
+105,Kenya,F,Primary,3,26.1
+105,Kenya,F,Secondary,3,15.3
+35,Kenya,F,Higher,1,0.8
+35,Kenya,F,No education,1,16.0
+35,Kenya,F,Primary,1,8.8
+35,Kenya,F,Secondary,1,4.4
+175,Kenya,F,Higher,4,4.6
+175,Kenya,F,No education,4,38.3
+175,Kenya,F,Primary,4,26.8
+175,Kenya,F,Secondary,4,16.2
+245,Kenya,F,Higher,5,11.3
+245,Kenya,F,No education,5,49.4
+245,Kenya,F,Primary,5,39.0
+245,Kenya,F,Secondary,5,28.3
+315,Kenya,F,Higher,6,2.5
+315,Kenya,F,No education,6,36.0
+315,Kenya,F,Primary,6,19.0
+315,Kenya,F,Secondary,6,8.8
+385,Kenya,M,Higher,2,23.1
+385,Kenya,M,No education,2,60.4
+385,Kenya,M,Primary,2,40.5
+385,Kenya,M,Secondary,2,34.1
+105,Kenya,M,Higher,3,9.0
+105,Kenya,M,No education,3,45.4
+105,Kenya,M,Primary,3,24.0
+105,Kenya,M,Secondary,3,18.2
+35,Kenya,M,Higher,1,1.9
+35,Kenya,M,No education,1,15.5
+35,Kenya,M,Primary,1,5.2
+35,Kenya,M,Secondary,1,3.8
+175,Kenya,M,Higher,4,9.0
+175,Kenya,M,No education,4,48.2
+175,Kenya,M,Primary,4,22.1
+175,Kenya,M,Secondary,4,15.0
+245,Kenya,M,Higher,5,18.6
+245,Kenya,M,No education,5,51.1
+245,Kenya,M,Primary,5,30.3
+245,Kenya,M,Secondary,5,24.8
+315,Kenya,M,Higher,6,4.1
+315,Kenya,M,No education,6,34.8
+315,Kenya,M,Primary,6,11.7
+315,Kenya,M,Secondary,6,7.6
+386,Kyrgyz Republic,F,Higher,2,25.6
+386,Kyrgyz Republic,F,No education,2,0.0
+386,Kyrgyz Republic,F,Primary,2,53.4
+386,Kyrgyz Republic,F,Secondary,2,39.8
+106,Kyrgyz Republic,F,Higher,3,11.8
+106,Kyrgyz Republic,F,No education,3,0.0
+106,Kyrgyz Republic,F,Primary,3,19.9
+106,Kyrgyz Republic,F,Secondary,3,20.6
+36,Kyrgyz Republic,F,Higher,1,4.1
+36,Kyrgyz Republic,F,No education,1,0.0
+36,Kyrgyz Republic,F,Primary,1,3.9
+36,Kyrgyz Republic,F,Secondary,1,8.0
+176,Kyrgyz Republic,F,Higher,4,15.6
+176,Kyrgyz Republic,F,No education,4,0.0
+176,Kyrgyz Republic,F,Primary,4,31.4
+176,Kyrgyz Republic,F,Secondary,4,28.9
+246,Kyrgyz Republic,F,Higher,5,19.1
+246,Kyrgyz Republic,F,No education,5,0.0
+246,Kyrgyz Republic,F,Primary,5,41.4
+246,Kyrgyz Republic,F,Secondary,5,30.6
+316,Kyrgyz Republic,F,Higher,6,5.2
+316,Kyrgyz Republic,F,No education,6,0.0
+316,Kyrgyz Republic,F,Primary,6,3.9
+316,Kyrgyz Republic,F,Secondary,6,9.0
+386,Kyrgyz Republic,M,Higher,2,50.9
+386,Kyrgyz Republic,M,No education,2,0.0
+386,Kyrgyz Republic,M,Primary,2,0.0
+386,Kyrgyz Republic,M,Secondary,2,50.0
+106,Kyrgyz Republic,M,Higher,3,24.7
+106,Kyrgyz Republic,M,No education,3,0.0
+106,Kyrgyz Republic,M,Primary,3,0.0
+106,Kyrgyz Republic,M,Secondary,3,23.0
+36,Kyrgyz Republic,M,Higher,1,3.2
+36,Kyrgyz Republic,M,No education,1,0.0
+36,Kyrgyz Republic,M,Primary,1,0.0
+36,Kyrgyz Republic,M,Secondary,1,5.9
+176,Kyrgyz Republic,M,Higher,4,34.3
+176,Kyrgyz Republic,M,No education,4,0.0
+176,Kyrgyz Republic,M,Primary,4,0.0
+176,Kyrgyz Republic,M,Secondary,4,36.8
+246,Kyrgyz Republic,M,Higher,5,45.2
+246,Kyrgyz Republic,M,No education,5,0.0
+246,Kyrgyz Republic,M,Primary,5,0.0
+246,Kyrgyz Republic,M,Secondary,5,44.6
+316,Kyrgyz Republic,M,Higher,6,4.8
+316,Kyrgyz Republic,M,No education,6,0.0
+316,Kyrgyz Republic,M,Primary,6,0.0
+316,Kyrgyz Republic,M,Secondary,6,6.2
+387,Lesotho,F,Higher,2,5.4
+387,Lesotho,F,No education,2,41.7
+387,Lesotho,F,Primary,2,44.7
+387,Lesotho,F,Secondary,2,29.4
+107,Lesotho,F,Higher,3,2.6
+107,Lesotho,F,No education,3,32.6
+107,Lesotho,F,Primary,3,34.4
+107,Lesotho,F,Secondary,3,20.8
+37,Lesotho,F,Higher,1,0.5
+37,Lesotho,F,No education,1,9.9
+37,Lesotho,F,Primary,1,10.0
+37,Lesotho,F,Secondary,1,4.5
+177,Lesotho,F,Higher,4,1.3
+177,Lesotho,F,No education,4,13.8
+177,Lesotho,F,Primary,4,17.1
+177,Lesotho,F,Secondary,4,7.5
+247,Lesotho,F,Higher,5,2.3
+247,Lesotho,F,No education,5,29.6
+247,Lesotho,F,Primary,5,30.4
+247,Lesotho,F,Secondary,5,18.9
+317,Lesotho,F,Higher,6,0.5
+317,Lesotho,F,No education,6,15.0
+317,Lesotho,F,Primary,6,15.6
+317,Lesotho,F,Secondary,6,6.2
+387,Lesotho,M,Higher,2,17.1
+387,Lesotho,M,No education,2,52.5
+387,Lesotho,M,Primary,2,47.4
+387,Lesotho,M,Secondary,2,32.7
+107,Lesotho,M,Higher,3,9.9
+107,Lesotho,M,No education,3,38.2
+107,Lesotho,M,Primary,3,32.8
+107,Lesotho,M,Secondary,3,18.6
+37,Lesotho,M,Higher,1,1.7
+37,Lesotho,M,No education,1,8.9
+37,Lesotho,M,Primary,1,8.2
+37,Lesotho,M,Secondary,1,4.7
+177,Lesotho,M,Higher,4,4.6
+177,Lesotho,M,No education,4,28.8
+177,Lesotho,M,Primary,4,20.9
+177,Lesotho,M,Secondary,4,9.2
+247,Lesotho,M,Higher,5,10.4
+247,Lesotho,M,No education,5,35.9
+247,Lesotho,M,Primary,5,32.7
+247,Lesotho,M,Secondary,5,19.8
+317,Lesotho,M,Higher,6,2.1
+317,Lesotho,M,No education,6,19.7
+317,Lesotho,M,Primary,6,13.0
+317,Lesotho,M,Secondary,6,4.2
+388,Liberia,F,Higher,2,18.5
+388,Liberia,F,No education,2,45.8
+388,Liberia,F,Primary,2,47.8
+388,Liberia,F,Secondary,2,37.0
+108,Liberia,F,Higher,3,14.4
+108,Liberia,F,No education,3,35.0
+108,Liberia,F,Primary,3,38.8
+108,Liberia,F,Secondary,3,28.1
+38,Liberia,F,Higher,1,0.1
+38,Liberia,F,No education,1,8.6
+38,Liberia,F,Primary,1,8.4
+38,Liberia,F,Secondary,1,6.2
+178,Liberia,F,Higher,4,15.1
+178,Liberia,F,No education,4,30.7
+178,Liberia,F,Primary,4,31.5
+178,Liberia,F,Secondary,4,24.9
+248,Liberia,F,Higher,5,14.0
+248,Liberia,F,No education,5,34.5
+248,Liberia,F,Primary,5,37.1
+248,Liberia,F,Secondary,5,27.6
+318,Liberia,F,Higher,6,6.5
+318,Liberia,F,No education,6,13.4
+318,Liberia,F,Primary,6,11.6
+318,Liberia,F,Secondary,6,7.5
+388,Liberia,M,Higher,2,11.1
+388,Liberia,M,No education,2,28.0
+388,Liberia,M,Primary,2,30.0
+388,Liberia,M,Secondary,2,22.3
+108,Liberia,M,Higher,3,8.8
+108,Liberia,M,No education,3,21.2
+108,Liberia,M,Primary,3,23.4
+108,Liberia,M,Secondary,3,15.9
+38,Liberia,M,Higher,1,0.0
+38,Liberia,M,No education,1,1.9
+38,Liberia,M,Primary,1,3.9
+38,Liberia,M,Secondary,1,2.5
+178,Liberia,M,Higher,4,9.2
+178,Liberia,M,No education,4,17.8
+178,Liberia,M,Primary,4,16.2
+178,Liberia,M,Secondary,4,12.6
+248,Liberia,M,Higher,5,7.6
+248,Liberia,M,No education,5,18.7
+248,Liberia,M,Primary,5,18.1
+248,Liberia,M,Secondary,5,12.7
+318,Liberia,M,Higher,6,0.0
+318,Liberia,M,No education,6,8.7
+318,Liberia,M,Primary,6,5.3
+318,Liberia,M,Secondary,6,2.9
+389,Madagascar,F,Higher,2,20.0
+389,Madagascar,F,No education,2,29.0
+389,Madagascar,F,Primary,2,32.4
+389,Madagascar,F,Secondary,2,35.3
+109,Madagascar,F,Higher,3,1.6
+109,Madagascar,F,No education,3,6.4
+109,Madagascar,F,Primary,3,6.6
+109,Madagascar,F,Secondary,3,5.1
+39,Madagascar,F,Higher,1,1.9
+39,Madagascar,F,No education,1,7.3
+39,Madagascar,F,Primary,1,7.8
+39,Madagascar,F,Secondary,1,6.8
+179,Madagascar,F,Higher,4,8.1
+179,Madagascar,F,No education,4,17.9
+179,Madagascar,F,Primary,4,20.0
+179,Madagascar,F,Secondary,4,19.7
+249,Madagascar,F,Higher,5,16.6
+249,Madagascar,F,No education,5,25.1
+249,Madagascar,F,Primary,5,28.0
+249,Madagascar,F,Secondary,5,31.5
+319,Madagascar,F,Higher,6,2.1
+319,Madagascar,F,No education,6,10.6
+319,Madagascar,F,Primary,6,9.9
+319,Madagascar,F,Secondary,6,7.7
+389,Madagascar,M,Higher,2,16.8
+389,Madagascar,M,No education,2,30.5
+389,Madagascar,M,Primary,2,30.8
+389,Madagascar,M,Secondary,2,30.0
+109,Madagascar,M,Higher,3,2.1
+109,Madagascar,M,No education,3,9.8
+109,Madagascar,M,Primary,3,9.7
+109,Madagascar,M,Secondary,3,7.9
+39,Madagascar,M,Higher,1,0.4
+39,Madagascar,M,No education,1,8.1
+39,Madagascar,M,Primary,1,6.8
+39,Madagascar,M,Secondary,1,5.4
+179,Madagascar,M,Higher,4,7.9
+179,Madagascar,M,No education,4,21.3
+179,Madagascar,M,Primary,4,19.7
+179,Madagascar,M,Secondary,4,17.6
+249,Madagascar,M,Higher,5,13.4
+249,Madagascar,M,No education,5,23.7
+249,Madagascar,M,Primary,5,25.1
+249,Madagascar,M,Secondary,5,24.1
+319,Madagascar,M,Higher,6,1.1
+319,Madagascar,M,No education,6,10.4
+319,Madagascar,M,Primary,6,8.8
+319,Madagascar,M,Secondary,6,6.6
+390,Malawi,F,Higher,2,4.0
+390,Malawi,F,No education,2,18.2
+390,Malawi,F,Primary,2,18.1
+390,Malawi,F,Secondary,2,12.2
+110,Malawi,F,Higher,3,0.9
+110,Malawi,F,No education,3,7.6
+110,Malawi,F,Primary,3,7.7
+110,Malawi,F,Secondary,3,4.4
+40,Malawi,F,Higher,1,0.8
+40,Malawi,F,No education,1,6.1
+40,Malawi,F,Primary,1,6.5
+40,Malawi,F,Secondary,1,3.3
+180,Malawi,F,Higher,4,1.0
+180,Malawi,F,No education,4,7.5
+180,Malawi,F,Primary,4,7.6
+180,Malawi,F,Secondary,4,5.3
+250,Malawi,F,Higher,5,1.6
+250,Malawi,F,No education,5,9.0
+250,Malawi,F,Primary,5,9.9
+250,Malawi,F,Secondary,5,6.5
+320,Malawi,F,Higher,6,0.7
+320,Malawi,F,No education,6,10.7
+320,Malawi,F,Primary,6,9.5
+320,Malawi,F,Secondary,6,4.9
+390,Malawi,M,Higher,2,4.5
+390,Malawi,M,No education,2,9.6
+390,Malawi,M,Primary,2,16.2
+390,Malawi,M,Secondary,2,8.9
+110,Malawi,M,Higher,3,2.1
+110,Malawi,M,No education,3,4.3
+110,Malawi,M,Primary,3,6.9
+110,Malawi,M,Secondary,3,3.0
+40,Malawi,M,Higher,1,0.7
+40,Malawi,M,No education,1,2.2
+40,Malawi,M,Primary,1,3.2
+40,Malawi,M,Secondary,1,0.9
+180,Malawi,M,Higher,4,2.9
+180,Malawi,M,No education,4,3.5
+180,Malawi,M,Primary,4,6.5
+180,Malawi,M,Secondary,4,2.2
+250,Malawi,M,Higher,5,1.5
+250,Malawi,M,No education,5,3.9
+250,Malawi,M,Primary,5,8.0
+250,Malawi,M,Secondary,5,4.7
+320,Malawi,M,Higher,6,0.6
+320,Malawi,M,No education,6,5.0
+320,Malawi,M,Primary,6,6.4
+320,Malawi,M,Secondary,6,2.6
+391,Maldives,F,Higher,2,18.1
+391,Maldives,F,No education,2,19.4
+391,Maldives,F,Primary,2,22.5
+391,Maldives,F,Secondary,2,23.5
+111,Maldives,F,Higher,3,0.0
+111,Maldives,F,No education,3,0.0
+111,Maldives,F,Primary,3,0.0
+111,Maldives,F,Secondary,3,0.0
+41,Maldives,F,Higher,1,0.0
+41,Maldives,F,No education,1,0.0
+41,Maldives,F,Primary,1,0.0
+41,Maldives,F,Secondary,1,0.0
+181,Maldives,F,Higher,4,2.2
+181,Maldives,F,No education,4,8.4
+181,Maldives,F,Primary,4,7.6
+181,Maldives,F,Secondary,4,4.0
+251,Maldives,F,Higher,5,13.3
+251,Maldives,F,No education,5,7.5
+251,Maldives,F,Primary,5,14.9
+251,Maldives,F,Secondary,5,18.1
+321,Maldives,F,Higher,6,7.4
+321,Maldives,F,No education,6,13.3
+321,Maldives,F,Primary,6,12.7
+321,Maldives,F,Secondary,6,9.9
+391,Maldives,M,Higher,2,9.6
+391,Maldives,M,No education,2,10.9
+391,Maldives,M,Primary,2,16.5
+391,Maldives,M,Secondary,2,21.2
+111,Maldives,M,Higher,3,0.0
+111,Maldives,M,No education,3,0.0
+111,Maldives,M,Primary,3,0.0
+111,Maldives,M,Secondary,3,0.0
+41,Maldives,M,Higher,1,0.0
+41,Maldives,M,No education,1,0.0
+41,Maldives,M,Primary,1,0.0
+41,Maldives,M,Secondary,1,0.0
+181,Maldives,M,Higher,4,1.5
+181,Maldives,M,No education,4,2.5
+181,Maldives,M,Primary,4,3.2
+181,Maldives,M,Secondary,4,2.7
+251,Maldives,M,Higher,5,7.4
+251,Maldives,M,No education,5,8.2
+251,Maldives,M,Primary,5,12.7
+251,Maldives,M,Secondary,5,17.0
+321,Maldives,M,Higher,6,2.5
+321,Maldives,M,No education,6,1.7
+321,Maldives,M,Primary,6,5.1
+321,Maldives,M,Secondary,6,5.6
+392,Mali,F,Higher,2,55.6
+392,Mali,F,No education,2,82.0
+392,Mali,F,Primary,2,80.5
+392,Mali,F,Secondary,2,72.5
+112,Mali,F,Higher,3,44.0
+112,Mali,F,No education,3,71.0
+112,Mali,F,Primary,3,69.5
+112,Mali,F,Secondary,3,61.8
+42,Mali,F,Higher,1,3.9
+42,Mali,F,No education,1,24.7
+42,Mali,F,Primary,1,25.3
+42,Mali,F,Secondary,1,15.8
+182,Mali,F,Higher,4,28.6
+182,Mali,F,No education,4,57.8
+182,Mali,F,Primary,4,55.2
+182,Mali,F,Secondary,4,41.9
+252,Mali,F,Higher,5,28.2
+252,Mali,F,No education,5,54.8
+252,Mali,F,Primary,5,54.4
+252,Mali,F,Secondary,5,42.0
+322,Mali,F,Higher,6,34.9
+322,Mali,F,No education,6,66.7
+322,Mali,F,Primary,6,65.4
+322,Mali,F,Secondary,6,51.0
+392,Mali,M,Higher,2,16.6
+392,Mali,M,No education,2,50.4
+392,Mali,M,Primary,2,51.4
+392,Mali,M,Secondary,2,44.8
+112,Mali,M,Higher,3,8.2
+112,Mali,M,No education,3,41.6
+112,Mali,M,Primary,3,44.1
+112,Mali,M,Secondary,3,35.9
+42,Mali,M,Higher,1,2.6
+42,Mali,M,No education,1,13.0
+42,Mali,M,Primary,1,10.7
+42,Mali,M,Secondary,1,10.5
+182,Mali,M,Higher,4,5.6
+182,Mali,M,No education,4,23.6
+182,Mali,M,Primary,4,24.9
+182,Mali,M,Secondary,4,21.1
+252,Mali,M,Higher,5,8.5
+252,Mali,M,No education,5,26.3
+252,Mali,M,Primary,5,30.7
+252,Mali,M,Secondary,5,23.8
+322,Mali,M,Higher,6,3.1
+322,Mali,M,No education,6,27.8
+322,Mali,M,Primary,6,27.8
+322,Mali,M,Secondary,6,18.7
+393,Moldova,F,Higher,2,7.0
+393,Moldova,F,No education,2,0.0
+393,Moldova,F,Primary,2,39.8
+393,Moldova,F,Secondary,2,24.3
+113,Moldova,F,Higher,3,1.0
+113,Moldova,F,No education,3,0.0
+113,Moldova,F,Primary,3,23.5
+113,Moldova,F,Secondary,3,6.0
+43,Moldova,F,Higher,1,1.3
+43,Moldova,F,No education,1,0.0
+43,Moldova,F,Primary,1,17.3
+43,Moldova,F,Secondary,1,4.9
+183,Moldova,F,Higher,4,1.5
+183,Moldova,F,No education,4,0.0
+183,Moldova,F,Primary,4,18.9
+183,Moldova,F,Secondary,4,8.7
+253,Moldova,F,Higher,5,6.3
+253,Moldova,F,No education,5,0.0
+253,Moldova,F,Primary,5,31.6
+253,Moldova,F,Secondary,5,20.9
+323,Moldova,F,Higher,6,0.7
+323,Moldova,F,No education,6,0.0
+323,Moldova,F,Primary,6,18.5
+323,Moldova,F,Secondary,6,3.5
+393,Moldova,M,Higher,2,9.6
+393,Moldova,M,No education,2,0.0
+393,Moldova,M,Primary,2,0.0
+393,Moldova,M,Secondary,2,25.3
+113,Moldova,M,Higher,3,2.4
+113,Moldova,M,No education,3,0.0
+113,Moldova,M,Primary,3,0.0
+113,Moldova,M,Secondary,3,8.6
+43,Moldova,M,Higher,1,1.1
+43,Moldova,M,No education,1,0.0
+43,Moldova,M,Primary,1,0.0
+43,Moldova,M,Secondary,1,2.9
+183,Moldova,M,Higher,4,1.8
+183,Moldova,M,No education,4,0.0
+183,Moldova,M,Primary,4,0.0
+183,Moldova,M,Secondary,4,11.6
+253,Moldova,M,Higher,5,7.4
+253,Moldova,M,No education,5,0.0
+253,Moldova,M,Primary,5,0.0
+253,Moldova,M,Secondary,5,20.7
+323,Moldova,M,Higher,6,0.6
+323,Moldova,M,No education,6,0.0
+323,Moldova,M,Primary,6,0.0
+323,Moldova,M,Secondary,6,4.0
+394,Morocco,F,Higher,2,20.8
+394,Morocco,F,No education,2,78.5
+394,Morocco,F,Primary,2,65.9
+394,Morocco,F,Secondary,2,42.0
+114,Morocco,F,Higher,3,9.8
+114,Morocco,F,No education,3,66.1
+114,Morocco,F,Primary,3,52.0
+114,Morocco,F,Secondary,3,27.7
+44,Morocco,F,Higher,1,1.1
+44,Morocco,F,No education,1,36.4
+44,Morocco,F,Primary,1,19.5
+44,Morocco,F,Secondary,1,6.0
+184,Morocco,F,Higher,4,6.5
+184,Morocco,F,No education,4,67.5
+184,Morocco,F,Primary,4,49.6
+184,Morocco,F,Secondary,4,22.6
+254,Morocco,F,Higher,5,10.6
+254,Morocco,F,No education,5,65.3
+254,Morocco,F,Primary,5,49.3
+254,Morocco,F,Secondary,5,25.7
+324,Morocco,F,Higher,6,9.4
+324,Morocco,F,No education,6,58.9
+324,Morocco,F,Primary,6,40.6
+324,Morocco,F,Secondary,6,19.3
+394,Morocco,M,Higher,2,0.0
+394,Morocco,M,No education,2,0.0
+394,Morocco,M,Primary,2,0.0
+394,Morocco,M,Secondary,2,0.0
+114,Morocco,M,Higher,3,0.0
+114,Morocco,M,No education,3,0.0
+114,Morocco,M,Primary,3,0.0
+114,Morocco,M,Secondary,3,0.0
+44,Morocco,M,Higher,1,0.0
+44,Morocco,M,No education,1,0.0
+44,Morocco,M,Primary,1,0.0
+44,Morocco,M,Secondary,1,0.0
+184,Morocco,M,Higher,4,0.0
+184,Morocco,M,No education,4,0.0
+184,Morocco,M,Primary,4,0.0
+184,Morocco,M,Secondary,4,0.0
+254,Morocco,M,Higher,5,0.0
+254,Morocco,M,No education,5,0.0
+254,Morocco,M,Primary,5,0.0
+254,Morocco,M,Secondary,5,0.0
+324,Morocco,M,Higher,6,0.0
+324,Morocco,M,No education,6,0.0
+324,Morocco,M,Primary,6,0.0
+324,Morocco,M,Secondary,6,0.0
+395,Mozambique,F,Higher,2,8.6
+395,Mozambique,F,No education,2,14.2
+395,Mozambique,F,Primary,2,14.3
+395,Mozambique,F,Secondary,2,9.9
+115,Mozambique,F,Higher,3,5.5
+115,Mozambique,F,No education,3,7.9
+115,Mozambique,F,Primary,3,6.4
+115,Mozambique,F,Secondary,3,5.2
+45,Mozambique,F,Higher,1,0.4
+45,Mozambique,F,No education,1,2.5
+45,Mozambique,F,Primary,1,2.5
+45,Mozambique,F,Secondary,1,2.2
+185,Mozambique,F,Higher,4,1.0
+185,Mozambique,F,No education,4,8.7
+185,Mozambique,F,Primary,4,8.1
+185,Mozambique,F,Secondary,4,4.9
+255,Mozambique,F,Higher,5,1.0
+255,Mozambique,F,No education,5,3.4
+255,Mozambique,F,Primary,5,4.8
+255,Mozambique,F,Secondary,5,4.3
+325,Mozambique,F,Higher,6,1.0
+325,Mozambique,F,No education,6,5.2
+325,Mozambique,F,Primary,6,6.4
+325,Mozambique,F,Secondary,6,3.5
+395,Mozambique,M,Higher,2,3.9
+395,Mozambique,M,No education,2,26.2
+395,Mozambique,M,Primary,2,17.7
+395,Mozambique,M,Secondary,2,13.2
+115,Mozambique,M,Higher,3,1.7
+115,Mozambique,M,No education,3,14.2
+115,Mozambique,M,Primary,3,9.7
+115,Mozambique,M,Secondary,3,5.8
+45,Mozambique,M,Higher,1,0.0
+45,Mozambique,M,No education,1,10.6
+45,Mozambique,M,Primary,1,6.5
+45,Mozambique,M,Secondary,1,2.8
+185,Mozambique,M,Higher,4,0.9
+185,Mozambique,M,No education,4,10.1
+185,Mozambique,M,Primary,4,8.5
+185,Mozambique,M,Secondary,4,6.3
+255,Mozambique,M,Higher,5,0.4
+255,Mozambique,M,No education,5,10.8
+255,Mozambique,M,Primary,5,8.4
+255,Mozambique,M,Secondary,5,5.6
+325,Mozambique,M,Higher,6,1.3
+325,Mozambique,M,No education,6,10.1
+325,Mozambique,M,Primary,6,8.1
+325,Mozambique,M,Secondary,6,3.8
+396,Myanmar,F,Higher,2,33.4
+396,Myanmar,F,No education,2,52.1
+396,Myanmar,F,Primary,2,54.7
+396,Myanmar,F,Secondary,2,51.9
+116,Myanmar,F,Higher,3,5.3
+116,Myanmar,F,No education,3,14.4
+116,Myanmar,F,Primary,3,11.5
+116,Myanmar,F,Secondary,3,8.5
+46,Myanmar,F,Higher,1,3.1
+46,Myanmar,F,No education,1,16.0
+46,Myanmar,F,Primary,1,16.3
+46,Myanmar,F,Secondary,1,10.3
+186,Myanmar,F,Higher,4,8.4
+186,Myanmar,F,No education,4,26.3
+186,Myanmar,F,Primary,4,25.6
+186,Myanmar,F,Secondary,4,19.3
+256,Myanmar,F,Higher,5,26.4
+256,Myanmar,F,No education,5,41.8
+256,Myanmar,F,Primary,5,45.2
+256,Myanmar,F,Secondary,5,43.0
+326,Myanmar,F,Higher,6,4.3
+326,Myanmar,F,No education,6,14.2
+326,Myanmar,F,Primary,6,12.4
+326,Myanmar,F,Secondary,6,8.6
+396,Myanmar,M,Higher,2,34.9
+396,Myanmar,M,No education,2,42.6
+396,Myanmar,M,Primary,2,48.2
+396,Myanmar,M,Secondary,2,53.5
+116,Myanmar,M,Higher,3,6.0
+116,Myanmar,M,No education,3,17.8
+116,Myanmar,M,Primary,3,12.6
+116,Myanmar,M,Secondary,3,13.6
+46,Myanmar,M,Higher,1,3.5
+46,Myanmar,M,No education,1,6.8
+46,Myanmar,M,Primary,1,9.8
+46,Myanmar,M,Secondary,1,7.8
+186,Myanmar,M,Higher,4,9.1
+186,Myanmar,M,No education,4,14.8
+186,Myanmar,M,Primary,4,17.8
+186,Myanmar,M,Secondary,4,17.2
+256,Myanmar,M,Higher,5,32.6
+256,Myanmar,M,No education,5,29.6
+256,Myanmar,M,Primary,5,38.7
+256,Myanmar,M,Secondary,5,44.4
+326,Myanmar,M,Higher,6,5.5
+326,Myanmar,M,No education,6,9.5
+326,Myanmar,M,Primary,6,9.9
+326,Myanmar,M,Secondary,6,11.1
+397,Namibia,F,Higher,2,9.8
+397,Namibia,F,No education,2,43.5
+397,Namibia,F,Primary,2,40.2
+397,Namibia,F,Secondary,2,26.4
+117,Namibia,F,Higher,3,2.9
+117,Namibia,F,No education,3,23.2
+117,Namibia,F,Primary,3,19.9
+117,Namibia,F,Secondary,3,9.6
+47,Namibia,F,Higher,1,1.4
+47,Namibia,F,No education,1,20.3
+47,Namibia,F,Primary,1,16.6
+47,Namibia,F,Secondary,1,8.7
+187,Namibia,F,Higher,4,2.6
+187,Namibia,F,No education,4,23.3
+187,Namibia,F,Primary,4,20.4
+187,Namibia,F,Secondary,4,11.6
+257,Namibia,F,Higher,5,6.1
+257,Namibia,F,No education,5,29.6
+257,Namibia,F,Primary,5,27.8
+257,Namibia,F,Secondary,5,19.0
+327,Namibia,F,Higher,6,1.8
+327,Namibia,F,No education,6,17.4
+327,Namibia,F,Primary,6,14.4
+327,Namibia,F,Secondary,6,6.1
+397,Namibia,M,Higher,2,12.8
+397,Namibia,M,No education,2,21.6
+397,Namibia,M,Primary,2,29.5
+397,Namibia,M,Secondary,2,20.4
+117,Namibia,M,Higher,3,3.0
+117,Namibia,M,No education,3,11.0
+117,Namibia,M,Primary,3,11.7
+117,Namibia,M,Secondary,3,9.2
+47,Namibia,M,Higher,1,1.0
+47,Namibia,M,No education,1,7.4
+47,Namibia,M,Primary,1,7.7
+47,Namibia,M,Secondary,1,3.6
+187,Namibia,M,Higher,4,5.3
+187,Namibia,M,No education,4,11.9
+187,Namibia,M,Primary,4,13.9
+187,Namibia,M,Secondary,4,8.4
+257,Namibia,M,Higher,5,8.1
+257,Namibia,M,No education,5,14.9
+257,Namibia,M,Primary,5,19.6
+257,Namibia,M,Secondary,5,13.2
+327,Namibia,M,Higher,6,3.0
+327,Namibia,M,No education,6,1.1
+327,Namibia,M,Primary,6,5.4
+327,Namibia,M,Secondary,6,2.1
+398,Nepal,F,Higher,2,17.4
+398,Nepal,F,No education,2,29.8
+398,Nepal,F,Primary,2,32.8
+398,Nepal,F,Secondary,2,30.1
+118,Nepal,F,Higher,3,2.6
+118,Nepal,F,No education,3,12.6
+118,Nepal,F,Primary,3,12.1
+118,Nepal,F,Secondary,3,6.4
+48,Nepal,F,Higher,1,1.1
+48,Nepal,F,No education,1,5.6
+48,Nepal,F,Primary,1,4.1
+48,Nepal,F,Secondary,1,1.9
+188,Nepal,F,Higher,4,4.6
+188,Nepal,F,No education,4,15.1
+188,Nepal,F,Primary,4,13.8
+188,Nepal,F,Secondary,4,10.5
+258,Nepal,F,Higher,5,15.3
+258,Nepal,F,No education,5,25.1
+258,Nepal,F,Primary,5,26.8
+258,Nepal,F,Secondary,5,26.4
+328,Nepal,F,Higher,6,0.8
+328,Nepal,F,No education,6,4.6
+328,Nepal,F,Primary,6,4.3
+328,Nepal,F,Secondary,6,1.8
+398,Nepal,M,Higher,2,10.8
+398,Nepal,M,No education,2,28.2
+398,Nepal,M,Primary,2,29.6
+398,Nepal,M,Secondary,2,24.7
+118,Nepal,M,Higher,3,3.1
+118,Nepal,M,No education,3,18.1
+118,Nepal,M,Primary,3,11.7
+118,Nepal,M,Secondary,3,8.3
+48,Nepal,M,Higher,1,0.2
+48,Nepal,M,No education,1,3.9
+48,Nepal,M,Primary,1,1.8
+48,Nepal,M,Secondary,1,1.6
+188,Nepal,M,Higher,4,2.9
+188,Nepal,M,No education,4,14.2
+188,Nepal,M,Primary,4,13.3
+188,Nepal,M,Secondary,4,9.9
+258,Nepal,M,Higher,5,8.1
+258,Nepal,M,No education,5,24.9
+258,Nepal,M,Primary,5,22.7
+258,Nepal,M,Secondary,5,20.4
+328,Nepal,M,Higher,6,1.1
+328,Nepal,M,No education,6,7.4
+328,Nepal,M,Primary,6,5.6
+328,Nepal,M,Secondary,6,3.6
+399,Nicaragua,F,Higher,2,2.7
+399,Nicaragua,F,No education,2,22.6
+399,Nicaragua,F,Primary,2,16.7
+399,Nicaragua,F,Secondary,2,6.7
+119,Nicaragua,F,Higher,3,0.5
+119,Nicaragua,F,No education,3,9.8
+119,Nicaragua,F,Primary,3,6.0
+119,Nicaragua,F,Secondary,3,1.5
+49,Nicaragua,F,Higher,1,0.7
+49,Nicaragua,F,No education,1,10.2
+49,Nicaragua,F,Primary,1,6.3
+49,Nicaragua,F,Secondary,1,1.4
+189,Nicaragua,F,Higher,4,0.7
+189,Nicaragua,F,No education,4,12.3
+189,Nicaragua,F,Primary,4,8.5
+189,Nicaragua,F,Secondary,4,1.7
+259,Nicaragua,F,Higher,5,2.3
+259,Nicaragua,F,No education,5,16.7
+259,Nicaragua,F,Primary,5,12.4
+259,Nicaragua,F,Secondary,5,5.3
+329,Nicaragua,F,Higher,6,0.5
+329,Nicaragua,F,No education,6,6.4
+329,Nicaragua,F,Primary,6,3.8
+329,Nicaragua,F,Secondary,6,1.0
+399,Nicaragua,M,Higher,2,0.0
+399,Nicaragua,M,No education,2,0.0
+399,Nicaragua,M,Primary,2,0.0
+399,Nicaragua,M,Secondary,2,0.0
+119,Nicaragua,M,Higher,3,0.0
+119,Nicaragua,M,No education,3,0.0
+119,Nicaragua,M,Primary,3,0.0
+119,Nicaragua,M,Secondary,3,0.0
+49,Nicaragua,M,Higher,1,0.0
+49,Nicaragua,M,No education,1,0.0
+49,Nicaragua,M,Primary,1,0.0
+49,Nicaragua,M,Secondary,1,0.0
+189,Nicaragua,M,Higher,4,0.0
+189,Nicaragua,M,No education,4,0.0
+189,Nicaragua,M,Primary,4,0.0
+189,Nicaragua,M,Secondary,4,0.0
+259,Nicaragua,M,Higher,5,0.0
+259,Nicaragua,M,No education,5,0.0
+259,Nicaragua,M,Primary,5,0.0
+259,Nicaragua,M,Secondary,5,0.0
+329,Nicaragua,M,Higher,6,0.0
+329,Nicaragua,M,No education,6,0.0
+329,Nicaragua,M,Primary,6,0.0
+329,Nicaragua,M,Secondary,6,0.0
+400,Niger,F,Higher,2,17.6
+400,Niger,F,No education,2,60.1
+400,Niger,F,Primary,2,63.2
+400,Niger,F,Secondary,2,51.8
+120,Niger,F,Higher,3,7.4
+120,Niger,F,No education,3,51.4
+120,Niger,F,Primary,3,52.8
+120,Niger,F,Secondary,3,39.5
+50,Niger,F,Higher,1,3.8
+50,Niger,F,No education,1,36.0
+50,Niger,F,Primary,1,34.8
+50,Niger,F,Secondary,1,21.6
+190,Niger,F,Higher,4,3.8
+190,Niger,F,No education,4,44.1
+190,Niger,F,Primary,4,43.1
+190,Niger,F,Secondary,4,30.1
+260,Niger,F,Higher,5,5.6
+260,Niger,F,No education,5,43.4
+260,Niger,F,Primary,5,41.0
+260,Niger,F,Secondary,5,31.4
+330,Niger,F,Higher,6,2.1
+330,Niger,F,No education,6,51.4
+330,Niger,F,Primary,6,52.5
+330,Niger,F,Secondary,6,36.8
+400,Niger,M,Higher,2,8.0
+400,Niger,M,No education,2,24.8
+400,Niger,M,Primary,2,34.4
+400,Niger,M,Secondary,2,27.5
+120,Niger,M,Higher,3,2.2
+120,Niger,M,No education,3,18.1
+120,Niger,M,Primary,3,25.8
+120,Niger,M,Secondary,3,20.5
+50,Niger,M,Higher,1,4.7
+50,Niger,M,No education,1,8.2
+50,Niger,M,Primary,1,12.7
+50,Niger,M,Secondary,1,8.7
+190,Niger,M,Higher,4,2.9
+190,Niger,M,No education,4,14.7
+190,Niger,M,Primary,4,20.2
+190,Niger,M,Secondary,4,16.3
+260,Niger,M,Higher,5,5.1
+260,Niger,M,No education,5,13.6
+260,Niger,M,Primary,5,20.2
+260,Niger,M,Secondary,5,18.5
+330,Niger,M,Higher,6,0.0
+330,Niger,M,No education,6,13.1
+330,Niger,M,Primary,6,17.9
+330,Niger,M,Secondary,6,13.9
+401,Nigeria,F,Higher,2,16.9
+401,Nigeria,F,No education,2,41.6
+401,Nigeria,F,Primary,2,38.5
+401,Nigeria,F,Secondary,2,30.2
+121,Nigeria,F,Higher,3,8.7
+121,Nigeria,F,No education,3,26.3
+121,Nigeria,F,Primary,3,24.8
+121,Nigeria,F,Secondary,3,17.6
+51,Nigeria,F,Higher,1,4.4
+51,Nigeria,F,No education,1,20.2
+51,Nigeria,F,Primary,1,15.7
+51,Nigeria,F,Secondary,1,9.7
+191,Nigeria,F,Higher,4,9.7
+191,Nigeria,F,No education,4,32.7
+191,Nigeria,F,Primary,4,28.1
+191,Nigeria,F,Secondary,4,20.0
+261,Nigeria,F,Higher,5,11.6
+261,Nigeria,F,No education,5,28.0
+261,Nigeria,F,Primary,5,28.7
+261,Nigeria,F,Secondary,5,22.3
+331,Nigeria,F,Higher,6,7.0
+331,Nigeria,F,No education,6,27.8
+331,Nigeria,F,Primary,6,19.1
+331,Nigeria,F,Secondary,6,12.2
+401,Nigeria,M,Higher,2,13.8
+401,Nigeria,M,No education,2,27.9
+401,Nigeria,M,Primary,2,28.5
+401,Nigeria,M,Secondary,2,25.1
+121,Nigeria,M,Higher,3,5.3
+121,Nigeria,M,No education,3,16.3
+121,Nigeria,M,Primary,3,16.6
+121,Nigeria,M,Secondary,3,12.7
+51,Nigeria,M,Higher,1,3.1
+51,Nigeria,M,No education,1,11.6
+51,Nigeria,M,Primary,1,9.0
+51,Nigeria,M,Secondary,1,7.1
+191,Nigeria,M,Higher,4,6.0
+191,Nigeria,M,No education,4,15.1
+191,Nigeria,M,Primary,4,16.4
+191,Nigeria,M,Secondary,4,13.6
+261,Nigeria,M,Higher,5,7.3
+261,Nigeria,M,No education,5,13.8
+261,Nigeria,M,Primary,5,15.8
+261,Nigeria,M,Secondary,5,15.1
+331,Nigeria,M,Higher,6,6.2
+331,Nigeria,M,No education,6,18.3
+331,Nigeria,M,Primary,6,12.5
+331,Nigeria,M,Secondary,6,9.0
+402,Pakistan,F,Higher,2,16.4
+402,Pakistan,F,No education,2,55.0
+402,Pakistan,F,Primary,2,39.5
+402,Pakistan,F,Secondary,2,25.5
+122,Pakistan,F,Higher,3,8.5
+122,Pakistan,F,No education,3,44.5
+122,Pakistan,F,Primary,3,29.2
+122,Pakistan,F,Secondary,3,17.8
+52,Pakistan,F,Higher,1,4.3
+52,Pakistan,F,No education,1,27.1
+52,Pakistan,F,Primary,1,16.7
+52,Pakistan,F,Secondary,1,7.9
+192,Pakistan,F,Higher,4,11.3
+192,Pakistan,F,No education,4,44.2
+192,Pakistan,F,Primary,4,28.4
+192,Pakistan,F,Secondary,4,16.7
+262,Pakistan,F,Higher,5,9.4
+262,Pakistan,F,No education,5,38.3
+262,Pakistan,F,Primary,5,25.6
+262,Pakistan,F,Secondary,5,16.4
+332,Pakistan,F,Higher,6,7.7
+332,Pakistan,F,No education,6,38.7
+332,Pakistan,F,Primary,6,24.8
+332,Pakistan,F,Secondary,6,15.2
+402,Pakistan,M,Higher,2,17.4
+402,Pakistan,M,No education,2,54.3
+402,Pakistan,M,Primary,2,41.2
+402,Pakistan,M,Secondary,2,33.9
+122,Pakistan,M,Higher,3,9.2
+122,Pakistan,M,No education,3,32.4
+122,Pakistan,M,Primary,3,22.0
+122,Pakistan,M,Secondary,3,16.5
+52,Pakistan,M,Higher,1,1.9
+52,Pakistan,M,No education,1,5.5
+52,Pakistan,M,Primary,1,5.4
+52,Pakistan,M,Secondary,1,3.5
+192,Pakistan,M,Higher,4,11.5
+192,Pakistan,M,No education,4,40.4
+192,Pakistan,M,Primary,4,30.6
+192,Pakistan,M,Secondary,4,25.4
+262,Pakistan,M,Higher,5,7.8
+262,Pakistan,M,No education,5,28.0
+262,Pakistan,M,Primary,5,20.3
+262,Pakistan,M,Secondary,5,17.0
+332,Pakistan,M,Higher,6,2.5
+332,Pakistan,M,No education,6,18.6
+332,Pakistan,M,Primary,6,9.3
+332,Pakistan,M,Secondary,6,6.6
+403,Peru,F,Higher,2,1.8
+403,Peru,F,No education,2,6.8
+403,Peru,F,Primary,2,6.1
+403,Peru,F,Secondary,2,3.1
+123,Peru,F,Higher,3,0.4
+123,Peru,F,No education,3,2.1
+123,Peru,F,Primary,3,1.7
+123,Peru,F,Secondary,3,0.6
+53,Peru,F,Higher,1,0.9
+53,Peru,F,No education,1,1.9
+53,Peru,F,Primary,1,1.6
+53,Peru,F,Secondary,1,0.9
+193,Peru,F,Higher,4,0.6
+193,Peru,F,No education,4,2.3
+193,Peru,F,Primary,4,2.0
+193,Peru,F,Secondary,4,1.0
+263,Peru,F,Higher,5,0.9
+263,Peru,F,No education,5,4.1
+263,Peru,F,Primary,5,4.2
+263,Peru,F,Secondary,5,2.0
+333,Peru,F,Higher,6,0.4
+333,Peru,F,No education,6,1.6
+333,Peru,F,Primary,6,1.0
+333,Peru,F,Secondary,6,0.5
+403,Peru,M,Higher,2,0.0
+403,Peru,M,No education,2,0.0
+403,Peru,M,Primary,2,0.0
+403,Peru,M,Secondary,2,0.0
+123,Peru,M,Higher,3,0.0
+123,Peru,M,No education,3,0.0
+123,Peru,M,Primary,3,0.0
+123,Peru,M,Secondary,3,0.0
+53,Peru,M,Higher,1,0.0
+53,Peru,M,No education,1,0.0
+53,Peru,M,Primary,1,0.0
+53,Peru,M,Secondary,1,0.0
+193,Peru,M,Higher,4,0.0
+193,Peru,M,No education,4,0.0
+193,Peru,M,Primary,4,0.0
+193,Peru,M,Secondary,4,0.0
+263,Peru,M,Higher,5,0.0
+263,Peru,M,No education,5,0.0
+263,Peru,M,Primary,5,0.0
+263,Peru,M,Secondary,5,0.0
+333,Peru,M,Higher,6,0.0
+333,Peru,M,No education,6,0.0
+333,Peru,M,Primary,6,0.0
+333,Peru,M,Secondary,6,0.0
+404,Philippines,F,Higher,2,7.5
+404,Philippines,F,No education,2,17.5
+404,Philippines,F,Primary,2,16.5
+404,Philippines,F,Secondary,2,11.8
+124,Philippines,F,Higher,3,1.1
+124,Philippines,F,No education,3,2.7
+124,Philippines,F,Primary,3,3.6
+124,Philippines,F,Secondary,3,2.5
+54,Philippines,F,Higher,1,0.7
+54,Philippines,F,No education,1,1.8
+54,Philippines,F,Primary,1,2.4
+54,Philippines,F,Secondary,1,1.5
+194,Philippines,F,Higher,4,1.3
+194,Philippines,F,No education,4,9.8
+194,Philippines,F,Primary,4,7.9
+194,Philippines,F,Secondary,4,3.6
+264,Philippines,F,Higher,5,6.3
+264,Philippines,F,No education,5,14.5
+264,Philippines,F,Primary,5,12.5
+264,Philippines,F,Secondary,5,9.1
+334,Philippines,F,Higher,6,0.8
+334,Philippines,F,No education,6,2.6
+334,Philippines,F,Primary,6,1.9
+334,Philippines,F,Secondary,6,1.6
+404,Philippines,M,Higher,2,0.0
+404,Philippines,M,No education,2,0.0
+404,Philippines,M,Primary,2,0.0
+404,Philippines,M,Secondary,2,0.0
+124,Philippines,M,Higher,3,0.0
+124,Philippines,M,No education,3,0.0
+124,Philippines,M,Primary,3,0.0
+124,Philippines,M,Secondary,3,0.0
+54,Philippines,M,Higher,1,0.0
+54,Philippines,M,No education,1,0.0
+54,Philippines,M,Primary,1,0.0
+54,Philippines,M,Secondary,1,0.0
+194,Philippines,M,Higher,4,0.0
+194,Philippines,M,No education,4,0.0
+194,Philippines,M,Primary,4,0.0
+194,Philippines,M,Secondary,4,0.0
+264,Philippines,M,Higher,5,0.0
+264,Philippines,M,No education,5,0.0
+264,Philippines,M,Primary,5,0.0
+264,Philippines,M,Secondary,5,0.0
+334,Philippines,M,Higher,6,0.0
+334,Philippines,M,No education,6,0.0
+334,Philippines,M,Primary,6,0.0
+334,Philippines,M,Secondary,6,0.0
+405,Rwanda,F,Higher,2,11.3
+405,Rwanda,F,No education,2,46.1
+405,Rwanda,F,Primary,2,43.8
+405,Rwanda,F,Secondary,2,35.0
+125,Rwanda,F,Higher,3,3.7
+125,Rwanda,F,No education,3,24.9
+125,Rwanda,F,Primary,3,21.8
+125,Rwanda,F,Secondary,3,15.7
+55,Rwanda,F,Higher,1,0.9
+55,Rwanda,F,No education,1,11.0
+55,Rwanda,F,Primary,1,9.7
+55,Rwanda,F,Secondary,1,6.1
+195,Rwanda,F,Higher,4,4.1
+195,Rwanda,F,No education,4,25.0
+195,Rwanda,F,Primary,4,23.7
+195,Rwanda,F,Secondary,4,18.7
+265,Rwanda,F,Higher,5,6.5
+265,Rwanda,F,No education,5,31.3
+265,Rwanda,F,Primary,5,30.9
+265,Rwanda,F,Secondary,5,26.8
+335,Rwanda,F,Higher,6,3.3
+335,Rwanda,F,No education,6,31.4
+335,Rwanda,F,Primary,6,26.0
+335,Rwanda,F,Secondary,6,18.0
+405,Rwanda,M,Higher,2,5.2
+405,Rwanda,M,No education,2,21.1
+405,Rwanda,M,Primary,2,18.4
+405,Rwanda,M,Secondary,2,17.5
+125,Rwanda,M,Higher,3,0.6
+125,Rwanda,M,No education,3,7.5
+125,Rwanda,M,Primary,3,5.6
+125,Rwanda,M,Secondary,3,5.0
+55,Rwanda,M,Higher,1,0.0
+55,Rwanda,M,No education,1,1.2
+55,Rwanda,M,Primary,1,1.7
+55,Rwanda,M,Secondary,1,2.2
+195,Rwanda,M,Higher,4,2.3
+195,Rwanda,M,No education,4,8.6
+195,Rwanda,M,Primary,4,7.1
+195,Rwanda,M,Secondary,4,6.8
+265,Rwanda,M,Higher,5,3.9
+265,Rwanda,M,No education,5,14.9
+265,Rwanda,M,Primary,5,12.3
+265,Rwanda,M,Secondary,5,12.4
+335,Rwanda,M,Higher,6,1.0
+335,Rwanda,M,No education,6,8.0
+335,Rwanda,M,Primary,6,7.0
+335,Rwanda,M,Secondary,6,6.3
+406,Sao Tome and Principe,F,Higher,2,0.0
+406,Sao Tome and Principe,F,No education,2,27.5
+406,Sao Tome and Principe,F,Primary,2,21.7
+406,Sao Tome and Principe,F,Secondary,2,14.7
+126,Sao Tome and Principe,F,Higher,3,0.0
+126,Sao Tome and Principe,F,No education,3,7.3
+126,Sao Tome and Principe,F,Primary,3,8.2
+126,Sao Tome and Principe,F,Secondary,3,5.0
+56,Sao Tome and Principe,F,Higher,1,0.0
+56,Sao Tome and Principe,F,No education,1,10.5
+56,Sao Tome and Principe,F,Primary,1,6.5
+56,Sao Tome and Principe,F,Secondary,1,5.6
+196,Sao Tome and Principe,F,Higher,4,0.0
+196,Sao Tome and Principe,F,No education,4,18.4
+196,Sao Tome and Principe,F,Primary,4,11.5
+196,Sao Tome and Principe,F,Secondary,4,6.8
+266,Sao Tome and Principe,F,Higher,5,0.0
+266,Sao Tome and Principe,F,No education,5,14.5
+266,Sao Tome and Principe,F,Primary,5,13.2
+266,Sao Tome and Principe,F,Secondary,5,8.9
+336,Sao Tome and Principe,F,Higher,6,0.0
+336,Sao Tome and Principe,F,No education,6,12.0
+336,Sao Tome and Principe,F,Primary,6,6.6
+336,Sao Tome and Principe,F,Secondary,6,3.0
+406,Sao Tome and Principe,M,Higher,2,13.4
+406,Sao Tome and Principe,M,No education,2,21.4
+406,Sao Tome and Principe,M,Primary,2,26.3
+406,Sao Tome and Principe,M,Secondary,2,16.0
+126,Sao Tome and Principe,M,Higher,3,7.7
+126,Sao Tome and Principe,M,No education,3,4.3
+126,Sao Tome and Principe,M,Primary,3,11.5
+126,Sao Tome and Principe,M,Secondary,3,8.6
+56,Sao Tome and Principe,M,Higher,1,10.4
+56,Sao Tome and Principe,M,No education,1,8.4
+56,Sao Tome and Principe,M,Primary,1,7.7
+56,Sao Tome and Principe,M,Secondary,1,4.7
+196,Sao Tome and Principe,M,Higher,4,11.0
+196,Sao Tome and Principe,M,No education,4,13.5
+196,Sao Tome and Principe,M,Primary,4,15.3
+196,Sao Tome and Principe,M,Secondary,4,6.9
+266,Sao Tome and Principe,M,Higher,5,3.8
+266,Sao Tome and Principe,M,No education,5,18.4
+266,Sao Tome and Principe,M,Primary,5,17.5
+266,Sao Tome and Principe,M,Secondary,5,9.7
+336,Sao Tome and Principe,M,Higher,6,7.7
+336,Sao Tome and Principe,M,No education,6,7.7
+336,Sao Tome and Principe,M,Primary,6,6.2
+336,Sao Tome and Principe,M,Secondary,6,4.3
+407,Senegal,F,Higher,2,9.7
+407,Senegal,F,No education,2,59.0
+407,Senegal,F,Primary,2,39.5
+407,Senegal,F,Secondary,2,34.0
+127,Senegal,F,Higher,3,2.9
+127,Senegal,F,No education,3,48.6
+127,Senegal,F,Primary,3,29.6
+127,Senegal,F,Secondary,3,22.9
+57,Senegal,F,Higher,1,1.4
+57,Senegal,F,No education,1,30.9
+57,Senegal,F,Primary,1,19.1
+57,Senegal,F,Secondary,1,12.7
+197,Senegal,F,Higher,4,2.4
+197,Senegal,F,No education,4,46.9
+197,Senegal,F,Primary,4,27.7
+197,Senegal,F,Secondary,4,19.3
+267,Senegal,F,Higher,5,8.4
+267,Senegal,F,No education,5,46.8
+267,Senegal,F,Primary,5,29.8
+267,Senegal,F,Secondary,5,24.7
+337,Senegal,F,Higher,6,2.9
+337,Senegal,F,No education,6,50.7
+337,Senegal,F,Primary,6,28.3
+337,Senegal,F,Secondary,6,19.4
+407,Senegal,M,Higher,2,7.8
+407,Senegal,M,No education,2,33.2
+407,Senegal,M,Primary,2,27.6
+407,Senegal,M,Secondary,2,26.7
+127,Senegal,M,Higher,3,3.3
+127,Senegal,M,No education,3,22.9
+127,Senegal,M,Primary,3,18.9
+127,Senegal,M,Secondary,3,17.7
+57,Senegal,M,Higher,1,1.1
+57,Senegal,M,No education,1,7.5
+57,Senegal,M,Primary,1,6.5
+57,Senegal,M,Secondary,1,6.3
+197,Senegal,M,Higher,4,3.3
+197,Senegal,M,No education,4,18.3
+197,Senegal,M,Primary,4,13.9
+197,Senegal,M,Secondary,4,12.1
+267,Senegal,M,Higher,5,3.1
+267,Senegal,M,No education,5,20.9
+267,Senegal,M,Primary,5,15.8
+267,Senegal,M,Secondary,5,16.8
+337,Senegal,M,Higher,6,0.8
+337,Senegal,M,No education,6,15.7
+337,Senegal,M,Primary,6,11.7
+337,Senegal,M,Secondary,6,8.8
+408,Sierra Leone,F,Higher,2,32.3
+408,Sierra Leone,F,No education,2,69.3
+408,Sierra Leone,F,Primary,2,59.4
+408,Sierra Leone,F,Secondary,2,54.6
+128,Sierra Leone,F,Higher,3,17.0
+128,Sierra Leone,F,No education,3,55.0
+128,Sierra Leone,F,Primary,3,43.0
+128,Sierra Leone,F,Secondary,3,37.9
+58,Sierra Leone,F,Higher,1,4.0
+58,Sierra Leone,F,No education,1,22.0
+58,Sierra Leone,F,Primary,1,17.6
+58,Sierra Leone,F,Secondary,1,12.7
+198,Sierra Leone,F,Higher,4,25.3
+198,Sierra Leone,F,No education,4,59.4
+198,Sierra Leone,F,Primary,4,50.3
+198,Sierra Leone,F,Secondary,4,44.1
+268,Sierra Leone,F,Higher,5,24.2
+268,Sierra Leone,F,No education,5,59.3
+268,Sierra Leone,F,Primary,5,50.9
+268,Sierra Leone,F,Secondary,5,44.2
+338,Sierra Leone,F,Higher,6,6.0
+338,Sierra Leone,F,No education,6,32.0
+338,Sierra Leone,F,Primary,6,24.2
+338,Sierra Leone,F,Secondary,6,16.1
+408,Sierra Leone,M,Higher,2,20.0
+408,Sierra Leone,M,No education,2,39.0
+408,Sierra Leone,M,Primary,2,34.1
+408,Sierra Leone,M,Secondary,2,31.6
+128,Sierra Leone,M,Higher,3,12.2
+128,Sierra Leone,M,No education,3,27.9
+128,Sierra Leone,M,Primary,3,24.8
+128,Sierra Leone,M,Secondary,3,22.4
+58,Sierra Leone,M,Higher,1,4.8
+58,Sierra Leone,M,No education,1,5.0
+58,Sierra Leone,M,Primary,1,5.2
+58,Sierra Leone,M,Secondary,1,4.6
+198,Sierra Leone,M,Higher,4,9.2
+198,Sierra Leone,M,No education,4,23.7
+198,Sierra Leone,M,Primary,4,20.8
+198,Sierra Leone,M,Secondary,4,17.2
+268,Sierra Leone,M,Higher,5,10.9
+268,Sierra Leone,M,No education,5,26.9
+268,Sierra Leone,M,Primary,5,20.2
+268,Sierra Leone,M,Secondary,5,20.1
+338,Sierra Leone,M,Higher,6,4.7
+338,Sierra Leone,M,No education,6,11.8
+338,Sierra Leone,M,Primary,6,10.0
+338,Sierra Leone,M,Secondary,6,8.0
+409,South Africa,F,Higher,2,1.1
+409,South Africa,F,No education,2,6.8
+409,South Africa,F,Primary,2,9.9
+409,South Africa,F,Secondary,2,5.6
+129,South Africa,F,Higher,3,0.5
+129,South Africa,F,No education,3,2.9
+129,South Africa,F,Primary,3,4.2
+129,South Africa,F,Secondary,3,2.2
+59,South Africa,F,Higher,1,0.2
+59,South Africa,F,No education,1,1.6
+59,South Africa,F,Primary,1,2.4
+59,South Africa,F,Secondary,1,0.9
+199,South Africa,F,Higher,4,0.3
+199,South Africa,F,No education,4,2.2
+199,South Africa,F,Primary,4,4.8
+199,South Africa,F,Secondary,4,2.1
+269,South Africa,F,Higher,5,0.6
+269,South Africa,F,No education,5,2.8
+269,South Africa,F,Primary,5,6.9
+269,South Africa,F,Secondary,5,4.0
+339,South Africa,F,Higher,6,0.1
+339,South Africa,F,No education,6,2.2
+339,South Africa,F,Primary,6,1.9
+339,South Africa,F,Secondary,6,1.0
+409,South Africa,M,Higher,2,5.8
+409,South Africa,M,No education,2,10.6
+409,South Africa,M,Primary,2,11.0
+409,South Africa,M,Secondary,2,9.4
+129,South Africa,M,Higher,3,0.7
+129,South Africa,M,No education,3,6.3
+129,South Africa,M,Primary,3,6.3
+129,South Africa,M,Secondary,3,3.7
+59,South Africa,M,Higher,1,1.2
+59,South Africa,M,No education,1,3.8
+59,South Africa,M,Primary,1,3.2
+59,South Africa,M,Secondary,1,1.5
+199,South Africa,M,Higher,4,1.7
+199,South Africa,M,No education,4,4.5
+199,South Africa,M,Primary,4,5.6
+199,South Africa,M,Secondary,4,3.7
+269,South Africa,M,Higher,5,3.2
+269,South Africa,M,No education,5,8.2
+269,South Africa,M,Primary,5,7.5
+269,South Africa,M,Secondary,5,6.2
+339,South Africa,M,Higher,6,0.7
+339,South Africa,M,No education,6,1.1
+339,South Africa,M,Primary,6,2.5
+339,South Africa,M,Secondary,6,1.6
+410,Tajikistan,F,Higher,2,51.7
+410,Tajikistan,F,No education,2,66.0
+410,Tajikistan,F,Primary,2,67.7
+410,Tajikistan,F,Secondary,2,66.0
+130,Tajikistan,F,Higher,3,40.9
+130,Tajikistan,F,No education,3,57.8
+130,Tajikistan,F,Primary,3,55.8
+130,Tajikistan,F,Secondary,3,54.6
+60,Tajikistan,F,Higher,1,19.2
+60,Tajikistan,F,No education,1,41.7
+60,Tajikistan,F,Primary,1,40.2
+60,Tajikistan,F,Secondary,1,31.1
+200,Tajikistan,F,Higher,4,36.2
+200,Tajikistan,F,No education,4,61.6
+200,Tajikistan,F,Primary,4,59.0
+200,Tajikistan,F,Secondary,4,54.1
+270,Tajikistan,F,Higher,5,36.6
+270,Tajikistan,F,No education,5,58.3
+270,Tajikistan,F,Primary,5,56.8
+270,Tajikistan,F,Secondary,5,52.4
+340,Tajikistan,F,Higher,6,16.5
+340,Tajikistan,F,No education,6,41.7
+340,Tajikistan,F,Primary,6,32.4
+340,Tajikistan,F,Secondary,6,28.3
+410,Tajikistan,M,Higher,2,0.0
+410,Tajikistan,M,No education,2,0.0
+410,Tajikistan,M,Primary,2,0.0
+410,Tajikistan,M,Secondary,2,0.0
+130,Tajikistan,M,Higher,3,0.0
+130,Tajikistan,M,No education,3,0.0
+130,Tajikistan,M,Primary,3,0.0
+130,Tajikistan,M,Secondary,3,0.0
+60,Tajikistan,M,Higher,1,0.0
+60,Tajikistan,M,No education,1,0.0
+60,Tajikistan,M,Primary,1,0.0
+60,Tajikistan,M,Secondary,1,0.0
+200,Tajikistan,M,Higher,4,0.0
+200,Tajikistan,M,No education,4,0.0
+200,Tajikistan,M,Primary,4,0.0
+200,Tajikistan,M,Secondary,4,0.0
+270,Tajikistan,M,Higher,5,0.0
+270,Tajikistan,M,No education,5,0.0
+270,Tajikistan,M,Primary,5,0.0
+270,Tajikistan,M,Secondary,5,0.0
+340,Tajikistan,M,Higher,6,0.0
+340,Tajikistan,M,No education,6,0.0
+340,Tajikistan,M,Primary,6,0.0
+340,Tajikistan,M,Secondary,6,0.0
+411,Tanzania,F,Higher,2,10.4
+411,Tanzania,F,No education,2,65.0
+411,Tanzania,F,Primary,2,62.2
+411,Tanzania,F,Secondary,2,44.7
+131,Tanzania,F,Higher,3,1.9
+131,Tanzania,F,No education,3,51.1
+131,Tanzania,F,Primary,3,45.6
+131,Tanzania,F,Secondary,3,28.2
+61,Tanzania,F,Higher,1,0.3
+61,Tanzania,F,No education,1,29.3
+61,Tanzania,F,Primary,1,22.7
+61,Tanzania,F,Secondary,1,8.2
+201,Tanzania,F,Higher,4,2.4
+201,Tanzania,F,No education,4,51.3
+201,Tanzania,F,Primary,4,44.5
+201,Tanzania,F,Secondary,4,26.3
+271,Tanzania,F,Higher,5,9.9
+271,Tanzania,F,No education,5,55.4
+271,Tanzania,F,Primary,5,51.2
+271,Tanzania,F,Secondary,5,35.9
+341,Tanzania,F,Higher,6,1.2
+341,Tanzania,F,No education,6,41.9
+341,Tanzania,F,Primary,6,34.1
+341,Tanzania,F,Secondary,6,14.5
+411,Tanzania,M,Higher,2,12.5
+411,Tanzania,M,No education,2,38.9
+411,Tanzania,M,Primary,2,42.6
+411,Tanzania,M,Secondary,2,35.3
+131,Tanzania,M,Higher,3,2.4
+131,Tanzania,M,No education,3,24.3
+131,Tanzania,M,Primary,3,27.4
+131,Tanzania,M,Secondary,3,19.7
+61,Tanzania,M,Higher,1,0.0
+61,Tanzania,M,No education,1,8.8
+61,Tanzania,M,Primary,1,6.8
+61,Tanzania,M,Secondary,1,5.3
+201,Tanzania,M,Higher,4,3.2
+201,Tanzania,M,No education,4,20.6
+201,Tanzania,M,Primary,4,26.3
+201,Tanzania,M,Secondary,4,16.6
+271,Tanzania,M,Higher,5,8.4
+271,Tanzania,M,No education,5,30.9
+271,Tanzania,M,Primary,5,33.0
+271,Tanzania,M,Secondary,5,27.4
+341,Tanzania,M,Higher,6,2.0
+341,Tanzania,M,No education,6,13.7
+341,Tanzania,M,Primary,6,16.4
+341,Tanzania,M,Secondary,6,8.5
+412,Timor-Leste,F,Higher,2,74.6
+412,Timor-Leste,F,No education,2,77.1
+412,Timor-Leste,F,Primary,2,74.0
+412,Timor-Leste,F,Secondary,2,72.6
+132,Timor-Leste,F,Higher,3,58.3
+132,Timor-Leste,F,No education,3,64.0
+132,Timor-Leste,F,Primary,3,60.1
+132,Timor-Leste,F,Secondary,3,59.1
+62,Timor-Leste,F,Higher,1,23.7
+62,Timor-Leste,F,No education,1,37.1
+62,Timor-Leste,F,Primary,1,37.4
+62,Timor-Leste,F,Secondary,1,29.7
+202,Timor-Leste,F,Higher,4,63.8
+202,Timor-Leste,F,No education,4,69.6
+202,Timor-Leste,F,Primary,4,64.1
+202,Timor-Leste,F,Secondary,4,62.5
+272,Timor-Leste,F,Higher,5,63.6
+272,Timor-Leste,F,No education,5,66.5
+272,Timor-Leste,F,Primary,5,62.5
+272,Timor-Leste,F,Secondary,5,61.1
+342,Timor-Leste,F,Higher,6,30.9
+342,Timor-Leste,F,No education,6,42.0
+342,Timor-Leste,F,Primary,6,40.5
+342,Timor-Leste,F,Secondary,6,32.5
+412,Timor-Leste,M,Higher,2,65.3
+412,Timor-Leste,M,No education,2,47.2
+412,Timor-Leste,M,Primary,2,51.5
+412,Timor-Leste,M,Secondary,2,52.5
+132,Timor-Leste,M,Higher,3,27.4
+132,Timor-Leste,M,No education,3,32.0
+132,Timor-Leste,M,Primary,3,29.3
+132,Timor-Leste,M,Secondary,3,29.8
+62,Timor-Leste,M,Higher,1,14.7
+62,Timor-Leste,M,No education,1,22.9
+62,Timor-Leste,M,Primary,1,20.1
+62,Timor-Leste,M,Secondary,1,19.2
+202,Timor-Leste,M,Higher,4,58.0
+202,Timor-Leste,M,No education,4,39.6
+202,Timor-Leste,M,Primary,4,41.8
+202,Timor-Leste,M,Secondary,4,44.3
+272,Timor-Leste,M,Higher,5,59.9
+272,Timor-Leste,M,No education,5,40.7
+272,Timor-Leste,M,Primary,5,42.9
+272,Timor-Leste,M,Secondary,5,45.7
+342,Timor-Leste,M,Higher,6,37.9
+342,Timor-Leste,M,No education,6,24.5
+342,Timor-Leste,M,Primary,6,23.0
+342,Timor-Leste,M,Secondary,6,27.6
+413,Togo,F,Higher,2,8.8
+413,Togo,F,No education,2,38.4
+413,Togo,F,Primary,2,27.5
+413,Togo,F,Secondary,2,22.4
+133,Togo,F,Higher,3,4.8
+133,Togo,F,No education,3,26.4
+133,Togo,F,Primary,3,18.8
+133,Togo,F,Secondary,3,14.9
+63,Togo,F,Higher,1,3.4
+63,Togo,F,No education,1,17.7
+63,Togo,F,Primary,1,9.7
+63,Togo,F,Secondary,1,7.2
+203,Togo,F,Higher,4,4.3
+203,Togo,F,No education,4,24.8
+203,Togo,F,Primary,4,17.0
+203,Togo,F,Secondary,4,13.1
+273,Togo,F,Higher,5,4.5
+273,Togo,F,No education,5,27.2
+273,Togo,F,Primary,5,17.5
+273,Togo,F,Secondary,5,13.6
+343,Togo,F,Higher,6,0.8
+343,Togo,F,No education,6,16.5
+343,Togo,F,Primary,6,8.1
+343,Togo,F,Secondary,6,5.1
+413,Togo,M,Higher,2,6.3
+413,Togo,M,No education,2,28.5
+413,Togo,M,Primary,2,22.6
+413,Togo,M,Secondary,2,15.6
+133,Togo,M,Higher,3,3.9
+133,Togo,M,No education,3,14.0
+133,Togo,M,Primary,3,11.8
+133,Togo,M,Secondary,3,9.4
+63,Togo,M,Higher,1,0.9
+63,Togo,M,No education,1,10.8
+63,Togo,M,Primary,1,6.7
+63,Togo,M,Secondary,1,5.2
+203,Togo,M,Higher,4,1.6
+203,Togo,M,No education,4,13.9
+203,Togo,M,Primary,4,13.6
+203,Togo,M,Secondary,4,8.0
+273,Togo,M,Higher,5,4.2
+273,Togo,M,No education,5,21.8
+273,Togo,M,Primary,5,14.4
+273,Togo,M,Secondary,5,9.5
+343,Togo,M,Higher,6,1.0
+343,Togo,M,No education,6,9.8
+343,Togo,M,Primary,6,6.4
+343,Togo,M,Secondary,6,4.1
+414,Turkey,F,Higher,2,3.7
+414,Turkey,F,No education,2,37.0
+414,Turkey,F,Primary,2,17.8
+414,Turkey,F,Secondary,2,9.6
+134,Turkey,F,Higher,3,1.4
+134,Turkey,F,No education,3,18.9
+134,Turkey,F,Primary,3,8.4
+134,Turkey,F,Secondary,3,4.2
+64,Turkey,F,Higher,1,0.1
+64,Turkey,F,No education,1,6.7
+64,Turkey,F,Primary,1,1.1
+64,Turkey,F,Secondary,1,0.6
+204,Turkey,F,Higher,4,0.6
+204,Turkey,F,No education,4,16.7
+204,Turkey,F,Primary,4,6.1
+204,Turkey,F,Secondary,4,2.3
+274,Turkey,F,Higher,5,2.6
+274,Turkey,F,No education,5,25.3
+274,Turkey,F,Primary,5,12.3
+274,Turkey,F,Secondary,5,5.6
+344,Turkey,F,Higher,6,0.5
+344,Turkey,F,No education,6,10.9
+344,Turkey,F,Primary,6,3.2
+344,Turkey,F,Secondary,6,1.2
+414,Turkey,M,Higher,2,0.0
+414,Turkey,M,No education,2,0.0
+414,Turkey,M,Primary,2,0.0
+414,Turkey,M,Secondary,2,0.0
+134,Turkey,M,Higher,3,0.0
+134,Turkey,M,No education,3,0.0
+134,Turkey,M,Primary,3,0.0
+134,Turkey,M,Secondary,3,0.0
+64,Turkey,M,Higher,1,0.0
+64,Turkey,M,No education,1,0.0
+64,Turkey,M,Primary,1,0.0
+64,Turkey,M,Secondary,1,0.0
+204,Turkey,M,Higher,4,0.0
+204,Turkey,M,No education,4,0.0
+204,Turkey,M,Primary,4,0.0
+204,Turkey,M,Secondary,4,0.0
+274,Turkey,M,Higher,5,0.0
+274,Turkey,M,No education,5,0.0
+274,Turkey,M,Primary,5,0.0
+274,Turkey,M,Secondary,5,0.0
+344,Turkey,M,Higher,6,0.0
+344,Turkey,M,No education,6,0.0
+344,Turkey,M,Primary,6,0.0
+344,Turkey,M,Secondary,6,0.0
+415,Turkmenistan,F,Higher,2,30.3
+415,Turkmenistan,F,No education,2,61.3
+415,Turkmenistan,F,Primary,2,56.8
+415,Turkmenistan,F,Secondary,2,53.2
+135,Turkmenistan,F,Higher,3,15.4
+135,Turkmenistan,F,No education,3,44.7
+135,Turkmenistan,F,Primary,3,35.8
+135,Turkmenistan,F,Secondary,3,35.0
+65,Turkmenistan,F,Higher,1,8.0
+65,Turkmenistan,F,No education,1,32.7
+65,Turkmenistan,F,Primary,1,26.3
+65,Turkmenistan,F,Secondary,1,22.7
+205,Turkmenistan,F,Higher,4,20.3
+205,Turkmenistan,F,No education,4,57.8
+205,Turkmenistan,F,Primary,4,49.6
+205,Turkmenistan,F,Secondary,4,41.5
+275,Turkmenistan,F,Higher,5,23.4
+275,Turkmenistan,F,No education,5,47.7
+275,Turkmenistan,F,Primary,5,44.6
+275,Turkmenistan,F,Secondary,5,45.1
+345,Turkmenistan,F,Higher,6,6.6
+345,Turkmenistan,F,No education,6,34.1
+345,Turkmenistan,F,Primary,6,29.9
+345,Turkmenistan,F,Secondary,6,21.9
+415,Turkmenistan,M,Higher,2,0.0
+415,Turkmenistan,M,No education,2,0.0
+415,Turkmenistan,M,Primary,2,0.0
+415,Turkmenistan,M,Secondary,2,0.0
+135,Turkmenistan,M,Higher,3,0.0
+135,Turkmenistan,M,No education,3,0.0
+135,Turkmenistan,M,Primary,3,0.0
+135,Turkmenistan,M,Secondary,3,0.0
+65,Turkmenistan,M,Higher,1,0.0
+65,Turkmenistan,M,No education,1,0.0
+65,Turkmenistan,M,Primary,1,0.0
+65,Turkmenistan,M,Secondary,1,0.0
+205,Turkmenistan,M,Higher,4,0.0
+205,Turkmenistan,M,No education,4,0.0
+205,Turkmenistan,M,Primary,4,0.0
+205,Turkmenistan,M,Secondary,4,0.0
+275,Turkmenistan,M,Higher,5,0.0
+275,Turkmenistan,M,No education,5,0.0
+275,Turkmenistan,M,Primary,5,0.0
+275,Turkmenistan,M,Secondary,5,0.0
+345,Turkmenistan,M,Higher,6,0.0
+345,Turkmenistan,M,No education,6,0.0
+345,Turkmenistan,M,Primary,6,0.0
+345,Turkmenistan,M,Secondary,6,0.0
+416,Uganda,F,Higher,2,21.7
+416,Uganda,F,No education,2,55.2
+416,Uganda,F,Primary,2,54.4
+416,Uganda,F,Secondary,2,42.9
+136,Uganda,F,Higher,3,7.8
+136,Uganda,F,No education,3,33.6
+136,Uganda,F,Primary,3,30.2
+136,Uganda,F,Secondary,3,19.7
+66,Uganda,F,Higher,1,3.1
+66,Uganda,F,No education,1,18.3
+66,Uganda,F,Primary,1,16.4
+66,Uganda,F,Secondary,1,8.9
+206,Uganda,F,Higher,4,9.5
+206,Uganda,F,No education,4,34.8
+206,Uganda,F,Primary,4,34.3
+206,Uganda,F,Secondary,4,24.8
+276,Uganda,F,Higher,5,17.7
+276,Uganda,F,No education,5,43.6
+276,Uganda,F,Primary,5,42.8
+276,Uganda,F,Secondary,5,33.2
+346,Uganda,F,Higher,6,4.0
+346,Uganda,F,No education,6,24.6
+346,Uganda,F,Primary,6,22.1
+346,Uganda,F,Secondary,6,10.7
+416,Uganda,M,Higher,2,20.2
+416,Uganda,M,No education,2,36.5
+416,Uganda,M,Primary,2,47.5
+416,Uganda,M,Secondary,2,36.4
+136,Uganda,M,Higher,3,9.8
+136,Uganda,M,No education,3,15.1
+136,Uganda,M,Primary,3,28.7
+136,Uganda,M,Secondary,3,19.9
+66,Uganda,M,Higher,1,1.5
+66,Uganda,M,No education,1,5.6
+66,Uganda,M,Primary,1,10.1
+66,Uganda,M,Secondary,1,4.7
+206,Uganda,M,Higher,4,10.3
+206,Uganda,M,No education,4,23.8
+206,Uganda,M,Primary,4,27.4
+206,Uganda,M,Secondary,4,17.0
+276,Uganda,M,Higher,5,13.5
+276,Uganda,M,No education,5,28.3
+276,Uganda,M,Primary,5,33.4
+276,Uganda,M,Secondary,5,24.9
+346,Uganda,M,Higher,6,1.9
+346,Uganda,M,No education,6,11.5
+346,Uganda,M,Primary,6,16.1
+346,Uganda,M,Secondary,6,7.2
+417,Ukraine,F,Higher,2,2.7
+417,Ukraine,F,No education,2,0.0
+417,Ukraine,F,Primary,2,0.0
+417,Ukraine,F,Secondary,2,4.9
+137,Ukraine,F,Higher,3,0.6
+137,Ukraine,F,No education,3,0.0
+137,Ukraine,F,Primary,3,0.0
+137,Ukraine,F,Secondary,3,1.4
+67,Ukraine,F,Higher,1,0.1
+67,Ukraine,F,No education,1,0.0
+67,Ukraine,F,Primary,1,0.0
+67,Ukraine,F,Secondary,1,0.2
+207,Ukraine,F,Higher,4,0.3
+207,Ukraine,F,No education,4,0.0
+207,Ukraine,F,Primary,4,0.0
+207,Ukraine,F,Secondary,4,0.7
+277,Ukraine,F,Higher,5,2.4
+277,Ukraine,F,No education,5,0.0
+277,Ukraine,F,Primary,5,0.0
+277,Ukraine,F,Secondary,5,4.1
+347,Ukraine,F,Higher,6,0.3
+347,Ukraine,F,No education,6,0.0
+347,Ukraine,F,Primary,6,0.0
+347,Ukraine,F,Secondary,6,0.8
+417,Ukraine,M,Higher,2,7.9
+417,Ukraine,M,No education,2,0.0
+417,Ukraine,M,Primary,2,0.0
+417,Ukraine,M,Secondary,2,14.2
+137,Ukraine,M,Higher,3,3.3
+137,Ukraine,M,No education,3,0.0
+137,Ukraine,M,Primary,3,0.0
+137,Ukraine,M,Secondary,3,7.0
+67,Ukraine,M,Higher,1,0.4
+67,Ukraine,M,No education,1,0.0
+67,Ukraine,M,Primary,1,0.0
+67,Ukraine,M,Secondary,1,1.0
+207,Ukraine,M,Higher,4,2.4
+207,Ukraine,M,No education,4,0.0
+207,Ukraine,M,Primary,4,0.0
+207,Ukraine,M,Secondary,4,5.9
+277,Ukraine,M,Higher,5,6.7
+277,Ukraine,M,No education,5,0.0
+277,Ukraine,M,Primary,5,0.0
+277,Ukraine,M,Secondary,5,11.2
+347,Ukraine,M,Higher,6,1.4
+347,Ukraine,M,No education,6,0.0
+347,Ukraine,M,Primary,6,0.0
+347,Ukraine,M,Secondary,6,2.2
+418,Yemen,F,Higher,2,22.9
+418,Yemen,F,No education,2,57.6
+418,Yemen,F,Primary,2,48.4
+418,Yemen,F,Secondary,2,35.4
+138,Yemen,F,Higher,3,4.8
+138,Yemen,F,No education,3,27.3
+138,Yemen,F,Primary,3,18.4
+138,Yemen,F,Secondary,3,8.9
+68,Yemen,F,Higher,1,1.3
+68,Yemen,F,No education,1,14.3
+68,Yemen,F,Primary,1,8.2
+68,Yemen,F,Secondary,1,3.5
+208,Yemen,F,Higher,4,11.0
+208,Yemen,F,No education,4,44.7
+208,Yemen,F,Primary,4,35.1
+208,Yemen,F,Secondary,4,20.9
+278,Yemen,F,Higher,5,9.6
+278,Yemen,F,No education,5,37.6
+278,Yemen,F,Primary,5,29.8
+278,Yemen,F,Secondary,5,17.4
+348,Yemen,F,Higher,6,12.3
+348,Yemen,F,No education,6,42.0
+348,Yemen,F,Primary,6,30.2
+348,Yemen,F,Secondary,6,19.4
+418,Yemen,M,Higher,2,0.0
+418,Yemen,M,No education,2,0.0
+418,Yemen,M,Primary,2,0.0
+418,Yemen,M,Secondary,2,0.0
+138,Yemen,M,Higher,3,0.0
+138,Yemen,M,No education,3,0.0
+138,Yemen,M,Primary,3,0.0
+138,Yemen,M,Secondary,3,0.0
+68,Yemen,M,Higher,1,0.0
+68,Yemen,M,No education,1,0.0
+68,Yemen,M,Primary,1,0.0
+68,Yemen,M,Secondary,1,0.0
+208,Yemen,M,Higher,4,0.0
+208,Yemen,M,No education,4,0.0
+208,Yemen,M,Primary,4,0.0
+208,Yemen,M,Secondary,4,0.0
+278,Yemen,M,Higher,5,0.0
+278,Yemen,M,No education,5,0.0
+278,Yemen,M,Primary,5,0.0
+278,Yemen,M,Secondary,5,0.0
+348,Yemen,M,Higher,6,0.0
+348,Yemen,M,No education,6,0.0
+348,Yemen,M,Primary,6,0.0
+348,Yemen,M,Secondary,6,0.0
+419,Zambia,F,Higher,2,15.0
+419,Zambia,F,No education,2,54.1
+419,Zambia,F,Primary,2,54.6
+419,Zambia,F,Secondary,2,40.3
+139,Zambia,F,Higher,3,6.2
+139,Zambia,F,No education,3,40.2
+139,Zambia,F,Primary,3,40.5
+139,Zambia,F,Secondary,3,27.3
+69,Zambia,F,Higher,1,2.5
+69,Zambia,F,No education,1,32.3
+69,Zambia,F,Primary,1,29.5
+69,Zambia,F,Secondary,1,17.3
+209,Zambia,F,Higher,4,7.0
+209,Zambia,F,No education,4,33.8
+209,Zambia,F,Primary,4,35.9
+209,Zambia,F,Secondary,4,24.5
+279,Zambia,F,Higher,5,10.5
+279,Zambia,F,No education,5,37.2
+279,Zambia,F,Primary,5,38.8
+279,Zambia,F,Secondary,5,28.4
+349,Zambia,F,Higher,6,3.5
+349,Zambia,F,No education,6,39.2
+349,Zambia,F,Primary,6,36.7
+349,Zambia,F,Secondary,6,20.8
+419,Zambia,M,Higher,2,9.1
+419,Zambia,M,No education,2,29.9
+419,Zambia,M,Primary,2,38.8
+419,Zambia,M,Secondary,2,29.7
+139,Zambia,M,Higher,3,3.9
+139,Zambia,M,No education,3,20.0
+139,Zambia,M,Primary,3,25.2
+139,Zambia,M,Secondary,3,18.3
+69,Zambia,M,Higher,1,0.7
+69,Zambia,M,No education,1,7.1
+69,Zambia,M,Primary,1,10.4
+69,Zambia,M,Secondary,1,6.0
+209,Zambia,M,Higher,4,2.9
+209,Zambia,M,No education,4,14.0
+209,Zambia,M,Primary,4,20.9
+209,Zambia,M,Secondary,4,14.4
+279,Zambia,M,Higher,5,5.7
+279,Zambia,M,No education,5,19.3
+279,Zambia,M,Primary,5,24.1
+279,Zambia,M,Secondary,5,18.5
+349,Zambia,M,Higher,6,1.7
+349,Zambia,M,No education,6,10.9
+349,Zambia,M,Primary,6,15.2
+349,Zambia,M,Secondary,6,8.3
+420,Zimbabwe,F,Higher,2,10.0
+420,Zimbabwe,F,No education,2,55.2
+420,Zimbabwe,F,Primary,2,48.9
+420,Zimbabwe,F,Secondary,2,37.6
+140,Zimbabwe,F,Higher,3,2.4
+140,Zimbabwe,F,No education,3,26.4
+140,Zimbabwe,F,Primary,3,25.5
+140,Zimbabwe,F,Secondary,3,14.7
+70,Zimbabwe,F,Higher,1,1.1
+70,Zimbabwe,F,No education,1,17.0
+70,Zimbabwe,F,Primary,1,12.1
+70,Zimbabwe,F,Secondary,1,7.1
+210,Zimbabwe,F,Higher,4,2.9
+210,Zimbabwe,F,No education,4,35.0
+210,Zimbabwe,F,Primary,4,31.2
+210,Zimbabwe,F,Secondary,4,21.6
+280,Zimbabwe,F,Higher,5,4.6
+280,Zimbabwe,F,No education,5,33.3
+280,Zimbabwe,F,Primary,5,26.3
+280,Zimbabwe,F,Secondary,5,21.1
+350,Zimbabwe,F,Higher,6,3.9
+350,Zimbabwe,F,No education,6,28.5
+350,Zimbabwe,F,Primary,6,22.1
+350,Zimbabwe,F,Secondary,6,12.4
+420,Zimbabwe,M,Higher,2,13.7
+420,Zimbabwe,M,No education,2,45.4
+420,Zimbabwe,M,Primary,2,40.1
+420,Zimbabwe,M,Secondary,2,33.3
+140,Zimbabwe,M,Higher,3,4.3
+140,Zimbabwe,M,No education,3,22.0
+140,Zimbabwe,M,Primary,3,19.8
+140,Zimbabwe,M,Secondary,3,13.5
+70,Zimbabwe,M,Higher,1,1.3
+70,Zimbabwe,M,No education,1,9.4
+70,Zimbabwe,M,Primary,1,8.9
+70,Zimbabwe,M,Secondary,1,5.6
+210,Zimbabwe,M,Higher,4,4.7
+210,Zimbabwe,M,No education,4,37.8
+210,Zimbabwe,M,Primary,4,23.2
+210,Zimbabwe,M,Secondary,4,17.8
+280,Zimbabwe,M,Higher,5,8.2
+280,Zimbabwe,M,No education,5,30.5
+280,Zimbabwe,M,Primary,5,23.6
+280,Zimbabwe,M,Secondary,5,18.0
+350,Zimbabwe,M,Higher,6,2.9
+350,Zimbabwe,M,No education,6,16.2
+350,Zimbabwe,M,Primary,6,8.6
+350,Zimbabwe,M,Secondary,6,5.5
